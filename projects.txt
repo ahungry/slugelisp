@@ -47,7 +47,7 @@ afternoon-theme git git://github.com/osener/emacs-afternoon-theme.git
 ag git git://github.com/Wilfred/ag.el :fetcher github.git
 aggressive-fill-paragraph git git://github.com/davidshepherd7/aggressive-fill-paragraph-mode.git
 aggressive-indent git git://github.com/Malabarba/aggressive-indent-mode :fetcher github.git
-ahk-mode git git://github.com/ralesi/ahk-mode.git
+ahk-mode git git://github.com/ralesi/ahk-mode.git
 ahungry-theme git git://github.com/ahungry/color-theme-ahungry.git
 airline-themes git git://github.com/AnthonyDiGirolamo/airline-themes.git
 airplay git git://github.com/gongo/airplay-el.git
@@ -249,10 +249,10 @@ cil-mode git git://github.com/ForNeVeR/cil-mode.git
 circe git git://github.com/jorgenschaefer/circe :fetcher github.git
 clean-aindent-mode git git://github.com/pmarinov/clean-aindent-mode.git
 clevercss git git://github.com/jschaf/CleverCSS-Mode.git
-clipmon git git://github.com/bburns/clipmon.git
+clipmon git git://github.com/bburns/clipmon.git
 clippy git git://github.com/Fuco1/clippy.el.git
 clips-mode git git://github.com/grettke/clips-mode.git
-clj-refactor git git://github.com/magnars/clj-refactor.el.git
+clj-refactor git git://github.com/magnars/clj-refactor.el.git
 cljr-helm git git://github.com/philjackson/cljr-helm.git
 cljsbuild-mode git git://github.com/kototama/cljsbuild-mode.git
 cl-lib-highlight git git://github.com/skeeto/cl-lib-highlight.git
@@ -586,7 +586,7 @@ eshell-prompt-extras git git://github.com/kaihaosw/eshell-prompt-extras.git
 esh-help git git://github.com/tom-tan/esh-help :fetcher github.git
 es-lib git git://github.com/sabof/es-lib.git
 es-mode git git://github.com/dakrone/es-mode.git
-espresso-theme git git://github.com/dgutov/espresso-theme :fetcher github.git
+espresso-theme git git://github.com/dgutov/espresso-theme :fetcher github.git
 espuds git git://github.com/ecukes/espuds :fetcher github.git
 esqlite git git://github.com/mhayashi1120/Emacs-esqlite.git
 esqlite-helm git git://github.com/mhayashi1120/Emacs-esqlite.git
@@ -617,7 +617,7 @@ evil-indent-textobject git git://github.com/cofi/evil-indent-textobject.git
 evil-jumper git git://github.com/bling/evil-jumper :fetcher github.git
 evil-leader git git://github.com/cofi/evil-leader :fetcher github.git
 evil-lisp-state git git://github.com/syl20bnr/evil-lisp-state :fetcher github.git
-evil-mark-replace git git://github.com/redguardtoo/evil-mark-replace.git
+evil-mark-replace git git://github.com/redguardtoo/evil-mark-replace.git
 evil-matchit git git://github.com/redguardtoo/evil-matchit.git
 evil-nerd-commenter git git://github.com/redguardtoo/evil-nerd-commenter.git
 evil-numbers git git://github.com/cofi/evil-numbers :fetcher github.git
@@ -968,7 +968,7 @@ helm-proc git git://github.com/markus1189/helm-proc :fetcher github.git
 helm-projectile git git://github.com/bbatsov/projectile.git
 helm-project-persist git git://github.com/Sliim/helm-project-persist.git
 helm-prosjekt git git://github.com/abingham/prosjekt.git
-helm-pt git git://github.com/ralesi/helm-pt.git
+helm-pt git git://github.com/ralesi/helm-pt.git
 helm-pydoc git git://github.com/syohex/emacs-helm-pydoc.git
 helm-R git git://github.com/emacs-helm/helm-R.git
 helm-rails git git://github.com/asok/helm-rails :files helm-rails.el.git
@@ -1958,7 +1958,7 @@ sqlite git git://github.com/cnngimenez/sqlite.el.git
 sqlup-mode git git://github.com/trevoke/sqlup-mode.el.git
 srefactor git git://github.com/tuhdo/semantic-refactor.git
 ssh git git://github.com/ieure/ssh-el.git
-ssh-agency git git://github.com/magit/ssh-agency.git
+ssh-agency git git://github.com/magit/ssh-agency.git
 ssh-config-mode git git://github.com/jhgorrell/ssh-config-mode-el.git
 ssh-tunnels git git://github.com/death/ssh-tunnels.git
 standoff-mode git git://github.com/lueck/standoff-mode.git
