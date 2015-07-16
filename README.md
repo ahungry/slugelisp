@@ -1,29 +1,14 @@
 # slugelisp
 
-Web based index of Quicklisp projects
+Web based index of Melpa projects
 
 Currently only works for projects hosted on github.
-
-I plan to add additional features, from popularity integration of
-packages to some .asd file exports you will be able to generate via
-checkboxes next to the package names.
 
 ## Usage
 
 Visit the live demo at http://slugelisp.ahungry.com for now.
 
-When the project is complete, plan to load via a simple:
-
-```lisp
-(ql:quickload :slugelisp)
-(slugelisp:start :port 5000)
-```
-
-And then visit:
-
-http://localhost:5000
-
-For now (or then) scroll up and down the left pane and click on a
+Scroll up and down the left pane and click on a
 project to learn more about it.
 
 ## Installation
