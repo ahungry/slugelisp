@@ -1,0 +1,61 @@
+# sourcegraph-mode [![Build Status](https://travis-ci.org/sourcegraph/emacs-sourcegraph-mode.png?branch=master)](https://travis-ci.org/sourcegraph/emacs-sourcegraph-mode)
+
+**WORK IN PROGRESS**
+
+Emacs mode for Sourcegraph, powered by srclib, for automatically configured, high-quality programming language support in Emacs. Currently provides:
+
+* documentation lookups
+* type information
+* find usages (across all open-source projects globally)
+
+for any language srclib supports, currently:
+
+* Go
+* JavaScript (Node.js)
+* Python
+* Ruby
+
+
+Check out the screenshots below, and the
+[screencast on YouTube](https://www.youtube.com/watch?v=cm59qQD6khs).
+
+![screenshot](https://s3-us-west-2.amazonaws.com/sourcegraph-assets/emacs-sourcegraph-mode-screenshot-0.png)
+
+![screenshot](https://s3-us-west-2.amazonaws.com/sourcegraph-assets/emacs-sourcegraph-mode-screenshot-1.png)
+
+## Installation
+First, make sure you've [installed srclib](../gettingstarted.md#install-srclib), along with the toolchains for the programming
+languages you're using. Once srclib is installed, you can install the emacs plugin by navigating to your `.emacs.d`
+directory and cloning the repository.
+
+```bash
+cd ~/.emacs.d
+git clone https://github.com/sourcegraph/emacs-sourcegraph-mode.git
+```
+
+To install the plugin, append the following code to `~/.emacs.d/init.el`.
+```lisp
+(add-to-list 'load-path "~/.emacs.d/emacs-sourcegraph-mode")
+(require 'sourcegraph-mode)
+```
+
+Sourcegraph-mode can be enabled in a buffer with M-x, then typing `sourcegraph-mode`.
+
+Docs and type info are retrieved locally if possible; otherwise they are fetched
+from [Sourcegraph.com](https://sourcegraph.com). Examples are always fetched
+from [Sourcegraph.com](https://sourcegraph.com).
+
+## Security
+
+Your local code is never uploaded to Sourcegraph, but the "definition paths" of
+things you look up are sent (to retrieve examples from the Sourcegraph API). The
+definition paths include the following information about the definition under
+your cursor (but do not include any source code):
+
+* repository URI (e.g., "github.com/user/repo")
+* package name (e.g., "foo" for an npm package named "foo")
+* scope path (e.g., `MyClass.prototype.foo` for a JavaScript `foo` method on `MyClass`)
+
+## License
+
+sourcegraph-mode uses a BSD-style license. See LICENSE for more details.
