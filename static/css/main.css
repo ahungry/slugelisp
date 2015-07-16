@@ -1,0 +1,176 @@
+@charset "UTF-8";
+
+body {
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+
+a:link {
+  color: #005585;
+  text-decoration: none;
+}
+a:visited {
+  color: #485270;
+}
+a:hover {
+  color: #b83800;
+  text-decoration: underline;
+}
+
+.tip {
+    display:block;
+    float:left;
+    font-style:italic;
+    padding:4px;
+    text-align:justify;
+    width:150px;
+}
+
+.legend {
+    background:#333;
+    border-radius:9px;
+    color:lime;
+    padding:6px;
+    text-align:center;
+}
+
+#main {
+  text-align: left;
+}
+
+#filter-area {
+    font-size:.9em;
+    width:30%;
+    background:#fff;
+    padding:0px;
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index:9;
+    text-align:left;
+    margin-right:10px;
+    height:180px;
+    padding:10px;
+}
+
+#plist {
+    background:#fff;
+    left:0px;
+    top:0px;
+    position:fixed;
+    height:100%;
+    overflow-y:scroll;
+    width:30%;
+    margin-top:180px;
+}
+
+#plist input {
+    width:40%;
+}
+
+#plist button {
+    width:15%;
+}
+
+#plist-table {
+    width:100%;
+}
+
+#plist table tr th {
+    background:#666;
+    color:#fff;
+    cursor:pointer;
+}
+
+
+#plist table tr td {
+    padding:4px;
+}
+
+#package-details {
+    float:left;
+    padding:5%;
+    padding-left:32%;
+    padding-top:0%;
+    width:100%;
+}
+
+.readme {
+    color:#009933;
+}
+
+.type {
+    background:maroon;
+    border-radius:8px;
+    color:#fff;
+    display:none;
+    font-size:.8em;
+    opacity:.5;
+    padding:2px;
+    margin-left:4px;
+}
+
+.noinfo {
+    opacity:.3;
+}
+
+.star-area {
+    background:#333;
+    padding:10px;
+}
+
+.stars {
+    color:#fff;
+    font-size:2em;
+}
+
+.starlabel {
+    color:#3399ff;
+    font-size:2em;
+    padding-right:20px;
+    text-shadow:3px 3px 6px #000;
+}
+
+.clone {
+    background:#333;
+    color:#fff;
+    display:block;
+    margin-bottom:5px;
+    padding:10px;
+}
+
+@media (max-width:799px) {
+    #plist {
+        border-bottom:2px solid #bbb;
+        box-shadow:3px 3px 6px #000 inset;
+        height:200px;
+        position:absolute;
+        width:100%;
+        margin-top:150px;
+    }
+    #plist table {
+        width:100%;
+    }
+    #plist table a {
+        background:#ccc;
+        display:inline-block;
+        padding:10px;
+        padding-left:30px;
+        padding-right:30px;
+        width:90%;
+    }
+    #package-details {
+        padding:10px;
+        padding-top:400px;
+    }
+    #filter-area {
+        height:150px;
+        width:100%;
+    }
+    #filter-area input {
+        width:50%;
+    }
+    hr {
+        margin:0px;
+        padding:0px;
+    }
+}
