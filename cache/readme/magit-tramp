@@ -1,0 +1,20 @@
+Git method for Tramp
+
+very experimental, don't rely on it
+
+examples of use:
+
+    (eval-after-load 'magit-tramp
+      '(add-to-list 'magit-tramp-hosts-alist (cons "magit"
+                                              (expand-file-name
+                                               "/Data/yann/Projects/git/magit/"))))
+
+    (find-file "/git:HEAD@magit:/COPYING")
+    
+    (find-file "/git:HEAD@magit:/")
+    
+    (find-file "/git:master@magit:/")
+    
+    (find-file "/git:maint~42@magit:/")
+
+    (ediff-directories "/git:maint@magit:/" "/git:master@magit:/" nil)

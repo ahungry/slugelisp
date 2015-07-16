@@ -1,0 +1,33 @@
+                              el-sprunge
+          command line paste server with Emacs highlighting
+
+Run the server with the following.
+
+    make start
+
+Optionally set a number of properties of the server through
+environment variables passed to make.
+
+The following environment variables are recognized.
+
+    EMACS ---- change the Emacs executable used to run the server
+    PORT ----- port on which the server will listen for connections
+    SERVER --- server name
+    THEME ---- Emacs color theme used for fontified pastes
+    DOCROOT -- directory in which to store pastes
+
+Requires Emacs 24.3, my Emacs Web Server [1], and Htmlize [2].
+    [1] https://github.com/eschulte/emacs-web-server
+    [2] http://fly.srk.fer.hr/~hniksic/emacs/htmlize.el.cgi
+
+The `el-sprunge-after-save-hook' may be used to run actions on every
+pasted file.  For example evaluating the following in the running
+Emacs server commits every new paste to a version control repository.
+
+    (require 'vc)
+    (defun el-sprunge-vc-add ()
+      (ignore-errors
+        (let ((file (buffer-file-name (current-buffer))))
+          (unless (vc-backend file) (vc-register))
+          (vc-checkin (list file) (vc-backend file) nil "a paste"))))
+    (add-hook 'el-sprunge-after-save-hook 'el-sprunge-vc-add)
