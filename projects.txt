@@ -3,89 +3,89 @@
 abc-mode git git://github.com/mkjunker/abc-mode.git
 abl-mode git git://github.com/afroisalreadyinu/abl-mode.git
 ac-anaconda git git://github.com/proofit404/ac-anaconda.git
-ac-cake git git://github.com/k1LoW/emacs-ac-cake :fetcher github.git
-ac-cake2 git git://github.com/k1LoW/emacs-ac-cake2 :fetcher github.git
+ac-cake git git://github.com/k1LoW/emacs-ac-cake 
+ac-cake2 git git://github.com/k1LoW/emacs-ac-cake2 
 ac-capf git git://github.com/syohex/emacs-ac-capf.git
-ac-c-headers git git://github.com/zk-phi/ac-c-headers :fetcher github.git
+ac-c-headers git git://github.com/zk-phi/ac-c-headers 
 ac-cider git git://github.com/clojure-emacs/ac-cider.git
-ac-clang git git://github.com/yaruopooner/ac-clang :fetcher github.git
-ac-dcd git git://github.com/atilaneves/ac-dcd :fetcher github.git
+ac-clang git git://github.com/yaruopooner/ac-clang 
+ac-dcd git git://github.com/atilaneves/ac-dcd 
 ace-flyspell git git://github.com/cute-jumper/ace-flyspell.git
-ace-isearch git git://github.com/tam17aki/ace-isearch :fetcher github.git
-ace-jump-buffer git git://github.com/waymondo/ace-jump-buffer :fetcher github.git
+ace-isearch git git://github.com/tam17aki/ace-isearch 
+ace-jump-buffer git git://github.com/waymondo/ace-jump-buffer 
 ace-jump-helm-line git git://github.com/cute-jumper/ace-jump-helm-line.git
 ace-jump-mode git git://github.com/winterTTr/ace-jump-mode.git
-ace-jump-zap git git://github.com/waymondo/ace-jump-zap :fetcher github.git
+ace-jump-zap git git://github.com/waymondo/ace-jump-zap 
 ace-link git git://github.com/abo-abo/ace-link.git
-ac-emmet git git://github.com/yasuyk/ac-emmet :fetcher github.git
+ac-emmet git git://github.com/yasuyk/ac-emmet 
 ace-pinyin git git://github.com/cute-jumper/ace-pinyin.git
-ace-popup-menu git git://github.com/mrkkrp/ace-popup-menu :fetcher github.git
+ace-popup-menu git git://github.com/mrkkrp/ace-popup-menu 
 ac-etags git git://github.com/syohex/emacs-ac-etags.git
 ace-window git git://github.com/abo-abo/ace-window.git
 ac-geiser git git://github.com/xiaohanyu/ac-geiser.git
 ac-haskell-process git git://github.com/purcell/ac-haskell-process.git
-ac-helm git git://github.com/yasuyk/ac-helm :fetcher github.git
-ac-html git git://github.com/cheunghy/ac-html :fetcher github.git
+ac-helm git git://github.com/yasuyk/ac-helm 
+ac-html git git://github.com/cheunghy/ac-html 
 ac-html-bootstrap git git://github.com/osv/ac-html-bootstrap.git
 ac-html-csswatcher git git://github.com/osv/ac-html-csswatcher.git
 ac-inf-ruby git git://github.com/purcell/ac-inf-ruby.git
 ac-ispell git git://github.com/syohex/emacs-ac-ispell.git
 ac-js2 git git://github.com/ScottyB/ac-js2.git
-ack-menu git git://github.com/chumpage/ack-menu :fetcher github.git
-ac-math git git://github.com/vitoshka/ac-math :fetcher github :files ac-math.el.git
+ack-menu git git://github.com/chumpage/ack-menu 
+ac-math git git://github.com/vitoshka/ac-math 
 ac-mozc git git://github.com/igjit/ac-mozc.git
 ac-octave git git://github.com/coldnew/ac-octave.git
-ac-php git git://github.com/xcwen/ac-php :fetcher github :files :defaults phpctags.git
+ac-php git git://github.com/xcwen/ac-php 
 ac-skk git git://github.com/myuhe/ac-skk.el.git
-ac-slime git git://github.com/purcell/ac-slime :fetcher github.git
+ac-slime git git://github.com/purcell/ac-slime 
 ac-sly git git://github.com/qoocku/ac-sly.git
 actionscript-mode git git://github.com/austinhaas/actionscript-mode.git
 addressbook-bookmark git git://github.com/thierryvolpiatto/addressbook-bookmark.git
-adoc-mode git git://github.com/sensorflo/adoc-mode :files adoc-mode.el.git
-aes git git://github.com/Sauermann/emacs-aes :fetcher github.git
+adoc-mode git git://github.com/sensorflo/adoc-mode 
+aes git git://github.com/Sauermann/emacs-aes 
 afternoon-theme git git://github.com/osener/emacs-afternoon-theme.git
-ag git git://github.com/Wilfred/ag.el :fetcher github.git
+ag git git://github.com/Wilfred/ag.el 
 aggressive-fill-paragraph git git://github.com/davidshepherd7/aggressive-fill-paragraph-mode.git
-aggressive-indent git git://github.com/Malabarba/aggressive-indent-mode :fetcher github.git
+aggressive-indent git git://github.com/Malabarba/aggressive-indent-mode 
 ahk-mode git git://github.com/ralesi/ahk-mode.git
 ahungry-theme git git://github.com/ahungry/color-theme-ahungry.git
 airline-themes git git://github.com/AnthonyDiGirolamo/airline-themes.git
 airplay git git://github.com/gongo/airplay-el.git
 alchemist git git://github.com/tonini/alchemist.el.git
-alect-themes git git://github.com/alezost/alect-themes :fetcher github.git
+alect-themes git git://github.com/alezost/alect-themes 
 alert git git://github.com/jwiegley/alert.git
-align-cljlet git git://github.com/gstamp/align-cljlet :fetcher github.git
+align-cljlet git git://github.com/gstamp/align-cljlet 
 amd-mode git git://github.com/NicolasPetton/amd-mode.el.git
 ample-regexps git git://github.com/immerrr/ample-regexps.el.git
 ample-theme git git://github.com/jordonbiondo/ample-theme.git
 ample-zen-theme git git://github.com/mjwall/ample-zen.git
 anaconda-mode git git://github.com/proofit404/anaconda-mode.git
-anaphora git git://github.com/rolandwalker/anaphora :fetcher github.git
+anaphora git git://github.com/rolandwalker/anaphora 
 android-mode git git://github.com/remvee/android-mode.git
 angry-police-captain git git://github.com/rolando2424/angry-police-captain-el.git
 angular-snippets git git://github.com/magnars/angular-snippets.el.git
 annotate git git://github.com/bastibe/annotate.el.git
 annoying-arrows-mode git git://github.com/magnars/annoying-arrows-mode.el.git
-ansi git git://github.com/rejeep/ansi :fetcher github.git
-ansible git git://github.com/k1LoW/emacs-ansible :files *.el snippets dict.git
-ansible-doc git git://github.com/lunaryorn/ansible-doc.el :fetcher github.git
+ansi git git://github.com/rejeep/ansi 
+ansible git git://github.com/k1LoW/emacs-ansible 
+ansible-doc git git://github.com/lunaryorn/ansible-doc.el 
 ant git git://github.com/apgwoz/ant-el.git
-anti-zenburn-theme git git://github.com/m00natic/anti-zenburn-theme :fetcher github.git
+anti-zenburn-theme git git://github.com/m00natic/anti-zenburn-theme 
 anx-api git git://github.com/rmloveland/emacs-appnexus-api.git
 anyins git git://github.com/antham/anyins.git
-anything-exuberant-ctags git git://github.com/k1LoW/anything-exuberant-ctags :fetcher github.git
+anything-exuberant-ctags git git://github.com/k1LoW/anything-exuberant-ctags 
 anything-git-files git git://github.com/tarao/anything-git-files-el.git
 anything-git-grep git git://github.com/mechairoi/anything-git-grep.git
 anything-milkode git git://github.com/ongaeshi/anything-milkode.git
 anything-project git git://github.com/imakado/anything-project.git
 anything-prosjekt git git://github.com/abingham/prosjekt.git
-anything-replace-string git git://github.com/k1LoW/anything-replace-string :fetcher github.git
+anything-replace-string git git://github.com/k1LoW/anything-replace-string 
 anything-sage git git://github.com/stakemori/anything-sage.git
 anzu git git://github.com/syohex/emacs-anzu.git
 aozora-view git git://github.com/kawabata/aozora-view.git
 apel git git://github.com/wanderlust/apel.git
 applescript-mode git git://github.com/ieure/applescript-mode.git
-apples-mode git git://github.com/tequilasunset/apples-mode :files *.el apples-mode.git
+apples-mode git git://github.com/tequilasunset/apples-mode 
 aproject git git://github.com/vietor/aproject.git
 apropospriate-theme git git://github.com/waymondo/apropospriate-theme.git
 apt-utils-ido git git://github.com/vapniks/apt-utils-ido.git
@@ -94,25 +94,25 @@ ariadne git git://github.com/manzyuk/ariadne-el.git
 artbollocks-mode git git://github.com/sachac/artbollocks-mode.git
 asilea git git://github.com/Fanael/asilea.git
 asn1-mode git git://github.com/kawabata/asn1-mode.git
-async git git://github.com/jwiegley/emacs-async :fetcher github.git
+async git git://github.com/jwiegley/emacs-async 
 atom-dark-theme git git://github.com/whitlockjc/atom-dark-theme-emacs.git
 atom-one-dark-theme git git://github.com/jonathanchu/atom-one-dark-theme.git
-auctex-latexmk git git://github.com/tom-tan/auctex-latexmk :fetcher github.git
-auctex-lua git git://github.com/vermiculus/auctex-lua :fetcher github.git
-audio-notes-mode git git://github.com/Malabarba/audio-notes-mode :fetcher github.git
-aurel git git://github.com/alezost/aurel :fetcher github.git
+auctex-latexmk git git://github.com/tom-tan/auctex-latexmk 
+auctex-lua git git://github.com/vermiculus/auctex-lua 
+audio-notes-mode git git://github.com/Malabarba/audio-notes-mode 
+aurel git git://github.com/alezost/aurel 
 aurora-config-mode git git://github.com/bdd/aurora-config.el.git
 auth-password-store git git://github.com/DamienCassou/auth-password-store.git
 auto-auto-indent git git://github.com/sabof/auto-auto-indent.git
 autobookmarks git git://github.com/Fuco1/autobookmarks.git
-auto-compile git git://github.com/tarsius/auto-compile :fetcher github.git
-auto-complete git git://github.com/auto-complete/auto-complete :fetcher github :files.git
+auto-compile git git://github.com/tarsius/auto-compile 
+auto-complete git git://github.com/auto-complete/auto-complete 
 auto-complete-auctex git git://github.com/monsanto/auto-complete-auctex.git
 auto-complete-c-headers git git://github.com/mooz/auto-complete-c-headers.git
 auto-complete-chunk git git://github.com/tkf/auto-complete-chunk.git
 auto-complete-clang git git://github.com/brianjcj/auto-complete-clang.git
 auto-complete-clang-async git git://github.com/Golevka/emacs-clang-complete-async.git
-auto-complete-exuberant-ctags git git://github.com/k1LoW/auto-complete-exuberant-ctags :fetcher github.git
+auto-complete-exuberant-ctags git git://github.com/k1LoW/auto-complete-exuberant-ctags 
 auto-complete-nxml git git://github.com/aki2o/auto-complete-nxml.git
 auto-complete-pcmp git git://github.com/aki2o/auto-complete-pcmp.git
 auto-complete-rst git git://github.com/tkf/auto-complete-rst.git
@@ -121,13 +121,13 @@ auto-dictionary git git://github.com/nschum/auto-dictionary-mode.git
 auto-dim-other-buffers git git://github.com/mina86/auto-dim-other-buffers.el.git
 autodisass-java-bytecode git git://github.com/gbalats/autodisass-java-bytecode.git
 autodisass-llvm-bitcode git git://github.com/gbalats/autodisass-llvm-bitcode.git
-auto-highlight-symbol git git://github.com/gennad/auto-highlight-symbol :fetcher github.git
+auto-highlight-symbol git git://github.com/gennad/auto-highlight-symbol 
 auto-indent-mode git git://github.com/mlf176f2/auto-indent-mode.el.git
 automargin git git://github.com/zk-phi/automargin.git
 auto-package-update git git://github.com/rranelli/auto-package-update.el.git
 autopair git git://github.com/capitaomorte/autopair.git
-auto-save-buffers-enhanced git git://github.com/kentaro/auto-save-buffers-enhanced :fetcher github.git
-auto-shell-command git git://github.com/ongaeshi/auto-shell-command :fetcher github.git
+auto-save-buffers-enhanced git git://github.com/kentaro/auto-save-buffers-enhanced 
+auto-shell-command git git://github.com/ongaeshi/auto-shell-command 
 autotest git git://github.com/zenspider/elisp.git
 autotetris-mode git git://github.com/skeeto/autotetris-mode.git
 auto-yasnippet git git://github.com/abo-abo/auto-yasnippet.git
@@ -136,42 +136,42 @@ avy git git://github.com/abo-abo/avy.git
 avy-zap git git://github.com/cute-jumper/avy-zap.git
 babel git git://github.com/juergenhoetzel/babel.git
 babel-repl git git://github.com/hung-phan/babel-repl.git
-back-button git git://github.com/rolandwalker/back-button :fetcher github.git
+back-button git git://github.com/rolandwalker/back-button 
 backup-walker git git://github.com/lewang/backup-walker.git
 badger-theme git git://github.com/ccann/badger-theme.git
-base16-theme git git://github.com/mkaito/base16-emacs :fetcher github.git
+base16-theme git git://github.com/mkaito/base16-emacs 
 bash-completion git git://github.com/szermatt/emacs-bash-completion.git
 basic-theme git git://github.com/fgeller/basic-theme.el.git
-bats-mode git git://github.com/dougm/bats-mode :fetcher github.git
+bats-mode git git://github.com/dougm/bats-mode 
 bbcode-mode git git://github.com/ejmr/bbcode-mode.git
 bbdb- git git://github.com/aki2o/bbdb-.git
-bbdb2erc git git://github.com/unhammer/bbdb2erc :fetcher github.git
+bbdb2erc git git://github.com/unhammer/bbdb2erc 
 bbdb-android git git://github.com/tumashu/bbdb-android.git
 bbdb-china git git://github.com/tumashu/bbdb-china.git
 bbdb-ext git git://github.com/vapniks/bbdb-ext.git
 bbdb-handy git git://github.com/tumashu/bbdb-handy.git
 bbdb-vcard git git://github.com/tohojo/bbdb-vcard.git
 bbyac git git://github.com/baohaojun/bbyac.git
-bdo git git://github.com/chrisdone/bdo :files bdo.el bdo.js.git
+bdo git git://github.com/chrisdone/bdo 
 beeminder git git://github.com/sodaware/beeminder.el.git
 beginend git git://github.com/DamienCassou/beginend.git
 benchmark-init git git://github.com/dholm/benchmark-init-el.git
 bert git git://github.com/manzyuk/bert-el.git
 better-defaults git git://github.com/technomancy/better-defaults.git
 bf-mode git git://github.com/emacs-jp/bf-mode.git
-bibretrieve git git://github.com/pzorin/bibretrieve :fetcher github.git
+bibretrieve git git://github.com/pzorin/bibretrieve 
 bibslurp git git://github.com/mkmcc/bibslurp.git
 bind-key git git://github.com/jwiegley/use-package.git
 bing-dict git git://github.com/cute-jumper/bing-dict.el.git
 birds-of-paradise-plus-theme git git://github.com/jimeh/birds-of-paradise-plus-theme.el.git
-bison-mode git git://github.com/Wilfred/bison-mode :fetcher github.git
+bison-mode git git://github.com/Wilfred/bison-mode 
 bitlbee git git://github.com/pjones/elisp.git
 bitly git git://github.com/jorgenschaefer/bitly-el.git
-blgrep git git://github.com/ataka/blgrep :fetcher github.git
+blgrep git git://github.com/ataka/blgrep 
 bliss-theme git git://github.com/emacsfodder/emacs-bliss-theme.git
-bm git git://github.com/joodland/bm :fetcher github.git
+bm git git://github.com/joodland/bm 
 bog git git://github.com/kyleam/bog.git
-bongo git git://github.com/dbrock/bongo :fetcher github .git
+bongo git git://github.com/dbrock/bongo 
 bonjourmadame git git://github.com/pierre-lecocq/bonjourmadame.git
 boogie-friends git git://github.com/boogie-org/boogie-friends.git
 boon git git://github.com/jyp/boon.git
@@ -181,55 +181,55 @@ bpe git git://github.com/yuutayamada/bpe.git
 bracketed-paste git git://github.com/hchbaw/bracketed-paste.el.git
 brainfuck-mode git git://github.com/tom-tan/brainfuck-mode.git
 broadcast git git://github.com/killdash9/broadcast.el.git
-browse-at-remote git git://github.com/rmuslimov/browse-at-remote :fetcher github.git
-browse-kill-ring git git://github.com/browse-kill-ring/browse-kill-ring :fetcher github.git
-browse-url-dwim git git://github.com/rolandwalker/browse-url-dwim :fetcher github.git
-btc-ticker git git://github.com/niedbalski/emacs-btc-ticker :old-names mtgox.git
+browse-at-remote git git://github.com/rmuslimov/browse-at-remote 
+browse-kill-ring git git://github.com/browse-kill-ring/browse-kill-ring 
+browse-url-dwim git git://github.com/rolandwalker/browse-url-dwim 
+btc-ticker git git://github.com/niedbalski/emacs-btc-ticker
 bts git git://github.com/aki2o/emacs-bts.git
 bts-github git git://github.com/aki2o/emacs-bts-github.git
 bubbleberry-theme git git://github.com/jasonm23/emacs-bubbleberry-theme.git
 buffer-buttons git git://github.com/rpav/buffer-buttons.git
 buffer-move git git://github.com/lukhas/buffer-move.git
-buffer-utils git git://github.com/rolandwalker/buffer-utils :fetcher github.git
-bufshow git git://github.com/pjones/bufshow :files lisp/*.el.git
+buffer-utils git git://github.com/rolandwalker/buffer-utils 
+bufshow git git://github.com/pjones/bufshow 
 bug-reference-github git git://github.com/arnested/bug-reference-github.git
-bundler git git://github.com/tobiassvn/bundler.el :fetcher github.git
+bundler git git://github.com/tobiassvn/bundler.el 
 bury-successful-compilation git git://github.com/EricCrosson/bury-successful-compilation.git
 buster-mode git git://github.com/magnars/buster-mode.git
 buster-snippets git git://github.com/magnars/buster-snippets.el.git
 busybee-theme git git://github.com/mswift42/busybee-theme.git
 butler git git://github.com/AshtonKem/Butler.git
 buttercup git git://github.com/jorgenschaefer/emacs-buttercup.git
-button-lock git git://github.com/rolandwalker/button-lock :fetcher github :files button-lock.el.git
+button-lock git git://github.com/rolandwalker/button-lock 
 cache git git://github.com/nflath/cache.git
 cacoo git git://github.com/kiwanami/emacs-cacoo.git
-cake git git://github.com/k1LoW/emacs-cake :files *.el snippets.git
-cake2 git git://github.com/k1LoW/emacs-cake2 :files *.el snippets.git
+cake git git://github.com/k1LoW/emacs-cake 
+cake2 git git://github.com/k1LoW/emacs-cake2 
 cake-inflector git git://github.com/k1LoW/emacs-cake-inflector.git
 calfw git git://github.com/kiwanami/emacs-calfw.git
-calfw-gcal git git://github.com/myuhe/calfw-gcal.el :files *.el *.py.git
-calmer-forest-theme git git://github.com/caldwell/calmer-forest-theme :fetcher github.git
-camcorder git git://github.com/Malabarba/camcorder.el :fetcher github.git
+calfw-gcal git git://github.com/myuhe/calfw-gcal.el 
+calmer-forest-theme git git://github.com/caldwell/calmer-forest-theme 
+camcorder git git://github.com/Malabarba/camcorder.el 
 capture git git://github.com/pashinin/capture.el.git
-cask git git://github.com/cask/cask :fetcher github :old-names carton.git
+cask git git://github.com/cask/cask 
 cask-package-toolset git git://github.com/AdrieanKhisbe/cask-package-toolset.el.git
 caskxy git git://github.com/aki2o/caskxy.git
-cbm git git://github.com/akermu/cbm.el :fetcher github.git
+cbm git git://github.com/akermu/cbm.el 
 ccc git git://github.com/skk-dev/ddskk.git
-cd-compile git git://github.com/jamienicol/emacs-cd-compile :fetcher github.git
+cd-compile git git://github.com/jamienicol/emacs-cd-compile 
 cdlatex git git://github.com/cdominik/cdlatex.git
 cdnjs git git://github.com/yasuyk/cdnjs.el.git
 cedit git git://github.com/zk-phi/cedit.git
-c-eldoc git git://github.com/nflath/c-eldoc :fetcher github.git
-centered-window-mode git git://github.com/ikame/centered-window-mode :fetcher github.git
+c-eldoc git git://github.com/nflath/c-eldoc 
+centered-window-mode git git://github.com/ikame/centered-window-mode 
 centimacro git git://github.com/abo-abo/centimacro.git
 cerbere git git://github.com/nlamirault/cerbere.git
-cfengine-code-style git git://github.com/cfengine/core :fetcher github.git
-change-inner git git://github.com/magnars/change-inner.el :fetcher github.git
+cfengine-code-style git git://github.com/cfengine/core 
+change-inner git git://github.com/magnars/change-inner.el 
 charmap git git://github.com/lateau/charmap.git
-chatwork git git://github.com/ataka/chatwork :fetcher github.git
-checkbox git git://github.com/camdez/checkbox.el :fetcher github.git
-chef-mode git git://github.com/mpasternacki/chef-mode :fetcher github.git
+chatwork git git://github.com/ataka/chatwork 
+checkbox git git://github.com/camdez/checkbox.el 
+chef-mode git git://github.com/mpasternacki/chef-mode 
 cherry-blossom-theme git git://github.com/inlinestyle/emacs-cherry-blossom-theme.git
 chicken-scheme git git://github.com/dleslie/chicken-scheme.el.git
 chinese-fonts-setup git git://github.com/tumashu/chinese-fonts-setup.git
@@ -239,14 +239,14 @@ chinese-wbim git git://github.com/andyque/chinese-wbim.git
 chinese-word-at-point git git://github.com/xuchunyang/chinese-word-at-point.el.git
 chinese-yasdcv git git://github.com/tumashu/chinese-yasdcv.git
 chronos git git://github.com/dxknight/chronos.git
-chruby git git://github.com/plexus/chruby.el :fetcher github.git
+chruby git git://github.com/plexus/chruby.el 
 cider git git://github.com/clojure-emacs/cider.git
 cider-decompile git git://github.com/clojure-emacs/cider-decompile.git
-cider-eval-sexp-fu git git://github.com/clojure-emacs/cider-eval-sexp-fu :fetcher github.git
+cider-eval-sexp-fu git git://github.com/clojure-emacs/cider-eval-sexp-fu 
 cider-profile git git://github.com/thunknyc/nrepl-profile.git
 cider-spy git git://github.com/jonpither/cider-spy.git
 cil-mode git git://github.com/ForNeVeR/cil-mode.git
-circe git git://github.com/jorgenschaefer/circe :fetcher github.git
+circe git git://github.com/jorgenschaefer/circe 
 clean-aindent-mode git git://github.com/pmarinov/clean-aindent-mode.git
 clevercss git git://github.com/jschaf/CleverCSS-Mode.git
 clipmon git git://github.com/bburns/clipmon.git
@@ -256,56 +256,56 @@ clj-refactor git git://github.com/magnars/clj-refactor.el.git
 cljr-helm git git://github.com/philjackson/cljr-helm.git
 cljsbuild-mode git git://github.com/kototama/cljsbuild-mode.git
 cl-lib-highlight git git://github.com/skeeto/cl-lib-highlight.git
-clmemo git git://github.com/ataka/clmemo :fetcher github.git
+clmemo git git://github.com/ataka/clmemo 
 cloc git git://github.com/cosmicexplorer/cloc-emacs.git
-clocker git git://github.com/roman/clocker.el :files clocker.el :fetcher github.git
+clocker git git://github.com/roman/clocker.el 
 clojure-cheatsheet git git://github.com/clojure-emacs/clojure-cheatsheet.git
-clojure-mode git git://github.com/clojure-emacs/clojure-mode :fetcher github :files.git
-clojure-mode-extra-font-locking git git://github.com/clojure-emacs/clojure-mode :fetcher github :files.git
+clojure-mode git git://github.com/clojure-emacs/clojure-mode 
+clojure-mode-extra-font-locking git git://github.com/clojure-emacs/clojure-mode 
 clojure-quick-repls git git://github.com/symfrog/clojure-quick-repls.git
 clojure-snippets git git://github.com/mpenet/clojure-snippets.git
 closure-lint-mode git git://github.com/r0man/closure-lint-mode.git
 cloud-to-butt-erc git git://github.com/leathekd/cloud-to-butt-erc.git
 clues-theme git git://github.com/jasonm23/emacs-clues-theme.git
-cmake-font-lock git git://github.com/Lindydancer/cmake-font-lock :fetcher github.git
-cmake-ide git git://github.com/atilaneves/cmake-ide :fetcher github.git
-cmake-mode git git://github.com/Kitware/CMake :files Auxiliary/*.el.git
-cmm-mode git git://github.com/bgamari/cmm-mode :fetcher github.git
+cmake-font-lock git git://github.com/Lindydancer/cmake-font-lock 
+cmake-ide git git://github.com/atilaneves/cmake-ide 
+cmake-mode git git://github.com/Kitware/CMake 
+cmm-mode git git://github.com/bgamari/cmm-mode 
 cm-mode git git://github.com/joostkremers/criticmarkup-emacs.git
-cn-outline git git://github.com/mori-dev/cn-outline :fetcher github.git
+cn-outline git git://github.com/mori-dev/cn-outline 
 cobra-mode git git://github.com/Nekroze/cobra-mode.git
 codebug git git://github.com/shano/emacs-codebug.git
 codesearch git git://github.com/abingham/codesearch.el.git
 codic git git://github.com/syohex/emacs-codic.git
-coffee-fof git git://github.com/yasuyk/coffee-fof :fetcher github.git
-coffee-mode git git://github.com/defunkt/coffee-mode :fetcher github.git
+coffee-fof git git://github.com/yasuyk/coffee-fof 
+coffee-mode git git://github.com/defunkt/coffee-mode 
 colemak-evil git git://github.com/patbl/colemak-evil.git
 colonoscopy-theme git git://github.com/emacsfodder/emacs-colonoscopy-theme.git
 color-identifiers-mode git git://github.com/ankurdave/color-identifiers-mode.git
-color-moccur git git://github.com/myuhe/color-moccur.el :fetcher github.git
+color-moccur git git://github.com/myuhe/color-moccur.el 
 colorsarenice-theme git git://github.com/Fanael/colorsarenice-theme.git
 color-theme-approximate git git://github.com/tungd/color-theme-approximate.git
 color-theme-buffer-local git git://github.com/vic/color-theme-buffer-local.git
-color-theme-sanityinc-solarized git git://github.com/purcell/color-theme-sanityinc-solarized :fetcher github.git
-color-theme-sanityinc-tomorrow git git://github.com/purcell/color-theme-sanityinc-tomorrow :fetcher github.git
-color-theme-solarized git git://github.com/sellout/emacs-color-theme-solarized :fetcher github.git
+color-theme-sanityinc-solarized git git://github.com/purcell/color-theme-sanityinc-solarized 
+color-theme-sanityinc-tomorrow git git://github.com/purcell/color-theme-sanityinc-tomorrow 
+color-theme-solarized git git://github.com/sellout/emacs-color-theme-solarized 
 column-enforce-mode git git://github.com/jordonbiondo/column-enforce-mode.git
-commander git git://github.com/rejeep/commander.el :fetcher github.git
+commander git git://github.com/rejeep/commander.el 
 command-log-mode git git://github.com/lewang/command-log-mode.git
 comment-dwim-2 git git://github.com/remyferre/comment-dwim-2.git
 common-lisp-snippets git git://github.com/mrkkrp/common-lisp-snippets.git
-company git git://github.com/company-mode/company-mode :fetcher github.git
+company git git://github.com/company-mode/company-mode 
 company-anaconda git git://github.com/proofit404/company-anaconda.git
-company-arduino git git://github.com/yuutayamada/company-arduino :fetcher github.git
+company-arduino git git://github.com/yuutayamada/company-arduino 
 company-auctex git git://github.com/alexeyr/company-auctex.git
 company-cabal git git://github.com/iquiw/company-cabal.git
-company-c-headers git git://github.com/randomphrase/company-c-headers :fetcher github.git
+company-c-headers git git://github.com/randomphrase/company-c-headers 
 company-coq git git://github.com/cpitclaudel/company-coq.git
-company-dcd git git://github.com/tsukimizake/company-dcd  :fetcher github.git
+company-dcd git git://github.com/tsukimizake/company-dcd  
 company-edbi git git://github.com/proofit404/company-edbi.git
 company-ghc git git://github.com/iquiw/company-ghc.git
 company-ghci git git://github.com/juiko/company-ghci.git
-company-go git git://github.com/nsf/gocode :fetcher github.git
+company-go git git://github.com/nsf/gocode 
 company-inf-ruby git git://github.com/company-mode/company-inf-ruby.git
 company-irony git git://github.com/Sarcasm/company-irony.git
 company-jedi git git://github.com/syohex/emacs-company-jedi.git
@@ -314,23 +314,23 @@ company-quickhelp git git://github.com/expez/company-quickhelp.git
 company-racer git git://github.com/emacs-pe/company-racer.git
 company-restclient git git://github.com/iquiw/company-restclient.git
 company-tern git git://github.com/proofit404/company-tern.git
-company-web git git://github.com/osv/company-web :fetcher github.git
+company-web git git://github.com/osv/company-web 
 company-ycm git git://github.com/neuromage/ycm.el.git
 company-ycmd git git://github.com/abingham/emacs-ycmd.git
 concurrent git git://github.com/kiwanami/emacs-deferred.git
-conkeror-minor-mode git git://github.com/Malabarba/conkeror-minor-mode :fetcher github.git
+conkeror-minor-mode git git://github.com/Malabarba/conkeror-minor-mode 
 connection git git://github.com/myrkr/dictionary-el.git
 control-mode git git://github.com/stephendavidmarsh/control-mode.git
 corral git git://github.com/nivekuil/corral.git
 counsel git git://github.com/abo-abo/swiper.git
-cperl-mode git git://github.com/jrockway/cperl-mode :fetcher github.git
+cperl-mode git git://github.com/jrockway/cperl-mode 
 cpputils-cmake git git://github.com/redguardtoo/cpputils-cmake.git
 crab git git://github.com/puffnfresh/crab-emacs.git
 crappy-jsp-mode git git://github.com/magnars/crappy-jsp-mode.git
 creds git git://github.com/ardumont/emacs-creds.git
-creole git git://github.com/nicferrier/elwikicreole :files creole.el.git
+creole git git://github.com/nicferrier/elwikicreole 
 creole-mode git git://github.com/nicferrier/creole-mode.git
-crm-custom git git://github.com/DarwinAwardWinner/crm-custom :fetcher github.git
+crm-custom git git://github.com/DarwinAwardWinner/crm-custom 
 crontab-mode git git://github.com/emacsmirror/crontab-mode.git
 cryptol-mode git git://github.com/thoughtpolice/cryptol-mode.git
 cryptsy-public-api git git://github.com/sodaware/cryptsy-public-api.el.git
@@ -340,16 +340,16 @@ css-eldoc git git://github.com/zenozeng/css-eldoc.git
 cssh git git://github.com/dimitri/cssh.git
 ctable git git://github.com/kiwanami/emacs-ctable.git
 ctags-update git git://github.com/jixiuf/helm-etags-plus.git
-ctl-mode git git://github.com/yyr/emacs-grads :files ctl-mode.el.git
+ctl-mode git git://github.com/yyr/emacs-grads 
 ctxmenu git git://github.com/aki2o/emacs-ctxmenu.git
 cucumber-goto-step git git://github.com/gstamp/cucumber-goto-step.git
 cuda-mode git git://github.com/chachi/cuda-mode.git
 cursor-test git git://github.com/ainame/cursor-test.el.git
 cyberpunk-theme git git://github.com/n3mo/cyberpunk-theme.el.git
-cycbuf git git://github.com/martinp26/cycbuf :fetcher github.git
+cycbuf git git://github.com/martinp26/cycbuf 
 cycle-resize git git://github.com/pierre-lecocq/cycle-resize.git
 cycle-themes git git://github.com/toroidal-code/cycle-themes.el.git
-cypher-mode git git://github.com/fxbois/cypher-mode :fetcher github.git
+cypher-mode git git://github.com/fxbois/cypher-mode 
 cython-mode git git://github.com/cython/cython.git
 dactyl-mode git git://github.com/luxbock/dactyl-mode.git
 dakrone-theme git git://github.com/dakrone/dakrone-theme.git
@@ -360,17 +360,17 @@ darkmine-theme git git://github.com/pierre-lecocq/darkmine-theme.git
 dark-souls git git://github.com/tomjakubowski/dark-souls.el.git
 darktooth-theme git git://github.com/emacsfodder/emacs-theme-darktooth.git
 dart-mode git git://github.com/nex3/dart-mode.git
-dash git git://github.com/magnars/dash.el :files dash.el.git
+dash git git://github.com/magnars/dash.el 
 dash-at-point git git://github.com/stanaka/dash-at-point.git
-dash-functional git git://github.com/magnars/dash.el :files dash-functional.el.git
-date-at-point git git://github.com/alezost/date-at-point.el :fetcher github.git
+dash-functional git git://github.com/magnars/dash.el 
+date-at-point git git://github.com/alezost/date-at-point.el 
 date-field git git://github.com/aki2o/emacs-date-field.git
-datomic-snippets git git://github.com/magnars/datomic-snippets :files *.el snippets.git
+datomic-snippets git git://github.com/magnars/datomic-snippets 
 dayone git git://github.com/mori-dev/emacs-dayone.git
-db git git://github.com/nicferrier/emacs-db :files db.el.git
+db git git://github.com/nicferrier/emacs-db 
 db-pg git git://github.com/nicferrier/emacs-db-pg.git
 ddskk git git://github.com/skk-dev/ddskk.git
-debpaste git git://github.com/alezost/debpaste.el :fetcher github.git
+debpaste git git://github.com/alezost/debpaste.el 
 debug-print git git://github.com/kenoss/debug-print.git
 decl git git://github.com/preetpalS/decl.el.git
 dedicated git git://github.com/emacsmirror/dedicated.git
@@ -378,48 +378,48 @@ dedukti-mode git git://github.com/rafoo/dedukti-mode.git
 default-text-scale git git://github.com/purcell/default-text-scale.git
 deferred git git://github.com/kiwanami/emacs-deferred.git
 define-word git git://github.com/abo-abo/define-word.git
-delim-kill git git://github.com/thomas11/delim-kill :fetcher github.git
+delim-kill git git://github.com/thomas11/delim-kill 
 demangle-mode git git://github.com/liblit/demangle-mode.git
 demo-it git git://github.com/howardabrams/demo-it.git
 dictionary git git://github.com/myrkr/dictionary-el.git
 diff-hl git git://github.com/dgutov/diff-hl.git
-diffscuss-mode git git://github.com/hut8labs/diffscuss :files diffscuss-mode/*.el.git
+diffscuss-mode git git://github.com/hut8labs/diffscuss 
 digistar-mode git git://github.com/retroj/digistar-mode.git
-dim-autoload git git://github.com/tarsius/dim-autoload :fetcher github.git
+dim-autoload git git://github.com/tarsius/dim-autoload 
 diminish git git://github.com/emacsmirror/diminish.git
 dircmp git git://github.com/matthewlmcclure/dircmp-mode.git
-dired-avfs git git://github.com/Fuco1/dired-hacks :files dired-avfs.el.git
+dired-avfs git git://github.com/Fuco1/dired-hacks 
 dired-dups git git://github.com/vapniks/dired-dups.git
 dired-efap git git://github.com/juan-leon/dired-efap.git
-dired-fdclone git git://github.com/knu/dired-fdclone.el :fetcher github.git
-dired-filter git git://github.com/Fuco1/dired-hacks :files dired-filter.el.git
-dired-hacks-utils git git://github.com/Fuco1/dired-hacks :files dired-hacks-utils.el.git
+dired-fdclone git git://github.com/knu/dired-fdclone.el 
+dired-filter git git://github.com/Fuco1/dired-hacks 
+dired-hacks-utils git git://github.com/Fuco1/dired-hacks 
 dired-imenu git git://github.com/DamienCassou/dired-imenu.git
 dired-k git git://github.com/syohex/emacs-dired-k.git
-dired-narrow git git://github.com/Fuco1/dired-hacks :files dired-narrow.el.git
-dired-open git git://github.com/Fuco1/dired-hacks :files dired-open.el.git
-dired-rainbow git git://github.com/Fuco1/dired-hacks :files dired-rainbow.el.git
-dired-ranger git git://github.com/Fuco1/dired-hacks :files dired-ranger.el.git
-dired-subtree git git://github.com/Fuco1/dired-hacks :files dired-subtree.el.git
+dired-narrow git git://github.com/Fuco1/dired-hacks 
+dired-open git git://github.com/Fuco1/dired-hacks 
+dired-rainbow git git://github.com/Fuco1/dired-hacks 
+dired-ranger git git://github.com/Fuco1/dired-hacks 
+dired-subtree git git://github.com/Fuco1/dired-hacks 
 dired-toggle git git://github.com/fasheng/dired-toggle.git
 dired-toggle-sudo git git://github.com/renard/dired-toggle-sudo.git
 direx git git://github.com/m2ym/direx-el.git
 direx-grep git git://github.com/aki2o/direx-grep.git
 dirtree-prosjekt git git://github.com/abingham/prosjekt.git
-disaster git git://github.com/jart/disaster :fetcher github :files disaster.el.git
+disaster git git://github.com/jart/disaster 
 discover git git://github.com/mickeynp/discover.el.git
 discover-clj-refactor git git://github.com/maio/discover-clj-refactor.el.git
-discover-js2-refactor git git://github.com/NicolasPetton/discover-js2-refactor :fetcher github.git
+discover-js2-refactor git git://github.com/NicolasPetton/discover-js2-refactor 
 discover-my-major git git://github.com/steckerhalter/discover-my-major.git
 dispass git git://github.com/ryuslash/dispass.el.git
 display-theme git git://github.com/kawabata/emacs-display-theme.git
 distinguished-theme git git://github.com/Lokaltog/distinguished-theme.git
 dizzee git git://github.com/davidmiller/dizzee.git
-django-mode git git://github.com/myfreeweb/django-mode :files *.el :exclude *-snippets.el.git
-django-snippets git git://github.com/myfreeweb/django-mode :files django-snippets.el snippets.git
+django-mode git git://github.com/myfreeweb/django-mode 
+django-snippets git git://github.com/myfreeweb/django-mode 
 django-theme git git://github.com/andrzejsliwa/django-theme.el.git
-dkdo git git://github.com/davidkeegan/dkdo :files *.el *.texi dir *.do.git
-dklrt git git://github.com/davidkeegan/dklrt :files *.el *.texi dir *.py.git
+dkdo git git://github.com/davidkeegan/dkdo 
+dklrt git git://github.com/davidkeegan/dklrt 
 dkmisc git git://github.com/davidkeegan/dkmisc.git
 d-mode git git://github.com/Emacs-D-Mode-Maintainers/Emacs-D-Mode.git
 dna-mode git git://github.com/jhgorrell/dna-mode-el.git
@@ -429,27 +429,27 @@ docker git git://github.com/Silex/docker.el.git
 dockerfile-mode git git://github.com/spotify/dockerfile-mode.git
 docker-tramp git git://github.com/emacs-pe/docker-tramp.el.git
 dokuwiki-mode git git://github.com/kbkbkbkb1/emacs-dokuwiki-mode.git
-dollaro git git://github.com/laynor/dollaro :fetcher github.git
+dollaro git git://github.com/laynor/dollaro 
 dom git git://github.com/toroidal-code/dom.el.git
 download-region git git://github.com/zk-phi/download-region.git
 downplay-mode git git://github.com/tobias/downplay-mode.git
 dpaste git git://github.com/gregnewman/dpaste.el.git
 dpaste_de git git://github.com/theju/dpaste_de.el.git
 draft-mode git git://github.com/gaudecker/draft-mode.git
-drag-stuff git git://github.com/rejeep/drag-stuff :fetcher github.git
+drag-stuff git git://github.com/rejeep/drag-stuff 
 drill-instructor-AZIK-force git git://github.com/myuhe/drill-instructor-AZIK-force.el .git
 dropbox git git://github.com/pavpanchekha/dropbox.el.git
 drupal-mode git git://github.com/arnested/drupal-mode.git
-drupal-spell git git://github.com/arnested/drupal-spell :files *.el dict.git
+drupal-spell git git://github.com/arnested/drupal-spell 
 dtrace-script-mode git git://github.com/dotemacs/dtrace-script-mode.git
 dtrt-indent git git://github.com/jscheid/dtrt-indent.git
-dts-mode git git://github.com/bgamari/dts-mode :fetcher github.git
+dts-mode git git://github.com/bgamari/dts-mode 
 ducpel git git://github.com/alezost/ducpel.git
 dummyparens git git://github.com/snosov1/dummyparens.git
-duplicate-thing git git://github.com/ongaeshi/duplicate-thing :fetcher github.git
+duplicate-thing git git://github.com/ongaeshi/duplicate-thing 
 dylan-mode git git://github.com/dylan-lang/dylan-mode.git
-dynamic-fonts git git://github.com/rolandwalker/dynamic-fonts :fetcher github.git
-e2ansi git git://github.com/Lindydancer/e2ansi :fetcher github :files :defaults bin.git
+dynamic-fonts git git://github.com/rolandwalker/dynamic-fonts 
+e2ansi git git://github.com/Lindydancer/e2ansi 
 e2wm git git://github.com/kiwanami/emacs-window-manager .git
 e2wm-bookmark git git://github.com/myuhe/e2wm-bookmark.el .git
 e2wm-direx git git://github.com/aki2o/e2wm-direx.git
@@ -466,29 +466,29 @@ easy-repeat git git://github.com/xuchunyang/easy-repeat.el.git
 ebib git git://github.com/joostkremers/ebib.git
 ecb git git://github.com/alexott/ecb.git
 eclipse-theme git git://github.com/abo-abo/eclipse-theme.git
-ecukes git git://github.com/ecukes/ecukes :fetcher github.git
-edbi git git://github.com/kiwanami/emacs-edbi :files edbi*.el edbi*.pl.git
+ecukes git git://github.com/ecukes/ecukes 
+edbi git git://github.com/kiwanami/emacs-edbi 
 edbi-database-url git git://github.com/proofit404/edbi-database-url.git
 edbi-django git git://github.com/proofit404/edbi-django.git
 edbi-minor-mode git git://github.com/proofit404/edbi-minor-mode.git
 edbi-sqlite git git://github.com/proofit404/edbi-sqlite.git
 edebug-x git git://github.com/ScottyB/edebug-x.git
-ede-compdb git git://github.com/randomphrase/ede-compdb :fetcher github.git
-edit-at-point git git://github.com/enoson/edit-at-point.el :fetcher github.git
+ede-compdb git git://github.com/randomphrase/ede-compdb 
+edit-at-point git git://github.com/enoson/edit-at-point.el 
 edit-color-stamp git git://github.com/sabof/edit-color-stamp.git
 edit-indirect git git://github.com/Fanael/edit-indirect.git
 edit-list git git://github.com/emacsmirror/edit-list.git
-editorconfig git git://github.com/editorconfig/editorconfig-emacs :fetcher github.git
-edit-server git git://github.com/stsquad/emacs_chrome :fetcher github :files.git
-edit-server-htmlize git git://github.com/frobtech/edit-server-htmlize :fetcher github :files.git
+editorconfig git git://github.com/editorconfig/editorconfig-emacs 
+edit-server git git://github.com/stsquad/emacs_chrome 
+edit-server-htmlize git git://github.com/frobtech/edit-server-htmlize 
 edn git git://github.com/expez/edn.el.git
 edts git git://github.com/  tjarvstrand/edts.git
 efire git git://github.com/capitaomorte/efire.git
-egg git git://github.com/byplayer/egg :fetcher github.git
+egg git git://github.com/byplayer/egg 
 egison-mode git git://github.com/egisatoshi/egison3.git
-ein git git://github.com/millejoh/emacs-ipython-notebook :fetcher github.git
+ein git git://github.com/millejoh/emacs-ipython-notebook 
 ein-mumamo git git://github.com/millejoh/ein-mumamo.git
-el2markdown git git://github.com/Lindydancer/el2markdown :fetcher github.git
+el2markdown git git://github.com/Lindydancer/el2markdown 
 el-autoyas git git://github.com/mlf176f2/el-autoyas.el.git
 eldoc-eval git git://github.com/thierryvolpiatto/eldoc-eval.git
 electric-case git git://github.com/zk-phi/electric-case.git
@@ -496,37 +496,37 @@ electric-operator git git://github.com/davidshepherd7/electric-operator.git
 electric-spacing git git://github.com/xwl/electric-spacing.git
 elein git git://github.com/remvee/elein.git
 elfeed git git://github.com/skeeto/elfeed.git
-elfeed-org git git://github.com/remyhonig/elfeed-org :fetcher github.git
+elfeed-org git git://github.com/remyhonig/elfeed-org 
 elfeed-web git git://github.com/skeeto/elfeed.git
-el-get git git://github.com/dimitri/el-get :files *.el recipes recipes/el-get.rcp methods.git
+el-get git git://github.com/dimitri/el-get 
 elhome git git://github.com/demyanrogozhin/elhome.git
 el-init git git://github.com/HKey/el-init.git
 el-init-viewer git git://github.com/HKey/el-init-viewer.git
-elisp-sandbox git git://github.com/joelmccracken/elisp-sandbox :files elisp-sandbox.el.git
-elisp-slime-nav git git://github.com/purcell/elisp-slime-nav :fetcher github.git
+elisp-sandbox git git://github.com/joelmccracken/elisp-sandbox 
+elisp-slime-nav git git://github.com/purcell/elisp-slime-nav 
 elixir-mode git git://github.com/elixir-lang/emacs-elixir.git
 elixir-yasnippets git git://github.com/hisea/elixir-yasnippets.git
 elmacro git git://github.com/Silex/elmacro.git
 elmine git git://github.com/leoc/elmine.git
 elm-mode git git://github.com/jcollard/elm-mode.git
-el-mock git git://github.com/rejeep/el-mock.el :fetcher github.git
+el-mock git git://github.com/rejeep/el-mock.el 
 elnode git git://github.com/nicferrier/elnode.git
 elpa-audit git git://github.com/purcell/elpa-audit.git
 elpa-mirror git git://github.com/redguardtoo/elpa-mirror.git
-el-pocket git git://github.com/pterygota/el-pocket :fetcher github.git
+el-pocket git git://github.com/pterygota/el-pocket 
 elpy git git://github.com/jorgenschaefer/elpy.git
 elscreen git git://github.com/knu/elscreen.git
-elscreen-mew git git://github.com/masutaka/elscreen-mew :fetcher github.git
+elscreen-mew git git://github.com/masutaka/elscreen-mew 
 elscreen-multi-term git git://github.com/wamei/elscreen-multi-term.git
 elscreen-persist git git://github.com/robario/elscreen-persist.git
 elscreen-separate-buffer-list git git://github.com/wamei/elscreen-separate-buffer-list.git
 el-spec git git://github.com/uk-ar/el-spec.git
-el-spice git git://github.com/vedang/el-spice :fetcher github.git
+el-spice git git://github.com/vedang/el-spice 
 el-sprunge git git://github.com/eschulte/el-sprunge.git
 el-spy git git://github.com/uk-ar/el-spy.git
 elwm git git://github.com/Fuco1/elwm.git
-elx git git://github.com/tarsius/elx :fetcher github.git
-el-x git git://github.com/sigma/el-x :files lisp/*.el.git
+elx git git://github.com/tarsius/elx 
+el-x git git://github.com/sigma/el-x 
 emacsagist git git://github.com/echosa/emacsagist.git
 emacsc git git://github.com/knu/emacsc.git
 emacs-eclim git git://github.com/senny/emacs-eclim.git
@@ -548,125 +548,125 @@ emms-soundcloud git git://github.com/osener/emms-soundcloud.git
 emoji-cheat-sheet-plus git git://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus.git
 emoji-display git git://github.com/ikazuhiro/emoji-display.git
 emr git git://github.com/chrisbarrett/emacs-refactor.git
-enclose git git://github.com/rejeep/enclose :fetcher github.git
+enclose git git://github.com/rejeep/enclose 
 engine-mode git git://github.com/hrs/engine-mode.git
 enh-ruby-mode git git://github.com/zenspider/enhanced-ruby-mode.git
-eno git git://github.com/enoson/eno.el :fetcher github.git
+eno git git://github.com/enoson/eno.el 
 enotify git git://github.com/laynor/enotify.git
 ensime git git://github.com/ensime/ensime-emacs.git
 envdir git git://github.com/proofit404/envdir-mode.git
 epc git git://github.com/kiwanami/emacs-epc.git
 epic git git://github.com/yoshinari-nomura/epic.git
-epl git git://github.com/cask/epl :fetcher github.git
+epl git git://github.com/cask/epl 
 epresent git git://github.com/eschulte/epresent.git
 eprime-mode git git://github.com/AndrewHynes/eprime-mode.git
 eproject git git://github.com/jrockway/eproject.git
 erc-colorize git git://github.com/thisirs/erc-colorize.git
-erc-crypt git git://github.com/atomontage/erc-crypt :fetcher github.git
+erc-crypt git git://github.com/atomontage/erc-crypt 
 erc-hl-nicks git git://github.com/leathekd/erc-hl-nicks.git
-erc-image git git://github.com/kidd/erc-image.el :fetcher github.git
+erc-image git git://github.com/kidd/erc-image.el 
 ercn git git://github.com/leathekd/ercn.git
-erc-social-graph git git://github.com/vibhavp/erc-social-graph :fetcher github.git
-erc-terminal-notifier git git://github.com/julienXX/erc-terminal-notifier.el :fetcher github.git
+erc-social-graph git git://github.com/vibhavp/erc-social-graph 
+erc-terminal-notifier git git://github.com/julienXX/erc-terminal-notifier.el 
 erc-track-score git git://github.com/jd/erc-track-score.el.git
 erc-tweet git git://github.com/kidd/erc-tweet.el.git
 erc-view-log git git://github.com/Niluge-KiWi/erc-view-log.git
 erc-youtube git git://github.com/kidd/erc-youtube.el.git
-erc-yt git git://github.com/yhvh/erc-yt :fetcher github.git
-erefactor git git://github.com/mhayashi1120/Emacs-erefactor :fetcher github :files erefactor.el.git
+erc-yt git git://github.com/yhvh/erc-yt 
+erefactor git git://github.com/mhayashi1120/Emacs-erefactor 
 ergoemacs-mode git git://github.com/ergoemacs/ergoemacs-mode.git
 erlang git git://github.com/erlang/otp.git
 ert-async git git://github.com/rejeep/ert-async.el.git
 ert-modeline git git://github.com/chrisbarrett/ert-modeline.git
 ert-runner git git://github.com/rejeep/ert-runner.el.git
-escreen git git://github.com/emacsmirror/escreen :fetcher github.git
-esh-buf-stack git git://github.com/tom-tan/esh-buf-stack :fetcher github.git
+escreen git git://github.com/emacsmirror/escreen 
+esh-buf-stack git git://github.com/tom-tan/esh-buf-stack 
 eshell-autojump git git://github.com/coldnew/eshell-autojump.git
 eshell-prompt-extras git git://github.com/kaihaosw/eshell-prompt-extras.git
-esh-help git git://github.com/tom-tan/esh-help :fetcher github.git
+esh-help git git://github.com/tom-tan/esh-help 
 es-lib git git://github.com/sabof/es-lib.git
 es-mode git git://github.com/dakrone/es-mode.git
-espresso-theme git git://github.com/dgutov/espresso-theme :fetcher github.git
-espuds git git://github.com/ecukes/espuds :fetcher github.git
+espresso-theme git git://github.com/dgutov/espresso-theme 
+espuds git git://github.com/ecukes/espuds 
 esqlite git git://github.com/mhayashi1120/Emacs-esqlite.git
 esqlite-helm git git://github.com/mhayashi1120/Emacs-esqlite.git
-ess git git://github.com/emacs-ess/ESS :fetcher github :files.git
+ess git git://github.com/emacs-ess/ESS 
 ess-R-data-view git git://github.com/myuhe/ess-R-data-view.el .git
 ess-R-object-popup git git://github.com/myuhe/ess-R-object-popup.el.git
 ess-smart-equals git git://github.com/genovese/ess-smart-equals.git
 ess-smart-underscore git git://github.com/mlf176f2/ess-smart-underscore.el.git
 esup git git://github.com/jschaf/esup.git
 es-windows git git://github.com/sabof/es-windows.git
-esxml git git://github.com/tali713/esxml :files esxml.el.git
+esxml git git://github.com/tali713/esxml 
 etable git git://github.com/Fuco1/ETable.git
-ethan-wspace git git://github.com/glasserc/ethan-wspace :files lisp/*.el.git
+ethan-wspace git git://github.com/glasserc/ethan-wspace 
 eval-in-repl git git://github.com/   kaz-yos/eval-in-repl.git
 eval-sexp-fu git git://github.com/hchbaw/eval-sexp-fu.el.git
 evil-annoying-arrows git git://github.com/endrebak/evil-annoying-arrows.git
 evil-anzu git git://github.com/syohex/emacs-evil-anzu.git
 evil-args git git://github.com/wcsmith/evil-args.git
 evil-cleverparens git git://github.com/luxbock/evil-cleverparens.git
-evil-commentary git git://github.com/linktohack/evil-commentary :fetcher github.git
+evil-commentary git git://github.com/linktohack/evil-commentary 
 evil-dvorak git git://github.com/jbranso/evil-dvorak.git
 evil-easymotion git git://github.com/PythonNut/evil-easymotion.git
-evil-escape git git://github.com/syl20bnr/evil-escape :fetcher github.git
+evil-escape git git://github.com/syl20bnr/evil-escape 
 evil-exchange git git://github.com/Dewdrops/evil-exchange.git
 evil-god-state git git://github.com/gridaphobe/evil-god-state.git
-evil-iedit-state git git://github.com/syl20bnr/evil-iedit-state :fetcher github.git
+evil-iedit-state git git://github.com/syl20bnr/evil-iedit-state 
 evil-indent-textobject git git://github.com/cofi/evil-indent-textobject.git
-evil-jumper git git://github.com/bling/evil-jumper :fetcher github.git
-evil-leader git git://github.com/cofi/evil-leader :fetcher github.git
-evil-lisp-state git git://github.com/syl20bnr/evil-lisp-state :fetcher github.git
+evil-jumper git git://github.com/bling/evil-jumper 
+evil-leader git git://github.com/cofi/evil-leader 
+evil-lisp-state git git://github.com/syl20bnr/evil-lisp-state 
 evil-mark-replace git git://github.com/redguardtoo/evil-mark-replace.git
 evil-matchit git git://github.com/redguardtoo/evil-matchit.git
 evil-nerd-commenter git git://github.com/redguardtoo/evil-nerd-commenter.git
-evil-numbers git git://github.com/cofi/evil-numbers :fetcher github.git
+evil-numbers git git://github.com/cofi/evil-numbers 
 evil-org git git://github.com/edwtjo/evil-org-mode.git
 evil-paredit git git://github.com/roman/evil-paredit.git
 evil-ranger git git://github.com/ralesi/evil-ranger.git
-evil-rsi git git://github.com/linktohack/evil-rsi :fetcher github.git
+evil-rsi git git://github.com/linktohack/evil-rsi 
 evil-search-highlight-persist git git://github.com/juanjux/evil-search-highlight-persist.git
 evil-smartparens git git://github.com/expez/evil-smartparens.git
-evil-snipe git git://github.com/hlissner/evil-snipe :fetcher github.git
-evil-space git git://github.com/linktohack/evil-space :fetcher github.git
-evil-surround git git://github.com/timcharper/evil-surround :fetcher github :old-names surround.git
+evil-snipe git git://github.com/hlissner/evil-snipe 
+evil-space git git://github.com/linktohack/evil-space 
+evil-surround git git://github.com/timcharper/evil-surround 
 evil-tabs git git://github.com/krisajenkins/evil-tabs.git
 evil-terminal-cursor-changer git git://github.com/7696122/evil-terminal-cursor-changer.git
 evil-tutor git git://github.com/syl20bnr/evil-tutor.git
-evil-visual-mark-mode git git://github.com/roman/evil-visual-mark-mode :fetcher github.git
-evil-visualstar git git://github.com/bling/evil-visualstar :fetcher github.git
-evm git git://github.com/rejeep/evm.el :fetcher github.git
+evil-visual-mark-mode git git://github.com/roman/evil-visual-mark-mode 
+evil-visualstar git git://github.com/bling/evil-visualstar 
+evm git git://github.com/rejeep/evm.el 
 ewmctrl git git://github.com/flexibeast/ewmctrl.git
-eww-lnum git git://github.com/m00natic/eww-lnum :fetcher github.git
+eww-lnum git git://github.com/m00natic/eww-lnum 
 exec-path-from-shell git git://github.com/purcell/exec-path-from-shell.git
-expand-region git git://github.com/magnars/expand-region.el :fetcher github.git
-express git git://github.com/rolandwalker/express :fetcher github.git
+expand-region git git://github.com/magnars/expand-region.el 
+express git git://github.com/rolandwalker/express 
 extend-dnd git git://github.com/mlf176f2/extend-dnd.git
 eyebrowse git git://github.com/wasamasa/eyebrowse.git
 eyuml git git://github.com/antham/eyuml.git
 ez-query-replace git git://github.com/Wilfred/ez-query-replace.el.git
-f git git://github.com/rejeep/f.el :files f.el.git
+f git git://github.com/rejeep/f.el 
 fabric git git://github.com/nlamirault/fabric.el.git
-faceup git git://github.com/Lindydancer/faceup :fetcher github.git
-factlog git git://github.com/tkf/factlog :fetcher github.git
-faff-theme git git://github.com/WJCFerguson/emacs-faff-theme :fetcher github.git
+faceup git git://github.com/Lindydancer/faceup 
+factlog git git://github.com/tkf/factlog 
+faff-theme git git://github.com/WJCFerguson/emacs-faff-theme 
 fakespace git git://github.com/skeeto/elisp-fakespace.git
-fakir git git://github.com/nicferrier/emacs-fakir :files fakir.el.git
-fancy-battery git git://github.com/lunaryorn/fancy-battery.el :fetcher github.git
-fancy-narrow git git://github.com/Malabarba/fancy-narrow :fetcher github.git
+fakir git git://github.com/nicferrier/emacs-fakir 
+fancy-battery git git://github.com/lunaryorn/fancy-battery.el 
+fancy-narrow git git://github.com/Malabarba/fancy-narrow 
 farmhouse-theme git git://github.com/mattly/emacs-farmhouse-theme.git
-fasd git git://github.com/steckerhalter/emacs-fasd :fetcher github.git
+fasd git git://github.com/steckerhalter/emacs-fasd 
 fasm-mode git git://github.com/Fanael/fasm-mode.git
 fastnav git git://github.com/gleber/fastnav.el.git
 fcitx git git://github.com/cute-jumper/fcitx.el.git
-fcopy git git://github.com/ataka/fcopy :fetcher github.git
+fcopy git git://github.com/ataka/fcopy 
 feature-mode git git://github.com/michaelklishin/cucumber.el.git
 fetch git git://github.com/crshd/fetch.el.git
-fill-column-indicator git git://github.com/alpaker/Fill-Column-Indicator :fetcher github.git
+fill-column-indicator git git://github.com/alpaker/Fill-Column-Indicator 
 finalize git git://github.com/skeeto/elisp-finalize.git
 find-by-pinyin-dired git git://github.com/redguardtoo/find-by-pinyin-dired.git
-find-file-in-project git git://github.com/technomancy/find-file-in-project :fetcher github.git
-find-file-in-repository git git://github.com/hoffstaetter/find-file-in-repository :fetcher github.git
+find-file-in-project git git://github.com/technomancy/find-file-in-project 
+find-file-in-repository git git://github.com/hoffstaetter/find-file-in-repository 
 find-temp-file git git://github.com/thisirs/find-temp-file.git
 find-things-fast git git://github.com/eglaysher/find-things-fast.git
 fingers git git://github.com/fgeller/fingers.el.git
@@ -675,9 +675,9 @@ firebelly-theme git git://github.com/startling/firebelly.git
 firecode-theme git git://github.com/emacsfodder/emacs-firecode-theme.git
 firestarter git git://github.com/wasamasa/firestarter.git
 fish-mode git git://github.com/wwwjfy/emacs-fish.git
-fixmee git git://github.com/rolandwalker/fixmee :fetcher github.git
-fix-word git git://github.com/mrkkrp/fix-word :fetcher github.git
-flappymacs git git://github.com/taksatou/flappymacs :fetcher github.git
+fixmee git git://github.com/rolandwalker/fixmee 
+fix-word git git://github.com/mrkkrp/fix-word 
+flappymacs git git://github.com/taksatou/flappymacs 
 flash-region git git://github.com/Fuco1/flash-region.git
 flatland-black-theme git git://github.com/emacsfodder/emacs-flatland-black-theme.git
 flatland-theme git git://github.com/gchp/flatland-emacs.git
@@ -688,18 +688,18 @@ floobits git git://github.com/Floobits/floobits-emacs.git
 flx git git://github.com/lewang/flx.git
 flx-ido git git://github.com/lewang/flx.git
 flx-isearch git git://github.com/PythonNut/flx-isearch.git
-flycheck git git://github.com/flycheck/flycheck :fetcher github.git
-flycheck-ats2 git git://github.com/drvink/flycheck-ats2 :fetcher github.git
-flycheck-cask git git://github.com/flycheck/flycheck-cask :fetcher github.git
+flycheck git git://github.com/flycheck/flycheck 
+flycheck-ats2 git git://github.com/drvink/flycheck-ats2 
+flycheck-cask git git://github.com/flycheck/flycheck-cask 
 flycheck-clangcheck git git://github.com/kumar8600/flycheck-clangcheck.git
 flycheck-clojure git git://github.com/clojure-emacs/squiggly-clojure.git
-flycheck-color-mode-line git git://github.com/flycheck/flycheck-color-mode-line :fetcher github.git
+flycheck-color-mode-line git git://github.com/flycheck/flycheck-color-mode-line 
 flycheck-dedukti git git://github.com/rafoo/flycheck-dedukti.git
-flycheck-dmd-dub git git://github.com/atilaneves/flycheck-dmd-dub :fetcher github.git
-flycheck-d-unittest git git://github.com/flycheck/flycheck-d-unittest :fetcher github.git
+flycheck-dmd-dub git git://github.com/atilaneves/flycheck-dmd-dub 
+flycheck-d-unittest git git://github.com/flycheck/flycheck-d-unittest 
 flycheck-elm git git://github.com/bsermons/flycheck-elm.git
 flycheck-ghcmod git git://github.com/scturtle/flycheck-ghcmod.git
-flycheck-google-cpplint git git://github.com/flycheck/flycheck-google-cpplint :fetcher github.git
+flycheck-google-cpplint git git://github.com/flycheck/flycheck-google-cpplint 
 flycheck-haskell git git://github.com/flycheck/flycheck-haskell.git
 flycheck-hdevtools git git://github.com/flycheck/flycheck-hdevtools.git
 flycheck-irony git git://github.com/Sarcasm/flycheck-irony.git
@@ -708,42 +708,42 @@ flycheck-mercury git git://github.com/flycheck/flycheck-mercury.git
 flycheck-ocaml git git://github.com/flycheck/flycheck-ocaml.git
 flycheck-package git git://github.com/purcell/flycheck-package.git
 flycheck-perl6 git git://github.com/hinrik/flycheck-perl6.git
-flycheck-pos-tip git git://github.com/flycheck/flycheck-pos-tip :fetcher github.git
-flycheck-pyflakes git git://github.com/Wilfred/flycheck-pyflakes :fetcher github.git
-flycheck-rust git git://github.com/flycheck/flycheck-rust :fetcher github.git
+flycheck-pos-tip git git://github.com/flycheck/flycheck-pos-tip 
+flycheck-pyflakes git git://github.com/Wilfred/flycheck-pyflakes 
+flycheck-rust git git://github.com/flycheck/flycheck-rust 
 flycheck-tip git git://github.com/yuutayamada/flycheck-tip.git
 flycheck-ycmd git git://github.com/abingham/emacs-ycmd.git
-flymake-coffee git git://github.com/purcell/flymake-coffee :fetcher github.git
-flymake-cppcheck git git://github.com/senda-akiha/flymake-cppcheck :fetcher github.git
-flymake-css git git://github.com/purcell/flymake-css :fetcher github.git
+flymake-coffee git git://github.com/purcell/flymake-coffee 
+flymake-cppcheck git git://github.com/senda-akiha/flymake-cppcheck 
+flymake-css git git://github.com/purcell/flymake-css 
 flymake-easy git git://github.com/purcell/flymake-easy.git
-flymake-elixir git git://github.com/syl20bnr/flymake-elixir :fetcher github.git
-flymake-gjshint git git://github.com/yasuyk/flymake-gjshint-el :fetcher github.git
+flymake-elixir git git://github.com/syl20bnr/flymake-elixir 
+flymake-gjshint git git://github.com/yasuyk/flymake-gjshint-el 
 flymake-go git git://github.com/robert-zaremba/flymake-go.git
-flymake-google-cpplint git git://github.com/senda-akiha/flymake-google-cpplint :fetcher github.git
-flymake-haml git git://github.com/purcell/flymake-haml :fetcher github.git
+flymake-google-cpplint git git://github.com/senda-akiha/flymake-google-cpplint 
+flymake-haml git git://github.com/purcell/flymake-haml 
 flymake-haskell-multi git git://github.com/purcell/flymake-haskell-multi.git
-flymake-hlint git git://github.com/purcell/flymake-hlint :fetcher github.git
-flymake-jshint git git://github.com/Wilfred/flymake-jshint.el :fetcher github.git
-flymake-jslint git git://github.com/purcell/flymake-jslint :fetcher github.git
-flymake-json git git://github.com/purcell/flymake-json :fetcher github.git
-flymake-lua git git://github.com/sroccaserra/emacs :files flymake-lua.el.git
+flymake-hlint git git://github.com/purcell/flymake-hlint 
+flymake-jshint git git://github.com/Wilfred/flymake-jshint.el 
+flymake-jslint git git://github.com/purcell/flymake-jslint 
+flymake-json git git://github.com/purcell/flymake-json 
+flymake-lua git git://github.com/sroccaserra/emacs 
 flymake-perlcritic git git://github.com/illusori/emacs-flymake-perlcritic.git
-flymake-php git git://github.com/purcell/flymake-php :fetcher github.git
-flymake-phpcs git git://github.com/senda-akiha/flymake-phpcs :fetcher github.git
-flymake-puppet git git://github.com/benprew/flymake-puppet :fetcher github.git
+flymake-php git git://github.com/purcell/flymake-php 
+flymake-phpcs git git://github.com/senda-akiha/flymake-phpcs 
+flymake-puppet git git://github.com/benprew/flymake-puppet 
 flymake-python-pyflakes git git://github.com/purcell/flymake-python-pyflakes.git
-flymake-ruby git git://github.com/purcell/flymake-ruby :fetcher github.git
-flymake-rust git git://github.com/joaoxsouls/flymake-rust :fetcher github.git
-flymake-sass git git://github.com/purcell/flymake-sass :fetcher github.git
-flymake-shell git git://github.com/purcell/flymake-shell :fetcher github.git
-flymake-vala git git://github.com/daniellawrence/flymake-vala :fetcher github.git
+flymake-ruby git git://github.com/purcell/flymake-ruby 
+flymake-rust git git://github.com/joaoxsouls/flymake-rust 
+flymake-sass git git://github.com/purcell/flymake-sass 
+flymake-shell git git://github.com/purcell/flymake-shell 
+flymake-vala git git://github.com/daniellawrence/flymake-vala 
 flymake-yaml git git://github.com/yasuyk/flymake-yaml.git
 flyparens git git://github.com/jiyoo/flyparens.git
-flyspell-lazy git git://github.com/rolandwalker/flyspell-lazy :fetcher github.git
-flyspell-popup git git://github.com/xuchunyang/flyspell-popup :fetcher github.git
+flyspell-lazy git git://github.com/rolandwalker/flyspell-lazy 
+flyspell-popup git git://github.com/xuchunyang/flyspell-popup 
 fm git git://github.com/emacsmirror/fm.git
-fm-bookmarks git git://github.com/kuanyui/fm-bookmarks.el :fetcher github.git
+fm-bookmarks git git://github.com/kuanyui/fm-bookmarks.el 
 focus git git://github.com/larstvei/Focus.git
 focus-autosave-mode git git://github.com/vifon/focus-autosave-mode.el.git
 fold-dwim git git://github.com/emacsmirror/fold-dwim.git
@@ -752,71 +752,71 @@ folding git git://github.com/jaalto/project-emacs--folding-mode.git
 fold-this git git://github.com/magnars/fold-this.el.git
 fontawesome git git://github.com/syohex/emacs-fontawesome.git
 font-lock-studio git git://github.com/Lindydancer/font-lock-studio.git
-font-utils git git://github.com/rolandwalker/font-utils :fetcher github.git
-foreign-regexp git git://github.com/k-talo/foreign-regexp.el :fetcher github.git
-foreman-mode git git://github.com/zweifisch/foreman-mode :fetcher github.git
+font-utils git git://github.com/rolandwalker/font-utils 
+foreign-regexp git git://github.com/k-talo/foreign-regexp.el 
+foreman-mode git git://github.com/zweifisch/foreman-mode 
 format-sql git git://github.com/paetzke/format-sql.el.git
 form-feed git git://github.com/wasamasa/form-feed.git
 fortpy git git://github.com/rosenbrockc/fortpy-el.git
 fountain-mode git git://github.com/rnkn/fountain-mode.git
-frame-restore git git://github.com/lunaryorn/frame-restore.el :fetcher github.git
+frame-restore git git://github.com/lunaryorn/frame-restore.el 
 framesize git git://github.com/nicferrier/emacs-framesize.git
 frame-tag git git://github.com/liangzan/frame-tag.el.git
 free-keys git git://github.com/Fuco1/free-keys.git
 fringe-current-line git git://github.com/kyanagi/fringe-current-line.git
 fringe-helper git git://github.com/nschum/fringe-helper.el.git
 fsharp-mode git git://github.com/rneatherway/emacs-fsharp-mode-bin.git
-full-ack git git://github.com/nschum/full-ack :fetcher github.git
-fullframe git git://github.com/tomterl/fullframe :fetcher github.git
+full-ack git git://github.com/nschum/full-ack 
+fullframe git git://github.com/tomterl/fullframe 
 fullscreen-mode git git://github.com/ryantm/fullscreen-mode.git
 function-args git git://github.com/abo-abo/function-args.git
 fuzzy git git://github.com/auto-complete/fuzzy-el.git
 fvwm-mode git git://github.com/theBlackDragon/fvwm-mode.git
-fwb-cmds git git://github.com/tarsius/fwb-cmds :fetcher github.git
-fyure git git://github.com/mooz/fyure :fetcher github :files fyure.el fyure.py.git
+fwb-cmds git git://github.com/tarsius/fwb-cmds 
+fyure git git://github.com/mooz/fyure 
 gandalf-theme git git://github.com/ptrv/gandalf-theme-emacs.git
-gather git git://github.com/mhayashi1120/Emacs-gather :files gather.el.git
+gather git git://github.com/mhayashi1120/Emacs-gather 
 gedit-mode git git://github.com/robru/gedit-mode.git
-geeknote git git://github.com/avendael/emacs-geeknote :fetcher github.git
+geeknote git git://github.com/avendael/emacs-geeknote 
 geiser git git://github.com/jaor/geiser.git
 genrnc git git://github.com/aki2o/emacs-genrnc.git
 german-holidays git git://github.com/rudolfochrist/german-holidays.git
-gerrit-download git git://github.com/chmouel/gerrit-download.el :fetcher github.git
+gerrit-download git git://github.com/chmouel/gerrit-download.el 
 ggo-mode git git://github.com/mkjunker/ggo-mode.git
 ggtags git git://github.com/leoliu/ggtags.git
-gh git git://github.com/sigma/gh.el :fetcher github.git
-ghc git git://github.com/kazu-yamamoto/ghc-mod :files elisp/*.el.git
+gh git git://github.com/sigma/gh.el 
+ghc git git://github.com/kazu-yamamoto/ghc-mod 
 ghci-completion git git://github.com/manzyuk/ghci-completion.git
 ghc-imported-from git git://github.com/david-christiansen/ghc-imported-from-el.git
 gherkin-mode git git://github.com/candera/gherkin-mode.git
 gh-md git git://github.com/emacs-pe/gh-md.el.git
-gist git git://github.com/defunkt/gist.el :fetcher github.git
-git git git://github.com/rejeep/git.el :fetcher github.git
+gist git git://github.com/defunkt/gist.el 
+git git git://github.com/rejeep/git.el 
 git-annex git git://github.com/jwiegley/git-annex-el.git
 gitattributes-mode git git://github.com/magit/git-modes.git
 git-auto-commit-mode git git://github.com/ryuslash/git-auto-commit-mode.git
 git-blame git git://github.com/tsgates/git-emacs.git
 git-commit git git://github.com/magit/magit.git
-git-commit-training-wheels-mode git git://github.com/yasuyk/git-commit-training-wheels-mode :fetcher github.git
+git-commit-training-wheels-mode git git://github.com/yasuyk/git-commit-training-wheels-mode 
 gitconfig git git://github.com/tonini/gitconfig.el.git
 gitconfig-mode git git://github.com/magit/git-modes.git
 git-gutter git git://github.com/syohex/emacs-git-gutter.git
-git-gutter+ git git://github.com/nonsequitur/git-gutter-plus :files git-gutter+.el.git
+git-gutter+ git git://github.com/nonsequitur/git-gutter-plus 
 git-gutter-fringe git git://github.com/syohex/emacs-git-gutter-fringe.git
-git-gutter-fringe+ git git://github.com/nonsequitur/git-gutter-fringe-plus :files git-gutter-fringe+.el.git
+git-gutter-fringe+ git git://github.com/nonsequitur/git-gutter-fringe-plus 
 github-browse-file git git://github.com/osener/github-browse-file.git
 github-clone git git://github.com/dgtized/github-clone.el.git
 gitignore-mode git git://github.com/magit/git-modes.git
-gitlab git git://github.com/nlamirault/emacs-gitlab :files gitlab*.el.git
+gitlab git git://github.com/nlamirault/emacs-gitlab 
 git-lens git git://github.com/pidu/git-lens.git
 git-link git git://github.com/sshaw/git-link.git
-git-messenger git git://github.com/syohex/emacs-git-messenger :fetcher github.git
-git-ps1-mode git git://github.com/10sr/git-ps1-mode-el :fetcher github.git
+git-messenger git git://github.com/syohex/emacs-git-messenger 
+git-ps1-mode git git://github.com/10sr/git-ps1-mode-el 
 git-timemachine git git://github.com/pidu/git-timemachine.git
 gitty git git://github.com/jorgenschaefer/gitty.git
 git-wip-timemachine git git://github.com/itsjeyd/git-wip-timemachine.git
 glsl-mode git git://github.com/jimhourihan/glsl-mode.git
-gmail-message-mode git git://github.com/Malabarba/gmail-mode :fetcher github.git
+gmail-message-mode git git://github.com/Malabarba/gmail-mode 
 gnome-calendar git git://github.com/NicolasPetton/gnome-calendar.el.git
 gnomenm git git://github.com/nicferrier/emacs-nm.git
 gntp git git://github.com/tekai/gntp.el .git
@@ -827,63 +827,63 @@ gnus-alias git git://github.com/hexmode/gnus-alias.git
 gnus-desktop-notify git git://github.com/wavexx/gnus-desktop-notify.git
 gnus-summary-ext git git://github.com/vapniks/gnus-summary-ext.git
 gnus-x-gm-raw git git://github.com/aki2o/gnus-x-gm-raw.git
-go-autocomplete git git://github.com/nsf/gocode :files emacs/go-autocomplete.el.git
-go-direx git git://github.com/syohex/emacs-go-direx :fetcher github.git
-go-dlv git git://github.com/benma/go-dlv.el :fetcher github.git
+go-autocomplete git git://github.com/nsf/gocode 
+go-direx git git://github.com/syohex/emacs-go-direx 
+go-dlv git git://github.com/benma/go-dlv.el 
 god-mode git git://github.com/chrisdone/god-mode.git
-go-eldoc git git://github.com/syohex/emacs-go-eldoc :fetcher github.git
-go-errcheck git git://github.com/dominikh/go-errcheck.el :fetcher github.git
-golden-ratio git git://github.com/roman/golden-ratio.el :fetcher github.git
-gold-mode git git://github.com/yuutayamada/gold-mode-el :fetcher github.git
-golint git git://github.com/golang/lint :files misc/emacs/*.el.git
+go-eldoc git git://github.com/syohex/emacs-go-eldoc 
+go-errcheck git git://github.com/dominikh/go-errcheck.el 
+golden-ratio git git://github.com/roman/golden-ratio.el 
+gold-mode git git://github.com/yuutayamada/gold-mode-el 
+golint git git://github.com/golang/lint 
 gom-mode git git://github.com/syohex/emacs-gom-mode.git
 go-mode git git://github.com/dominikh/go-mode.el.git
 google git git://github.com/steckerhalter/google-el.git
 google-contacts git git://github.com/jd/google-contacts.el.git
 google-maps git git://github.com/jd/google-maps.el.git
-google-this git git://github.com/Malabarba/emacs-google-this :fetcher github :files google-this.el.git
+google-this git git://github.com/Malabarba/emacs-google-this 
 google-translate git git://github.com/atykhonov/google-translate.git
 go-play git git://github.com/dominikh/go-play.el.git
-go-projectile git git://github.com/dougm/go-projectile :fetcher github.git
+go-projectile git git://github.com/dougm/go-projectile 
 gore-mode git git://github.com/sergey-pashaev/gore-mode.git
 go-snippets git git://github.com/toumorokoshi/go-snippets.git
 go-stacktracer git git://github.com/samertm/go-stacktracer.el.git
 gotest git git://github.com/nlamirault/gotest.el.git
 gotham-theme git git://github.com/wasamasa/gotham-theme.git
 goto-gem git git://github.com/pidu/goto-gem.git
-goto-last-change git git://github.com/camdez/goto-last-change.el :fetcher github.git
+goto-last-change git git://github.com/camdez/goto-last-change.el 
 govet git git://github.com/meshelton/govet.git
 gplusify git git://github.com/jorgenschaefer/gplusify.git
 gradle-mode git git://github.com/jacobono/emacs-gradle-mode.git
-grails-mode git git://github.com/Groovy-Emacs-Modes/groovy-emacs-modes :files grails-mode.el.git
+grails-mode git git://github.com/Groovy-Emacs-Modes/groovy-emacs-modes 
 grails-projectile-mode git git://github.com/yveszoundi/grails-projectile-mode.git
-grandshell-theme git git://github.com/steckerhalter/grandshell-theme :fetcher github.git
+grandshell-theme git git://github.com/steckerhalter/grandshell-theme 
 graphene git git://github.com/rdallasgray/graphene.git
-graphviz-dot-mode git git://github.com/ppareit/graphviz-dot-mode :fetcher github.git
-grapnel git git://github.com/leathekd/grapnel :files grapnel.el.git
+graphviz-dot-mode git git://github.com/ppareit/graphviz-dot-mode 
+grapnel git git://github.com/leathekd/grapnel 
 green-phosphor-theme git git://github.com/aalpern/emacs-color-theme-green-phosphor.git
 grep-a-lot git git://github.com/ZungBang/emacs-grep-a-lot.git
-greymatters-theme git git://github.com/mswift42/greymatters-theme :fetcher github.git
-grizzl git git://github.com/d11wtq/grizzl :fetcher github.git
-groovy-mode git git://github.com/Groovy-Emacs-Modes/groovy-emacs-modes :files *groovy*.el.git
+greymatters-theme git git://github.com/mswift42/greymatters-theme 
+grizzl git git://github.com/d11wtq/grizzl 
+groovy-mode git git://github.com/Groovy-Emacs-Modes/groovy-emacs-modes 
 gruber-darker-theme git git://github.com/rexim/gruber-darker-theme.git
 grunt git git://github.com/gempesaw/grunt.el.git
 gruvbox-theme git git://github.com/Greduan/emacs-theme-gruvbox.git
 gscholar-bibtex git git://github.com/cute-jumper/gscholar-bibtex.git
-gs-mode git git://github.com/yyr/emacs-grads :files gs-mode.el.git
-guide-key git git://github.com/kai2nenobu/guide-key :fetcher github.git
+gs-mode git git://github.com/yyr/emacs-grads 
+guide-key git git://github.com/kai2nenobu/guide-key 
 guide-key-tip git git://github.com/aki2o/guide-key-tip.git
 guru-mode git git://github.com/bbatsov/guru-mode.git
-gvpr-mode git git://github.com/rodw/gvpr-lib :files extra/*.el.git
+gvpr-mode git git://github.com/rodw/gvpr-lib 
 hackernews git git://github.com/clarete/hackernews.el.git
 hamlet-mode git git://github.com/lightquake/hamlet-mode.git
-haml-mode git git://github.com/nex3/haml-mode :fetcher github.git
-ham-mode git git://github.com/Malabarba/ham-mode :fetcher github.git
+haml-mode git git://github.com/nex3/haml-mode 
+ham-mode git git://github.com/Malabarba/ham-mode 
 handlebars-mode git git://github.com/danielevans/handlebars-mode.git
 handlebars-sgml-mode git git://github.com/jacott/handlebars-sgml-mode.git
-handoff git git://github.com/rejeep/handoff.el :fetcher github.git
+handoff git git://github.com/rejeep/handoff.el 
 hardcore-mode git git://github.com/magnars/hardcore-mode.el.git
-hardhat git git://github.com/rolandwalker/hardhat :fetcher github.git
+hardhat git git://github.com/rolandwalker/hardhat 
 haskell-emacs git git://github.com/knupfer/haskell-emacs.git
 haskell-emacs-base git git://github.com/knupfer/haskell-emacs.git
 haskell-emacs-text git git://github.com/knupfer/haskell-emacs.git
@@ -894,141 +894,141 @@ hayoo git git://github.com/benma/hayoo.el.git
 hc-zenburn-theme git git://github.com/edran/hc-zenburn-emacs.git
 headlong git git://github.com/abo-abo/headlong.git
 helm git git://github.com/emacs-helm/helm.git
-helm-ack git git://github.com/syohex/emacs-helm-ack :fetcher github.git
+helm-ack git git://github.com/syohex/emacs-helm-ack 
 helm-ad git git://github.com/tnoda/helm-ad.git
 helm-ag git git://github.com/syohex/emacs-helm-ag.git
 helm-ag-r git git://github.com/yuutayamada/helm-ag-r.git
-helm-anything git git://github.com/rubikitch/helm-anything :fetcher github.git
+helm-anything git git://github.com/rubikitch/helm-anything 
 helm-aws git git://github.com/istib/helm-aws.git
 helm-backup git git://github.com/antham/helm-backup.git
 helm-bibtex git git://github.com/tmalsburg/helm-bibtex.git
-helm-bibtexkey git git://github.com/kenbeese/helm-bibtexkey :files *.el *.py.git
+helm-bibtexkey git git://github.com/kenbeese/helm-bibtexkey 
 helm-bind-key git git://github.com/myuhe/helm-bind-key.el.git
 helm-bm git git://github.com/yasuyk/helm-bm.git
-helm-bundle-show git git://github.com/masutaka/emacs-helm-bundle-show :fetcher github.git
+helm-bundle-show git git://github.com/masutaka/emacs-helm-bundle-show 
 helm-chrome git git://github.com/kawabata/helm-chrome.git
 helm-chronos git git://github.com/dxknight/helm-chronos.git
-helm-circe git git://github.com/lesharris/helm-circe :fetcher github.git
+helm-circe git git://github.com/lesharris/helm-circe 
 helm-cmd-t git git://github.com/lewang/helm-cmd-t.git
 helm-c-moccur git git://github.com/myuhe/helm-c-moccur.el.git
-helm-commandlinefu git git://github.com/xuchunyang/helm-commandlinefu :fetcher github.git
-helm-company git git://github.com/yasuyk/helm-company :fetcher github.git
+helm-commandlinefu git git://github.com/xuchunyang/helm-commandlinefu 
+helm-company git git://github.com/yasuyk/helm-company 
 helm-core git git://github.com/emacs-helm/helm .git
 helm-cscope git git://github.com/alpha22jp/helm-cscope.el.git
 helm-css-scss git git://github.com/ShingoFukuyama/helm-css-scss.git
 helm-c-yasnippet git git://github.com/emacs-helm/helm-c-yasnippet.git
-helm-dash git git://github.com/areina/helm-dash :fetcher github.git
+helm-dash git git://github.com/areina/helm-dash 
 helm-descbinds git git://github.com/emacs-helm/helm-descbinds.git
 helm-dictionary git git://github.com/emacs-helm/helm-dictionary.git
 helm-dired-recent-dirs git git://github.com/akisute3/helm-dired-recent-dirs.git
 helm-dirset git git://github.com/k1LoW/helm-dirset.git
-helm-emmet git git://github.com/yasuyk/helm-emmet :fetcher github.git
-helm-emms git git://github.com/emacs-helm/helm-emms :fetcher github.git
+helm-emmet git git://github.com/yasuyk/helm-emmet 
+helm-emms git git://github.com/emacs-helm/helm-emms 
 helm-filesets git git://github.com/gcla/helm-filesets.git
-helm-firefox git git://github.com/emacs-helm/helm-firefox :fetcher github.git
+helm-firefox git git://github.com/emacs-helm/helm-firefox 
 helm-flycheck git git://github.com/yasuyk/helm-flycheck.git
 helm-flymake git git://github.com/tam17aki/helm-flymake.git
 helm-flyspell git git://github.com/pronobis/helm-flyspell.git
-helm-fuzzy-find git git://github.com/xuchunyang/helm-fuzzy-find :fetcher github.git
+helm-fuzzy-find git git://github.com/xuchunyang/helm-fuzzy-find 
 helm-ghc git git://github.com/david-christiansen/helm-ghc.git
-helm-ghq git git://github.com/masutaka/emacs-helm-ghq :fetcher github.git
+helm-ghq git git://github.com/masutaka/emacs-helm-ghq 
 helm-gist git git://github.com/emacs-helm/helm-gist.git
-helm-git git git://github.com/maio/helm-git :fetcher github.git
+helm-git git git://github.com/maio/helm-git 
 helm-git-files git git://github.com/kenbeese/helm-git-files.git
 helm-git-grep git git://github.com/yasuyk/helm-git-grep.git
 helm-github-stars git git://github.com/Sliim/helm-github-stars.git
 helm-gitignore git git://github.com/jupl/helm-gitignore.git
-helm-gitlab git git://github.com/nlamirault/emacs-gitlab :files helm-gitlab.el.git
+helm-gitlab git git://github.com/nlamirault/emacs-gitlab 
 helm-google git git://github.com/steckerhalter/helm-google.git
-helm-go-package git git://github.com/yasuyk/helm-go-package :fetcher github.git
+helm-go-package git git://github.com/yasuyk/helm-go-package 
 helm-growthforecast git git://github.com/daic-h/helm-growthforecast.git
 helm-gtags git git://github.com/syohex/emacs-helm-gtags.git
-helm-hatena-bookmark git git://github.com/masutaka/emacs-helm-hatena-bookmark :fetcher github.git
-helm-hayoo git git://github.com/markus1189/helm-hayoo :fetcher github.git
+helm-hatena-bookmark git git://github.com/masutaka/emacs-helm-hatena-bookmark 
+helm-hayoo git git://github.com/markus1189/helm-hayoo 
 helm-helm-commands git git://github.com/vapniks/helm-helm-commands.git
-helm-hoogle git git://github.com/jwiegley/haskell-config :files helm-hoogle.el.git
+helm-hoogle git git://github.com/jwiegley/haskell-config 
 helm-idris git git://github.com/david-christiansen/helm-idris.git
 helm-itunes git git://github.com/daschwa/helm-itunes.git
 helm-j-cheatsheet git git://github.com/abo-abo/helm-j-cheatsheet.git
-helm-jstack git git://github.com/raghavgautam/helm-jstack :fetcher github.git
-helm-lobsters git git://github.com/julienXX/helm-lobste.rs :fetcher github.git
-helm-ls-git git git://github.com/emacs-helm/helm-ls-git :fetcher github.git
+helm-jstack git git://github.com/raghavgautam/helm-jstack 
+helm-lobsters git git://github.com/julienXX/helm-lobste.rs 
+helm-ls-git git git://github.com/emacs-helm/helm-ls-git 
 helm-ls-hg git git://github.com/emacs-helm/helm-ls-hg.git
 helm-make git git://github.com/abo-abo/helm-make.git
 helm-migemo git git://github.com/emacs-helm/helm-migemo.git
 helm-mode-manager git git://github.com/istib/helm-mode-manager.git
-helm-mt git git://github.com/dfdeshom/helm-mt :fetcher github.git
+helm-mt git git://github.com/dfdeshom/helm-mt 
 helm-mu git git://github.com/emacs-helm/helm-mu.git
 helm-open-github git git://github.com/syohex/emacs-helm-open-github.git
 helm-orgcard git git://github.com/emacs-helm/helm-orgcard.git
 helm-package git git://github.com/syohex/emacs-helm-package.git
 helm-pages git git://github.com/david-christiansen/helm-pages.git
 helm-perldoc git git://github.com/syohex/emacs-helm-perldoc.git
-helm-proc git git://github.com/markus1189/helm-proc :fetcher github.git
+helm-proc git git://github.com/markus1189/helm-proc 
 helm-projectile git git://github.com/bbatsov/projectile.git
 helm-project-persist git git://github.com/Sliim/helm-project-persist.git
 helm-prosjekt git git://github.com/abingham/prosjekt.git
 helm-pt git git://github.com/ralesi/helm-pt.git
 helm-pydoc git git://github.com/syohex/emacs-helm-pydoc.git
 helm-R git git://github.com/emacs-helm/helm-R.git
-helm-rails git git://github.com/asok/helm-rails :files helm-rails.el.git
+helm-rails git git://github.com/asok/helm-rails 
 helm-rb git git://github.com/yuutayamada/helm-rb.git
 helm-recoll git git://github.com/emacs-helm/helm-recoll.git
 helm-rhythmbox git git://github.com/mrBliss/helm-rhythmbox.git
 helm-robe git git://github.com/syohex/emacs-helm-robe.git
-helm-rubygems-local git git://github.com/f-kubotar/helm-rubygems-local :fetcher github.git
+helm-rubygems-local git git://github.com/f-kubotar/helm-rubygems-local 
 helm-rubygems-org git git://github.com/neomantic/helm-rubygems-org.git
 helm-sage git git://github.com/stakemori/helm-sage.git
-helm-sheet git git://github.com/yasuyk/helm-sheet :fetcher github.git
-helm-spaces git git://github.com/yasuyk/helm-spaces :fetcher github.git
+helm-sheet git git://github.com/yasuyk/helm-sheet 
+helm-spaces git git://github.com/yasuyk/helm-spaces 
 helm-spotify git git://github.com/krisajenkins/helm-spotify.git
-helm-swoop git git://github.com/ShingoFukuyama/helm-swoop :fetcher github.git
+helm-swoop git git://github.com/ShingoFukuyama/helm-swoop 
 helm-themes git git://github.com/syohex/emacs-helm-themes.git
 helm-unicode git git://github.com/shosti/helm-unicode.git
 helm-w32-launcher git git://github.com/Fanael/helm-w32-launcher.git
-helm-w3m git git://github.com/emacs-helm/helm-w3m :fetcher github.git
-helm-wordnet git git://github.com/raghavgautam/helm-wordnet :fetcher github.git
+helm-w3m git git://github.com/emacs-helm/helm-w3m 
+helm-wordnet git git://github.com/raghavgautam/helm-wordnet 
 helm-words git git://github.com/pronobis/helm-words.git
-helm-zhihu-daily git git://github.com/xuchunyang/helm-zhihu-daily :fetcher github.git
+helm-zhihu-daily git git://github.com/xuchunyang/helm-zhihu-daily 
 hemisu-theme git git://github.com/andrzejsliwa/hemisu-theme.git
 heroku git git://github.com/technomancy/heroku.el.git
 heroku-theme git git://github.com/jonathanchu/heroku-theme.git
 hgignore-mode git git://github.com/omajid/hgignore-mode.git
 hi2 git git://github.com/nilcons/hi2.git
 hideshow-org git git://github.com/shanecelis/hideshow-org.git
-highlight2clipboard git git://github.com/Lindydancer/highlight2clipboard :fetcher github :files :defaults bin.git
+highlight2clipboard git git://github.com/Lindydancer/highlight2clipboard 
 highlight-blocks git git://github.com/Fanael/highlight-blocks.git
 highlight-defined git git://github.com/Fanael/highlight-defined.git
 highlight-escape-sequences git git://github.com/dgutov/highlight-escape-sequences.git
-highlight-indentation git git://github.com/antonj/Highlight-Indentation-for-Emacs :fetcher github.git
+highlight-indentation git git://github.com/antonj/Highlight-Indentation-for-Emacs 
 highlight-numbers git git://github.com/Fanael/highlight-numbers.git
 highlight-parentheses git git://github.com/nschum/highlight-parentheses.el.git
 highlight-quoted git git://github.com/Fanael/highlight-quoted.git
-highlight-stages git git://github.com/zk-phi/highlight-stages :fetcher github.git
+highlight-stages git git://github.com/zk-phi/highlight-stages 
 highlight-symbol git git://github.com/nschum/highlight-symbol.el.git
 highlight-thing git git://github.com/fgeller/highlight-thing.el.git
 highlight-unique-symbol git git://github.com/hitode909/emacs-highlight-unique-symbol.git
-hindent git git://github.com/chrisdone/hindent :files elisp/*.el.git
-hippie-expand-slime git git://github.com/purcell/hippie-expand-slime :fetcher github.git
-hippie-namespace git git://github.com/rolandwalker/hippie-namespace :fetcher github.git
+hindent git git://github.com/chrisdone/hindent 
+hippie-expand-slime git git://github.com/purcell/hippie-expand-slime 
+hippie-namespace git git://github.com/rolandwalker/hippie-namespace 
 hipster-theme git git://github.com/xzerocode/hipster-theme.git
 history git git://github.com/boyw165/history.git
-historyf git git://github.com/k1LoW/emacs-historyf :fetcher github.git
+historyf git git://github.com/k1LoW/emacs-historyf 
 hive git git://github.com/r0man/hive-el.git
 hiwin git git://github.com/yoshida-mediba/hiwin-mode.git
 hl-anything git git://github.com/boyw165/hl-anything.git
 hl-indent git git://github.com/ikirill/hl-indent.git
-hlinum git git://github.com/tom-tan/hlinum-mode :fetcher github.git
-hl-sentence git git://github.com/milkypostman/hl-sentence :fetcher github.git
+hlinum git git://github.com/tom-tan/hlinum-mode 
+hl-sentence git git://github.com/milkypostman/hl-sentence 
 hl-sexp git git://github.com/emacsmirror/hl-sexp.git
-hl-todo git git://github.com/tarsius/hl-todo :fetcher github.git
+hl-todo git git://github.com/tarsius/hl-todo 
 hookify git git://github.com/Silex/hookify.git
-hound git git://github.com/ryoung786/hound.el :fetcher github.git
+hound git git://github.com/ryoung786/hound.el 
 howdoi git git://github.com/atykhonov/emacs-howdoi.git
 how-many-lines-in-project git git://github.com/kaihaosw/how-many-lines-in-project.git
 ht git git://github.com/Wilfred/ht.el.git
-html-script-src git git://github.com/rejeep/html-script-src :fetcher github.git
-html-to-markdown git git://github.com/Malabarba/html-to-markdown :fetcher github.git
+html-script-src git git://github.com/rejeep/html-script-src 
+html-to-markdown git git://github.com/Malabarba/html-to-markdown 
 http git git://github.com/emacs-pe/http.el.git
 httpcode git git://github.com/rspivak/httpcode.el.git
 httprepl git git://github.com/gregsexton/httprepl.el.git
@@ -1036,58 +1036,58 @@ http-twiddle git git://github.com/hassy/http-twiddle.git
 hungry-delete git git://github.com/nflath/hungry-delete.git
 hyde git git://github.com/nibrahim/Hyde.git
 hydra git git://github.com/abo-abo/hydra.git
-hy-mode git git://github.com/hylang/hy-mode :fetcher github.git
+hy-mode git git://github.com/hylang/hy-mode 
 i2b2-mode git git://github.com/danlamanna/i2b2-mode.git
 iasm-mode git git://github.com/RAttab/iasm-mode.git
 ibuffer-git git git://github.com/jrockway/ibuffer-git.git
 ibuffer-projectile git git://github.com/purcell/ibuffer-projectile.git
-ibuffer-rcirc git git://github.com/fgallina/ibuffer-rcirc :fetcher github.git
-ibuffer-tramp git git://github.com/svend/ibuffer-tramp :fetcher github.git
-ibuffer-vc git git://github.com/purcell/ibuffer-vc :fetcher github.git
+ibuffer-rcirc git git://github.com/fgallina/ibuffer-rcirc 
+ibuffer-tramp git git://github.com/svend/ibuffer-tramp 
+ibuffer-vc git git://github.com/purcell/ibuffer-vc 
 identica-mode git git://github.com/gabrielsaldana/Emacs-Identica-mode.git
-idle-highlight-mode git git://github.com/nonsequitur/idle-highlight-mode :fetcher github.git
+idle-highlight-mode git git://github.com/nonsequitur/idle-highlight-mode 
 idle-require git git://github.com/nschum/idle-require.el.git
 id-manager git git://github.com/kiwanami/emacs-id-manager.git
-ido-at-point git git://github.com/katspaugh/ido-at-point :fetcher github.git
-ido-complete-space-or-hyphen git git://github.com/doitian/ido-complete-space-or-hyphen :fetcher github.git
-ido-completing-read+ git git://github.com/DarwinAwardWinner/ido-ubiquitous :fetcher github.git
+ido-at-point git git://github.com/katspaugh/ido-at-point 
+ido-complete-space-or-hyphen git git://github.com/doitian/ido-complete-space-or-hyphen 
+ido-completing-read+ git git://github.com/DarwinAwardWinner/ido-ubiquitous 
 ido-gnus git git://github.com/vapniks/ido-gnus.git
 ido-hacks git git://github.com/scottjad/ido-hacks.git
-ido-load-library git git://github.com/rolandwalker/ido-load-library :fetcher github.git
-idomenu git git://github.com/birkenfeld/idomenu :fetcher github.git
+ido-load-library git git://github.com/rolandwalker/ido-load-library 
+idomenu git git://github.com/birkenfeld/idomenu 
 ido-occasional git git://github.com/abo-abo/ido-occasional.git
-ido-select-window git git://github.com/pjones/ido-select-window :files lisp/*.el.git
+ido-select-window git git://github.com/pjones/ido-select-window 
 ido-sort-mtime git git://github.com/pkkm/ido-sort-mtime.git
-ido-springboard git git://github.com/jwiegley/springboard :files ido-springboard.el.git
-ido-ubiquitous git git://github.com/DarwinAwardWinner/ido-ubiquitous :fetcher github.git
+ido-springboard git git://github.com/jwiegley/springboard 
+ido-ubiquitous git git://github.com/DarwinAwardWinner/ido-ubiquitous 
 ido-vertical-mode git git://github.com/creichert/ido-vertical-mode.el.git
 ido-yes-or-no git git://github.com/DarwinAwardWinner/ido-yes-or-no.git
 idris-mode git git://github.com/idris-hackers/idris-mode.git
 ids-edit git git://github.com/kawabata/ids-edit.git
-iedit git git://github.com/victorhge/iedit :fetcher github.git
-ignoramus git git://github.com/rolandwalker/ignoramus :fetcher github.git
+iedit git git://github.com/victorhge/iedit 
+ignoramus git git://github.com/rolandwalker/ignoramus 
 image+ git git://github.com/mhayashi1120/Emacs-imagex.git
 image-archive git git://github.com/mhayashi1120/Emacs-image-archive.git
 image-dired+ git git://github.com/mhayashi1120/Emacs-image-diredx.git
 imakado git git://github.com/imakado/emacs-imakado.git
-imenu-anywhere git git://github.com/vitoshka/imenu-anywhere :fetcher github.git
+imenu-anywhere git git://github.com/vitoshka/imenu-anywhere 
 imenu-list git git://github.com/bmag/imenu-list.git
-imenus git git://github.com/alezost/imenus.el :fetcher github.git
-imgix git git://github.com/imgix/imgix-emacs :fetcher github :files imgix.el data.git
+imenus git git://github.com/alezost/imenus.el 
+imgix git git://github.com/imgix/imgix-emacs 
 imgur git git://github.com/myuhe/imgur.el.git
 immutant-server git git://github.com/leathekd/immutant-server.el.git
 impatient-mode git git://github.com/netguy204/imp.el.git
-import-popwin git git://github.com/syohex/emacs-import-popwin :fetcher github.git
+import-popwin git git://github.com/syohex/emacs-import-popwin 
 indent-guide git git://github.com/zk-phi/indent-guide.git
 indicators git git://github.com/Fuco1/indicators.el.git
-indy git git://github.com/attichacker/indy :fetcher github.git
-inf-clojure git git://github.com/clojure-emacs/inf-clojure :fetcher github.git
+indy git git://github.com/attichacker/indy 
+inf-clojure git git://github.com/clojure-emacs/inf-clojure 
 inflections git git://github.com/eschulte/jump.el.git
 inf-mongo git git://github.com/tobiassvn/inf-mongo.git
-inf-php git git://github.com/taksatou/inf-php :fetcher github.git
-inf-ruby git git://github.com/nonsequitur/inf-ruby :fetcher github.git
+inf-php git git://github.com/taksatou/inf-php 
+inf-ruby git git://github.com/nonsequitur/inf-ruby 
 init-loader git git://github.com/emacs-jp/init-loader.git
-initsplit git git://github.com/dabrahams/initsplit :files initsplit.el.git
+initsplit git git://github.com/dabrahams/initsplit 
 inkpot-theme git git://github.com/siovan/emacs24-inkpot.git
 inline-crypt git git://github.com/Sodel-the-Vociferous/inline-crypt-el.git
 inlineR git git://github.com/myuhe/inlineR.el.git
@@ -1102,28 +1102,28 @@ io-mode git git://github.com/superbobry/io-mode.git
 io-mode-inf git git://github.com/slackorama/io-emacs.git
 iplayer git git://github.com/csrhodes/iplayer-el.git
 ipretty git git://github.com/steckerhalter/ipretty.git
-ir-black-theme git git://github.com/jmdeldin/ir-black-theme.el :fetcher github.git
+ir-black-theme git git://github.com/jmdeldin/ir-black-theme.el 
 iregister git git://github.com/atykhonov/iregister.el.git
 irony git git://github.com/Sarcasm/irony-mode.git
 irony-eldoc git git://github.com/ikirill/irony-eldoc.git
 isearch-dabbrev git git://github.com/Dewdrops/isearch-dabbrev.git
-isearch-symbol-at-point git git://github.com/re5et/isearch-symbol-at-point :fetcher github.git
-isend-mode git git://github.com/ffevotte/isend-mode.el :files isend-mode.el.git
+isearch-symbol-at-point git git://github.com/re5et/isearch-symbol-at-point 
+isend-mode git git://github.com/ffevotte/isend-mode.el 
 isgd git git://github.com/chmouel/isgd.el.git
 iss-mode git git://github.com/rasmus-toftdahl-olesen/iss-mode.git
-itail git git://github.com/re5et/itail :fetcher github.git
+itail git git://github.com/re5et/itail 
 iterator git git://github.com/thierryvolpiatto/iterator.git
 ivariants git git://github.com/kawabata/emacs-ivariants.git
 ivs-edit git git://github.com/kawabata/ivs-edit.git
-ix git git://github.com/theanalyst/ix.el :fetcher github.git
-jade-mode git git://github.com/brianc/jade-mode :files jade-mode.el.git
+ix git git://github.com/theanalyst/ix.el 
+jade-mode git git://github.com/brianc/jade-mode 
 jammer git git://github.com/wasamasa/jammer.git
 japanese-holidays git git://github.com/emacs-jp/japanese-holidays.git
-japanlaw git git://github.com/mhayashi1120/japanlaw.el :fetcher github.git
-jape-mode git git://github.com/tanzoniteblack/jape-mode :fetcher github.git
+japanlaw git git://github.com/mhayashi1120/japanlaw.el 
+jape-mode git git://github.com/tanzoniteblack/jape-mode 
 jar-manifest-mode git git://github.com/omajid/jar-manifest-mode.git
 jasminejs-mode git git://github.com/stoltene2/jasminejs-mode.git
-jaunte git git://github.com/kawaguchi/jaunte.el :fetcher github.git
+jaunte git git://github.com/kawaguchi/jaunte.el 
 javadoc-lookup git git://github.com/skeeto/javadoc-lookup.git
 javap-mode git git://github.com/hiredman/javap-mode.git
 java-snippets git git://github.com/nekop/yasnippet-java-mode.git
@@ -1142,91 +1142,91 @@ j-mode git git://github.com/zellio/j-mode.git
 jonprl-mode git git://github.com/david-christiansen/jonprl-mode.git
 jquery-doc git git://github.com/ananthakumaran/jquery-doc.el.git
 js2-closure git git://github.com/jart/js2-closure.git
-js2-mode git git://github.com/mooz/js2-mode :fetcher github.git
-js2-refactor git git://github.com/magnars/js2-refactor.el :fetcher github.git
-js3-mode git git://github.com/thomblake/js3-mode :fetcher github.git
+js2-mode git git://github.com/mooz/js2-mode 
+js2-refactor git git://github.com/magnars/js2-refactor.el 
+js3-mode git git://github.com/thomblake/js3-mode 
 js-doc git git://github.com/mooz/js-doc.git
 json-mode git git://github.com/joshwnj/json-mode.git
 json-reformat git git://github.com/gongo/json-reformat.git
 json-rpc git git://github.com/skeeto/elisp-json-rpc.git
 json-snatcher git git://github.com/Sterlingg/json-snatcher.git
-jss git git://github.com/segv/jss :files jss*.el.git
+jss git git://github.com/segv/jss 
 jst git git://github.com/cheunghy/jst-mode.git
 jsx-mode git git://github.com/jsx/jsx-mode.el.git
 julia-mode git git://github.com/JuliaLang/julia.git
 jumblr git git://github.com/mkmcc/jumblr.git
-jump git git://github.com/eschulte/jump.el :fetcher github :files jump.el.git
+jump git git://github.com/eschulte/jump.el 
 jump-char git git://github.com/lewang/jump-char.git
-jump-to-line git git://github.com/ongaeshi/jump-to-line :fetcher github.git
+jump-to-line git git://github.com/ongaeshi/jump-to-line 
 jvm-mode git git://github.com/martintrojer/jvm-mode.el.git
-kaesar git git://github.com/mhayashi1120/Emacs-kaesar :files kaesar.el.git
-kaesar-file git git://github.com/mhayashi1120/Emacs-kaesar :files kaesar-file.el.git
-kaesar-mode git git://github.com/mhayashi1120/Emacs-kaesar :files kaesar-mode.el.git
+kaesar git git://github.com/mhayashi1120/Emacs-kaesar 
+kaesar-file git git://github.com/mhayashi1120/Emacs-kaesar 
+kaesar-mode git git://github.com/mhayashi1120/Emacs-kaesar 
 kakapo-mode git git://github.com/listx/kakapo-mode.git
 kanji-mode git git://github.com/wsgac/kanji-mode.git
 karma git git://github.com/tonini/karma.el.git
 kerl git git://github.com/correl/kerl.el.git
-keychain-environment git git://github.com/tarsius/keychain-environment :fetcher github.git
+keychain-environment git git://github.com/tarsius/keychain-environment 
 key-combo git git://github.com/uk-ar/key-combo.git
 keydef git git://github.com/emacsmirror/keydef.git
 keyfreq git git://github.com/dacap/keyfreq.git
-key-intercept git git://github.com/tarao/key-intercept-el :fetcher github.git
-keymap-utils git git://github.com/tarsius/keymap-utils :fetcher github.git
+key-intercept git git://github.com/tarao/key-intercept-el 
+keymap-utils git git://github.com/tarsius/keymap-utils 
 key-seq git git://github.com/vlevit/key-seq.el.git
 keyset git git://github.com/HKey/keyset.git
 kfg git git://github.com/abingham/kfg.git
 kibit-helper git git://github.com/brunchboy/kibit-helper.git
 kibit-mode git git://github.com/aredington/kibit-mode.git
-killer git git://github.com/tarsius/killer :fetcher github.git
-kill-or-bury-alive git git://github.com/mrkkrp/kill-or-bury-alive :fetcher github.git
+killer git git://github.com/tarsius/killer 
+kill-or-bury-alive git git://github.com/mrkkrp/kill-or-bury-alive 
 kill-ring-search git git://github.com/nschum/kill-ring-search.el.git
 kite git git://github.com/jscheid/kite.git
-kivy-mode git git://github.com/kivy/kivy :fetcher github :files kivy/tools/highlight/kivy-mode.el.git
+kivy-mode git git://github.com/kivy/kivy 
 kixtart-mode git git://github.com/ryrun/kixtart-mode.git
 kmacro-decision git git://github.com/vapniks/kmacro-decision.git
-know-your-http-well git git://github.com/for-GET/know-your-http-well :files emacs/*.el.git
+know-your-http-well git git://github.com/for-GET/know-your-http-well 
 kolon-mode git git://github.com/samvtran/kolon-mode.git
 kpm-list git git://github.com/KMahoney/kpm-list.git
 kurecolor git git://github.com/emacsfodder/kurecolor.git
-kv git git://github.com/nicferrier/emacs-kv :files kv.el.git
+kv git git://github.com/nicferrier/emacs-kv 
 kwin git git://github.com/reactormonk/kwin-minor-mode.git
-langdoc git git://github.com/tom-tan/langdoc :fetcher github.git
+langdoc git git://github.com/tom-tan/langdoc 
 lang-refactor-perl git git://github.com/jplindstrom/emacs-lang-refactor-perl.git
-langtool git git://github.com/mhayashi1120/Emacs-langtool :files langtool.el.git
+langtool git git://github.com/mhayashi1120/Emacs-langtool 
 latest-clojure-libraries git git://github.com/AdamClements/latest-clojure-libraries.git
-latex-extra git git://github.com/Malabarba/latex-extra :fetcher github.git
+latex-extra git git://github.com/Malabarba/latex-extra 
 latex-preview-pane git git://github.com/jsinglet/latex-preview-pane.git
 launch git git://github.com/sfllaw/emacs-launch.git
 launchctl git git://github.com/pekingduck/launchctl-el.git
 lavender-theme git git://github.com/emacsfodder/emacs-lavender-theme.git
-ldap-mode git git://github.com/emacsmirror/ldap-mode :fetcher github.git
-ledger-mode git git://github.com/ledger/ledger :files lisp/*.el :branch next :old-names ldg-mode.git
+ldap-mode git git://github.com/emacsmirror/ldap-mode 
+ledger-mode git git://github.com/ledger/ledger 
 leerzeichen git git://github.com/fgeller/leerzeichen.el.git
 lein git git://github.com/technomancy/lein.el.git
-lemon-mode git git://github.com/mooz/lemon-mode :fetcher github.git
+lemon-mode git git://github.com/mooz/lemon-mode 
 lenlen-theme git git://github.com/zk-phi/lenlen-theme.git
 lentic git git://github.com/phillord/lentic.git
 lentic-server git git://github.com/phillord/lentic-server.git
-less-css-mode git git://github.com/purcell/less-css-mode :fetcher github.git
+less-css-mode git git://github.com/purcell/less-css-mode 
 letcheck git git://github.com/Fuco1/letcheck.git
 leuven-theme git git://github.com/fniessen/emacs-leuven-theme.git
 lexbind-mode git git://github.com/spacebat/lexbind-mode.git
-lfe-mode git git://github.com/rvirding/lfe :files emacs/inferior-lfe.el emacs/lfe-mode.el.git
+lfe-mode git git://github.com/rvirding/lfe 
 libmpdee git git://github.com/andyetitmoves/libmpdee.git
-lice git git://github.com/buzztaiki/lice-el :files *.el template.git
-light-soap-theme git git://github.com/mswift42/light-soap-theme :fetcher github.git
+lice git git://github.com/buzztaiki/lice-el 
+light-soap-theme git git://github.com/mswift42/light-soap-theme 
 lingr git git://github.com/lugecy/lingr-el.git
 link git git://github.com/myrkr/dictionary-el.git
 linphone git git://github.com/zabbal/emacs-linphone.git
 linum-off git git://github.com/mlf176f2/linum-off.git
 linum-relative git git://github.com/coldnew/linum-relative.git
-lisp-extra-font-lock git git://github.com/Lindydancer/lisp-extra-font-lock :fetcher github.git
+lisp-extra-font-lock git git://github.com/Lindydancer/lisp-extra-font-lock 
 lispy git git://github.com/abo-abo/lispy.git
 lispyscript-mode git git://github.com/krisajenkins/lispyscript-mode.git
 list-environment git git://github.com/dgtized/list-environment.el.git
-list-packages-ext git git://github.com/laynor/list-packages-ext :fetcher github.git
+list-packages-ext git git://github.com/laynor/list-packages-ext 
 list-unicode-display git git://github.com/purcell/list-unicode-display.git
-list-utils git git://github.com/rolandwalker/list-utils :fetcher github.git
+list-utils git git://github.com/rolandwalker/list-utils 
 litable git git://github.com/Fuco1/litable.git
 literate-coffee-mode git git://github.com/syohex/emacs-literate-coffee-mode.git
 literate-starter-kit git git://github.com/eschulte/emacs24-starter-kit.git
@@ -1236,31 +1236,31 @@ livescript-mode git git://github.com/yhisamatsu/livescript-mode.git
 livid-mode git git://github.com/pandeiro/livid-mode.git
 load-relative git git://github.com/rocky/emacs-load-relative.git
 load-theme-buffer-local git git://github.com/vic/color-theme-buffer-local.git
-loc-changes git git://github.com/rocky/emacs-loc-changes :files loc-changes.el.git
+loc-changes git git://github.com/rocky/emacs-loc-changes 
 loccur git git://github.com/fourier/loccur.git
 lodgeit git git://github.com/ionrock/lodgeit-el.git
 log4e git git://github.com/aki2o/log4e.git
-log4j-mode git git://github.com/emacsmirror/log4j-mode :fetcher github.git
+log4j-mode git git://github.com/emacsmirror/log4j-mode 
 logalimacs git git://github.com/logaling/logalimacs.git
-logito git git://github.com/sigma/logito :fetcher github.git
-logstash-conf git git://github.com/Wilfred/logstash-conf.el :fetcher github.git
+logito git git://github.com/sigma/logito 
+logstash-conf git git://github.com/Wilfred/logstash-conf.el 
 lolcode-mode git git://github.com/bodil/lolcode-mode.git
 look-dired git git://github.com/vapniks/look-dired.git
-loop git git://github.com/Wilfred/loop.el :fetcher github :files loop.el.git
+loop git git://github.com/Wilfred/loop.el 
 lorem-ipsum git git://github.com/jschaf/emacs-lorem-ipsum.git
-love-minor-mode git git://github.com/ejmr/love-minor-mode :fetcher github.git
+love-minor-mode git git://github.com/ejmr/love-minor-mode 
 lua-mode git git://github.com/immerrr/lua-mode.git
 lush-theme git git://github.com/andre-richter/emacs-lush-theme.git
-lusty-explorer git git://github.com/sjbach/lusty-emacs :fetcher github :files.git
+lusty-explorer git git://github.com/sjbach/lusty-emacs 
 lxc git git://github.com/nicferrier/emacs-lxc.git
 macro-math git git://github.com/nschum/macro-math.el.git
 macrostep git git://github.com/joddie/macrostep.git
-magic-latex-buffer git git://github.com/zk-phi/magic-latex-buffer :fetcher github.git
+magic-latex-buffer git git://github.com/zk-phi/magic-latex-buffer 
 magit git git://github.com/magit/magit.git
 magit-annex git git://github.com/magit/magit-annex.git
 magit-filenotify git git://github.com/magit/magit-filenotify.git
-magit-find-file git git://github.com/bradleywright/magit-find-file.el :fetcher github.git
-magit-gerrit git git://github.com/terranpro/magit-gerrit :fetcher github.git
+magit-find-file git git://github.com/bradleywright/magit-find-file.el 
+magit-gerrit git git://github.com/terranpro/magit-gerrit 
 magit-gh-pulls git git://github.com/sigma/magit-gh-pulls.git
 magit-gitflow git git://github.com/jtatarik/magit-gitflow.git
 magit-popup git git://github.com/magit/magit.git
@@ -1269,10 +1269,10 @@ magit-svn git git://github.com/magit/magit-svn.git
 magit-topgit git git://github.com/magit/magit-topgit.git
 magit-tramp git git://github.com/magit/magit-tramp.git
 magma-mode git git://github.com/ThibautVerron/magma-mode.git
-mag-menu git git://github.com/chumpage/mag-menu :fetcher github.git
-magnatune git git://github.com/eikek/magnatune.el :fetcher github.git
+mag-menu git git://github.com/chumpage/mag-menu 
+magnatune git git://github.com/eikek/magnatune.el 
 main-line git git://github.com/jasonm23/emacs-mainline.git
-make-color git git://github.com/alezost/make-color.el :fetcher github.git
+make-color git git://github.com/alezost/make-color.el 
 make-it-so git git://github.com/abo-abo/make-it-so.git
 maker-mode git git://github.com/fommil/maker-mode.git
 makey git git://github.com/mickeynp/makey.git
@@ -1280,126 +1280,126 @@ malabar-mode git git://github.com/m0smith/malabar-mode.git
 malinka git git://github.com/LefterisJP/malinka.git
 mallard-mode git git://github.com/jhradilek/emacs-mallard-mode.git
 mallard-snippets git git://github.com/jhradilek/emacs-mallard-snippets.git
-manage-minor-mode git git://github.com/ShingoFukuyama/manage-minor-mode :fetcher github.git
+manage-minor-mode git git://github.com/ShingoFukuyama/manage-minor-mode 
 man-commands git git://github.com/nflath/man-commands.git
-mandoku git git://github.com/cwittern/mandoku :files lisp/*.el lisp/*.org.git
-mandoku-meta-kr git git://github.com/cwittern/KR :files KR*.txt *.el .git
-mandoku-meta-zb git git://github.com/cwittern/ZB :files ZB*.txt *.el .git
-map-progress git git://github.com/tarsius/map-progress :fetcher github.git
-map-regexp git git://github.com/tarsius/map-regexp :fetcher github.git
+mandoku git git://github.com/cwittern/mandoku 
+mandoku-meta-kr git git://github.com/cwittern/KR 
+mandoku-meta-zb git git://github.com/cwittern/ZB 
+map-progress git git://github.com/tarsius/map-progress 
+map-regexp git git://github.com/tarsius/map-regexp 
 marcopolo git git://github.com/nlamirault/marcopolo.git
 markdown-mode+ git git://github.com/milkypostman/markdown-mode-plus.git
 markdown-toc git git://github.com/ardumont/markdown-toc.git
 mark-multiple git git://github.com/magnars/mark-multiple.el.git
-mark-tools git git://github.com/stsquad/emacs-mark-tools :fetcher github.git
+mark-tools git git://github.com/stsquad/emacs-mark-tools 
 markup git git://github.com/leoc/markup.el.git
 markup-faces git git://github.com/sensorflo/markup-faces.git
-marmalade git git://github.com/nex3/marmalade :files elisp/marmalade.el.git
-marmalade-client git git://github.com/nicferrier/emacs-marmalade-upload :old-names marmalade-upload.git
+marmalade git git://github.com/nex3/marmalade 
+marmalade-client git git://github.com/nicferrier/emacs-marmalade-upload
 marshal git git://github.com/sigma/marshal.el.git
 material-theme git git://github.com/cpaulik/emacs-material-theme.git
 math-symbol-lists git git://github.com/vspinu/math-symbol-lists.git
 math-symbols git git://github.com/kawabata/math-symbols.git
 maven-test-mode git git://github.com/rranelli/maven-test-mode.git
 maxframe git git://github.com/rmm5t/maxframe.el.git
-mbe git git://github.com/ijp/mbe.el :files mbe.el.git
+mbe git git://github.com/ijp/mbe.el 
 mbo70s-theme git git://github.com/emacsfodder/emacs-mbo70s-theme.git
 m-buffer git git://github.com/phillord/m-buffer-el.git
 mc-extras git git://github.com/knu/mc-extras.el.git
-md-readme git git://github.com/thomas11/md-readme :fetcher github :files :defaults bin.git
-mediawiki git git://github.com/hexmode/mediawiki-el :fetcher github.git
+md-readme git git://github.com/thomas11/md-readme 
+mediawiki git git://github.com/hexmode/mediawiki-el 
 mellow-theme git git://github.com/emacsfodder/emacs-mellow-theme.git
-melpa-upstream-visit git git://github.com/laynor/melpa-upstream-visit :fetcher github.git
+melpa-upstream-visit git git://github.com/laynor/melpa-upstream-visit 
 memoize git git://github.com/skeeto/emacs-memoize.git
-mentor git git://github.com/skangas/mentor :fetcher github.git
-merlin git git://github.com/the-lambda-church/merlin :files emacs/*.el.git
-meta-presenter git git://github.com/myTerminal/meta-presenter :fetcher github.git
+mentor git git://github.com/skangas/mentor 
+merlin git git://github.com/the-lambda-church/merlin 
+meta-presenter git git://github.com/myTerminal/meta-presenter 
 metascript-mode git git://github.com/metascript/metascript-mode.git
 metaweblog git git://github.com/punchagan/metaweblog.el.git
-mew git git://github.com/kazu-yamamoto/Mew :files *.el etc info/*.info*.git
-mhc git git://github.com/yoshinari-nomura/mhc :files emacs/mhc*.el.git
+mew git git://github.com/kazu-yamamoto/Mew 
+mhc git git://github.com/yoshinari-nomura/mhc 
 midje-mode git git://github.com/dnaumov/midje-mode.git
 midje-test-mode git git://github.com/bpoweski/midje-test-mode.git
 migemo git git://github.com/emacs-jp/migemo.git
-milkode git git://github.com/ongaeshi/emacs-milkode :fetcher github.git
-minibuffer-complete-cycle git git://github.com/knu/minibuffer-complete-cycle :fetcher github.git
+milkode git git://github.com/ongaeshi/emacs-milkode 
+minibuffer-complete-cycle git git://github.com/knu/minibuffer-complete-cycle 
 minibuffer-cua git git://github.com/knu/minibuffer-cua.el.git
 miniedit git git://github.com/emacsmirror/miniedit.git
-minimal-session-saver git git://github.com/rolandwalker/minimal-session-saver :fetcher github.git
-minimal-theme git git://github.com/ikame/minimal-theme :fetcher github.git
+minimal-session-saver git git://github.com/rolandwalker/minimal-session-saver 
+minimal-theme git git://github.com/ikame/minimal-theme 
 minimap git git://github.com/dustinlacewell/emacs-minimap.git
 minitest git git://github.com/arthurnn/minitest-emacs.git
 mip-mode git git://github.com/gaudecker/mip-mode.git
 mkdown git git://github.com/ajtulloch/mkdown.el.git
-mmm-mode git git://github.com/purcell/mmm-mode :fetcher github.git
+mmm-mode git git://github.com/purcell/mmm-mode 
 mobdebug-mode git git://github.com/deftsp/mobdebug-mode.git
 mocha-snippets git git://github.com/cowboyd/mocha-snippets.el.git
-mocker git git://github.com/sigma/mocker.el :fetcher github.git
-mode-line-debug git git://github.com/tarsius/mode-line-debug :fetcher github.git
+mocker git git://github.com/sigma/mocker.el 
+mode-line-debug git git://github.com/tarsius/mode-line-debug 
 modtime-skip-mode git git://github.com/jordonbiondo/modtime-skip-mode.git
 moe-theme git git://github.com/kuanyui/moe-theme.el.git
-mo-git-blame git git://github.com/mbunkus/mo-git-blame :fetcher github.git
+mo-git-blame git git://github.com/mbunkus/mo-git-blame 
 molokai-theme git git://github.com/alloy-d/color-theme-molokai.git
-mongo git git://github.com/m2ym/mongo-el :files mongo.el bson.el.git
-monky git git://github.com/ananthakumaran/monky :files *.el *.info style.git
-monochrome-theme git git://github.com/fxn/monochrome-theme.el :fetcher github.git
+mongo git git://github.com/m2ym/mongo-el 
+monky git git://github.com/ananthakumaran/monky 
+monochrome-theme git git://github.com/fxn/monochrome-theme.el 
 monokai-theme git git://github.com/oneKelvinSmith/monokai-emacs.git
 monroe git git://github.com/sanel/monroe.git
-morlock git git://github.com/tarsius/morlock :fetcher github.git
+morlock git git://github.com/tarsius/morlock 
 mote-mode git git://github.com/inkel/mote-mode.git
 motion-mode git git://github.com/ainame/motion-mode.git
-mouse-slider-mode git git://github.com/skeeto/mouse-slider-mode :files mouse-slider-mode.el.git
+mouse-slider-mode git git://github.com/skeeto/mouse-slider-mode 
 move-dup git git://github.com/wyuenho/move-dup.git
 mo-vi-ment-mode git git://github.com/AjayMT/mo-vi-ment.git
 mowedline git git://github.com/retroj/mowedline.git
-moz git git://github.com/bard/mozrepl :files chrome/content/moz.el.git
+moz git git://github.com/bard/mozrepl 
 mozc-im git git://github.com/d5884/mozc-im.git
 moz-controller git git://github.com/RenWenshan/emacs-moz-controller.git
 mozc-popup git git://github.com/d5884/mozc-popup.git
 mpages git git://github.com/slevin/mpages.git
 mpv git git://github.com/kljohann/mpv.el.git
-msvc git git://github.com/yaruopooner/msvc :fetcher github.git
-mu4e-maildirs-extension git git://github.com/agpchil/mu4e-maildirs-extension :fetcher github.git
+msvc git git://github.com/yaruopooner/msvc 
+mu4e-maildirs-extension git git://github.com/agpchil/mu4e-maildirs-extension 
 multi git git://github.com/kurisuwhyte/emacs-multi.git
-multicolumn git git://github.com/Lindydancer/multicolumn :fetcher github.git
+multicolumn git git://github.com/Lindydancer/multicolumn 
 multifiles git git://github.com/magnars/multifiles.el.git
 multiple-cursors git git://github.com/magnars/multiple-cursors.el.git
-multi-web-mode git git://github.com/fgallina/multi-web-mode :fetcher github.git
+multi-web-mode git git://github.com/fgallina/multi-web-mode 
 mustache git git://github.com/Wilfred/mustache.el.git
 mustache-mode git git://github.com/mustache/emacs.git
-mustang-theme git git://github.com/mswift42/mustang-theme :fetcher github :files mustang-theme.el.git
+mustang-theme git git://github.com/mswift42/mustang-theme 
 mustard-theme git git://github.com/emacsfodder/emacs-mustard-theme.git
 mvn git git://github.com/apgwoz/mvn-el.git
 mwe-log-commands git git://github.com/emacsmirror/mwe-log-commands.git
-mwim git git://github.com/alezost/mwim.el :fetcher github.git
+mwim git git://github.com/alezost/mwim.el 
 mykie git git://github.com/yuutayamada/mykie-el.git
 mynt-mode git git://github.com/crshd/mynt-mode.git
 mysql2sqlite git git://github.com/echosa/emacs-mysql2sqlite.git
-myterminal-controls git git://github.com/myTerminal/myterminal-controls :fetcher github.git
+myterminal-controls git git://github.com/myTerminal/myterminal-controls 
 n3-mode git git://github.com/doriantaylor/n3-mode-for-emacs.git
 n4js git git://github.com/tmtxt/n4js.el.git
-names git git://github.com/Malabarba/names :fetcher github.git
+names git git://github.com/Malabarba/names 
 namespaces git git://github.com/chrisbarrett/elisp-namespaces.git
 naquadah-theme git git://github.com/jd/naquadah-theme.git
 narrowed-page-navigation git git://github.com/david-christiansen/narrowed-page-navigation.git
-nasm-mode git git://github.com/skeeto/nasm-mode :fetcher github.git
-nav-flash git git://github.com/rolandwalker/nav-flash :fetcher github.git
+nasm-mode git git://github.com/skeeto/nasm-mode 
+nav-flash git git://github.com/rolandwalker/nav-flash 
 navi2ch git git://github.com/naota/navi2ch.git
 navi-mode git git://github.com/tj64/navi.git
-navorski git git://github.com/roman/navorski.el :fetcher github.git
+navorski git git://github.com/roman/navorski.el 
 nclip git git://github.com/maio/nclip.el.git
 ncl-mode git git://github.com/yyr/ncl-mode.git
-nemerle git git://github.com/rsdn/nemerle :files misc/nemerle.el.git
+nemerle git git://github.com/rsdn/nemerle 
 neotree git git://github.com/jaypei/emacs-neotree.git
-netherlands-holidays git git://github.com/abo-abo/netherlands-holidays :fetcher github.git
+netherlands-holidays git git://github.com/abo-abo/netherlands-holidays 
 never-comment git git://github.com/To1ne/never-comment.git
 newlisp-mode git git://github.com/kosh04/newlisp-mode.git
 nexus git git://github.com/juergenhoetzel/emacs-nexus.git
 nginx-mode git git://github.com/ajc/nginx-mode.git
 niflheim-theme git git://github.com/niflheim-theme/emacs.git
 nim-mode git git://github.com/reactormonk/nim-mode.git
-ninja-mode git git://github.com/martine/ninja :files misc/*.el.git
-nix-mode git git://github.com/NixOS/nix :fetcher github.git
+ninja-mode git git://github.com/martine/ninja 
+nix-mode git git://github.com/NixOS/nix 
 nm git git://github.com/tjim/nevermore.git
 nnir-est git git://github.com/kawabata/nnir-est.git
 noccur git git://github.com/NicolasPetton/noccur.el.git
@@ -1413,33 +1413,33 @@ nrepl-ritz git git://github.com/pallet/ritz.git
 nrepl-sync git git://github.com/phillord/lein-sync.git
 nsis-mode git git://github.com/mlf176f2/nsis-mode.git
 number git git://github.com/chrisdone/number.git
-nummm-mode git git://github.com/agpchil/nummm-mode :fetcher github.git
+nummm-mode git git://github.com/agpchil/nummm-mode 
 nu-mode git git://github.com/pyluyten/emacs-nu.git
-nvm git git://github.com/rejeep/nvm.el :fetcher github.git
+nvm git git://github.com/rejeep/nvm.el 
 nyan-mode git git://github.com/TeMPOraL/nyan-mode.git
 nyan-prompt git git://github.com/PuercoPop/nyan-prompt.git
 oauth git git://github.com/psanford/emacs-oauth.git
 ob-browser git git://github.com/krisajenkins/ob-browser.git
-ob-cypher git git://github.com/zweifisch/ob-cypher :fetcher github.git
+ob-cypher git git://github.com/zweifisch/ob-cypher 
 oberon git git://github.com/emacsmirror/oberon.git
-ob-http git git://github.com/zweifisch/ob-http :fetcher github.git
-ob-ipython git git://github.com/gregsexton/ob-ipython :files :defaults *.py.git
-objc-font-lock git git://github.com/Lindydancer/objc-font-lock :fetcher github.git
-ob-kotlin git git://github.com/zweifisch/ob-kotlin :fetcher github.git
-ob-lfe git git://github.com/zweifisch/ob-lfe :fetcher github.git
+ob-http git git://github.com/zweifisch/ob-http 
+ob-ipython git git://github.com/gregsexton/ob-ipython 
+objc-font-lock git git://github.com/Lindydancer/objc-font-lock 
+ob-kotlin git git://github.com/zweifisch/ob-kotlin 
+ob-lfe git git://github.com/zweifisch/ob-lfe 
 o-blog git git://github.com/renard/o-blog.git
 ob-mongo git git://github.com/krisajenkins/ob-mongo.git
 ob-prolog git git://github.com/ljos/ob-prolog.git
-obsidian-theme git git://github.com/mswift42/obsidian-theme :fetcher github.git
+obsidian-theme git git://github.com/mswift42/obsidian-theme 
 ob-sml git git://github.com/swannodette/ob-sml.git
 ob-translate git git://github.com/krisajenkins/ob-translate.git
-occidental-theme git git://github.com/olcai/occidental-theme :fetcher github.git
+occidental-theme git git://github.com/olcai/occidental-theme 
 occur-context-resize git git://github.com/dgtized/occur-context-resize.el.git
 occur-x git git://github.com/juan-leon/occur-x.git
 ocodo-svg-modelines git git://github.com/ocodo/ocodo-svg-modelines.git
-ocp-indent git git://github.com/OCamlPro/ocp-indent :files tools/ocp-indent.el.git
+ocp-indent git git://github.com/OCamlPro/ocp-indent 
 offlineimap git git://github.com/jd/offlineimap.el.git
-oldlace-theme git git://github.com/mswift42/oldlace-theme :fetcher github.git
+oldlace-theme git git://github.com/mswift42/oldlace-theme 
 olivetti git git://github.com/rnkn/olivetti.git
 om-mode git git://github.com/danielsz/om-mode.git
 omni-kill git git://github.com/AdrieanKhisbe/omni-kill.el.git
@@ -1451,13 +1451,13 @@ omnisharp git git://github.com/OmniSharp/omnisharp-emacs.git
 omni-tags git git://github.com/AdrieanKhisbe/omni-tags.el.git
 on-parens git git://github.com/willghatch/emacs-on-parens.git
 on-screen git git://github.com/michael-heerdegen/on-screen.el.git
-opam git git://github.com/lunaryorn/opam.el :fetcher github.git
+opam git git://github.com/lunaryorn/opam.el 
 openstack-cgit-browse-file git git://github.com/chmouel/openstack-cgit-browse-file.git
 operate-on-number git git://github.com/knu/operate-on-number.el.git
-org2blog git git://github.com/punchagan/org2blog :fetcher github.git
+org2blog git git://github.com/punchagan/org2blog 
 org2jekyll git git://github.com/ardumont/org2jekyll.git
 org-ac git git://github.com/aki2o/org-ac.git
-org-agenda-property git git://github.com/Malabarba/org-agenda-property :fetcher github.git
+org-agenda-property git git://github.com/Malabarba/org-agenda-property 
 organic-green-theme git git://github.com/kostafey/organic-green-theme.git
 org-autolist git git://github.com/calvinwyoung/org-autolist.git
 org-beautify-theme git git://github.com/jonnay/emagicians-starter-kit.git
@@ -1474,33 +1474,33 @@ org-download git git://github.com/abo-abo/org-download.git
 org-drill-table git git://github.com/chrisbarrett/org-drill-table.git
 org-dropbox git git://github.com/heikkil/org-dropbox.git
 org-ehtml git git://github.com/eschulte/org-ehtml.git
-org-elisp-help git git://github.com/tarsius/org-elisp-help :fetcher github.git
+org-elisp-help git git://github.com/tarsius/org-elisp-help 
 org-gcal git git://github.com/myuhe/org-gcal.el.git
 org-gnome git git://github.com/NicolasPetton/org-gnome.el.git
 org-grep git git://github.com/pinard/org-grep.git
 orgit git git://github.com/magit/orgit.git
 org-jekyll git git://github.com/juanre/org-jekyll.git
-org-jira git git://github.com/baohaojun/org-jira :files jiralib.el org-jira.el.git
+org-jira git git://github.com/baohaojun/org-jira 
 org-journal git git://github.com/bastibe/emacs-journal.git
-orglink git git://github.com/tarsius/orglink :fetcher github.git
+orglink git git://github.com/tarsius/orglink 
 org-linkany git git://github.com/aki2o/org-linkany.git
 org-link-travis git git://github.com/aki2o/org-link-travis.git
 orglue git git://github.com/yoshinari-nomura/orglue.git
-org-mobile-sync git git://github.com/steckerhalter/org-mobile-sync :fetcher github.git
+org-mobile-sync git git://github.com/steckerhalter/org-mobile-sync 
 org-multiple-keymap git git://github.com/myuhe/org-multiple-keymap.el.git
-org-octopress git git://github.com/yoshinari-nomura/org-octopress :files *.el setup-sample.org.git
+org-octopress git git://github.com/yoshinari-nomura/org-octopress 
 org-outlook git git://github.com/mlf176f2/org-outlook.el.git
 org-page git git://github.com/kelvinh/org-page.git
 org-pandoc git git://github.com/robtillotson/org-pandoc.git
 org-password-manager git git://github.com/leafac/org-password-manager.git
-org-pdfview git git://github.com/markus1189/org-pdfview :fetcher github.git
+org-pdfview git git://github.com/markus1189/org-pdfview 
 org-pomodoro git git://github.com/lolownia/org-pomodoro.git
 org-present git git://github.com/rlister/org-present.git
 org-projectile git git://github.com/IvanMalison/org-projectile.git
 org-protocol-jekyll git git://github.com/vonavi/org-protocol-jekyll.git
 org-readme git git://github.com/mlf176f2/org-readme.git
 org-redmine git git://github.com/gongo/org-redmine.git
-org-repo-todo git git://github.com/waymondo/org-repo-todo :fetcher github.git
+org-repo-todo git git://github.com/waymondo/org-repo-todo 
 org-screenshot git git://github.com/dfeich/org-screenshot.git
 org-table-comment git git://github.com/mlf176f2/org-table-comment.el.git
 orgtbl-aggregate git git://github.com/tbanel/orgaggregate.git
@@ -1515,36 +1515,36 @@ org-vcard git git://github.com/flexibeast/org-vcard.git
 org-wc git git://github.com/dato/org-wc.git
 org-webpage git git://github.com/tumashu/org-webpage.git
 origami git git://github.com/gregsexton/origami.el.git
-osx-browse git git://github.com/rolandwalker/osx-browse :fetcher github.git
+osx-browse git git://github.com/rolandwalker/osx-browse 
 osx-clipboard git git://github.com/joddie/osx-clipboard-mode.git
 osx-dictionary git git://github.com/xuchunyang/osx-dictionary.el.git
-osx-lib git git://github.com/raghavgautam/osx-lib :fetcher github.git
+osx-lib git git://github.com/raghavgautam/osx-lib 
 osx-location git git://github.com/purcell/osx-location.git
-osx-org-clock-menubar git git://github.com/jordonbiondo/osx-org-clock-menubar :files :defaults *.rb.git
+osx-org-clock-menubar git git://github.com/jordonbiondo/osx-org-clock-menubar 
 osx-plist git git://github.com/emacsmirror/osx-plist.git
-osx-pseudo-daemon git git://github.com/DarwinAwardWinner/osx-pseudo-daemon :fetcher github.git
+osx-pseudo-daemon git git://github.com/DarwinAwardWinner/osx-pseudo-daemon 
 osx-trash git git://github.com/lunaryorn/osx-trash.el.git
-otter-mode git git://github.com/scvalex/script-fu :files otter-mode.el.git
+otter-mode git git://github.com/scvalex/script-fu 
 outlined-elisp-mode git git://github.com/zk-phi/outlined-elisp-mode.git
-outline-magic git git://github.com/tj64/outline-magic :fetcher github.git
+outline-magic git git://github.com/tj64/outline-magic 
 outorg git git://github.com/tj64/outorg.git
-outshine git git://github.com/tj64/outshine :files outshine.el.git
-ov git git://github.com/ShingoFukuyama/ov.el :fetcher github.git
+outshine git git://github.com/tj64/outshine 
+ov git git://github.com/ShingoFukuyama/ov.el 
 overseer git git://github.com/tonini/overseer.el.git
 owdriver git git://github.com/aki2o/owdriver.git
-ox-asciidoc git git://github.com/yashi/org-asciidoc :files ox-asciidoc.el.git
+ox-asciidoc git git://github.com/yashi/org-asciidoc 
 ox-gfm git git://github.com/larstvei/ox-gfm.git
 ox-html5slide git git://github.com/coldnew/org-html5slide.git
 ox-impress-js git git://github.com/kinjo/org-impress-js.el.git
-ox-ioslide git git://github.com/coldnew/org-ioslide :files :defaults js theme images.git
+ox-ioslide git git://github.com/coldnew/org-ioslide 
 ox-nikola git git://github.com/masayuko/ox-nikola.git
 ox-pandoc git git://github.com/kawabata/ox-pandoc.git
-ox-pukiwiki git git://github.com/yashi/org-pukiwiki :files ox-pukiwiki.el.git
-ox-reveal git git://github.com/yjwen/org-reveal :fetcher github.git
+ox-pukiwiki git git://github.com/yashi/org-pukiwiki 
+ox-reveal git git://github.com/yjwen/org-reveal 
 ox-rst git git://github.com/masayuko/ox-rst.git
-ox-textile git git://github.com/yashi/org-textile :files ox-textile.el.git
+ox-textile git git://github.com/yashi/org-textile 
 ox-tiddly git git://github.com/dfeich/org8-wikiexporters.git
-ox-twbs git git://github.com/marsmining/ox-twbs :fetcher github.git
+ox-twbs git git://github.com/marsmining/ox-twbs 
 ox-twiki git git://github.com/dfeich/org8-wikiexporters.git
 p4 git git://github.com/gareth-rees/p4.el.git
 pabbrev git git://github.com/phillord/pabbrev.git
@@ -1553,7 +1553,7 @@ package-build git git://github.com/milkypostman/melpa.git
 package-filter git git://github.com/milkypostman/package-filter.git
 package-safe-delete git git://github.com/Fanael/package-safe-delete.git
 package-utils git git://github.com/Silex/package-utils.git
-packed git git://github.com/tarsius/packed :fetcher github :files packed.el.git
+packed git git://github.com/tarsius/packed 
 page-break-lines git git://github.com/purcell/page-break-lines.git
 pager git git://github.com/emacsmirror/pager.git
 pager-default-keybindings git git://github.com/nflath/pager-default-keybindings.git
@@ -1561,32 +1561,32 @@ palimpsest git git://github.com/danielsz/Palimpsest  .git
 pallet git git://github.com/rdallasgray/pallet.git
 pandoc-mode git git://github.com/joostkremers/pandoc-mode.git
 pangu-spacing git git://github.com/coldnew/pangu-spacing.git
-paradox git git://github.com/Malabarba/paradox :fetcher github.git
+paradox git git://github.com/Malabarba/paradox 
 paredit-everywhere git git://github.com/purcell/paredit-everywhere.git
 paredit-menu git git://github.com/phillord/phil-emacs-packages.git
-paren-completer git git://github.com/MatthewBregg/paren-completer :fetcher github.git
-parenface git git://github.com/grettke/parenface :files parenface*.el.git
-paren-face git git://github.com/tarsius/paren-face :fetcher github.git
+paren-completer git git://github.com/MatthewBregg/paren-completer 
+parenface git git://github.com/grettke/parenface 
+paren-face git git://github.com/tarsius/paren-face 
 parent-mode git git://github.com/Fanael/parent-mode.git
 parsebib git git://github.com/joostkremers/parsebib.git
-parse-csv git git://github.com/mrc/el-csv :files parse-csv.el.git
+parse-csv git git://github.com/mrc/el-csv 
 pass git git://github.com/NicolasPetton/pass.git
 passthword git git://github.com/pidu/passthword.git
 password-generator git git://github.com/zargener/emacs-password-genarator.git
 password-vault git git://github.com/PuercoPop/password-vault.git
 pastehub git git://github.com/kiyoka/pastehub.git
-pastels-on-dark-theme git git://github.com/1974259 :fetcher github.git
+pastels-on-dark-theme git git://github.com/1974259 
 path-headerline-mode git git://github.com/7696122/path-headerline-mode.git
 paxedit git git://github.com/promethial/paxedit.git
 pbcopy git git://github.com/emacsfodder/pbcopy.el.git
-pcache git git://github.com/sigma/pcache :fetcher github.git
+pcache git git://github.com/sigma/pcache 
 pcmpl-args git git://github.com/JonWaltman/pcmpl-args.el.git
-pcmpl-git git git://github.com/leoliu/pcmpl-git-el :files *.el git-options.git
+pcmpl-git git git://github.com/leoliu/pcmpl-git-el 
 pcmpl-homebrew git git://github.com/kaihaosw/pcmpl-homebrew.git
 pcmpl-pip git git://github.com/kaihaosw/pcmpl-pip.git
 pcomplete-extension git git://github.com/thierryvolpiatto/pcomplete-extension.git
 pcre2el git git://github.com/joddie/pcre2el.git
-pcsv git git://github.com/mhayashi1120/Emacs-pcsv :files pcsv.el.git
+pcsv git git://github.com/mhayashi1120/Emacs-pcsv 
 pdb-mode git git://github.com/sixpi/pdb-mode.git
 pdf-tools git git://github.com/politza/pdf-tools.git
 peacock-theme git git://github.com/emacsfodder/emacs-peacock-theme.git
@@ -1597,45 +1597,45 @@ perl6-mode git git://github.com/hinrik/perl6-mode.git
 perlbrew git git://github.com/kentaro/perlbrew.el.git
 perl-completion git git://github.com/imakado/perl-completion.git
 persistent-scratch git git://github.com/Fanael/persistent-scratch.git
-persistent-soft git git://github.com/rolandwalker/persistent-soft :fetcher github.git
+persistent-soft git git://github.com/rolandwalker/persistent-soft 
 perspective git git://github.com/nex3/perspective-el.git
-persp-mode git git://github.com/Bad-ptr/persp-mode.el :fetcher github.git
+persp-mode git git://github.com/Bad-ptr/persp-mode.el 
 persp-projectile git git://github.com/bbatsov/projectile.git
 pg git git://github.com/cbbrowne/pg.el.git
-pgdevenv git git://github.com/dimitri/pgdevenv-el :fetcher github.git
+pgdevenv git git://github.com/dimitri/pgdevenv-el 
 ph git git://github.com/gromnitsky/ph.git
 phi-autopair git git://github.com/zk-phi/phi-autopair.git
 phi-grep git git://github.com/zk-phi/phi-grep.git
-phi-rectangle git git://github.com/zk-phi/phi-rectangle :files phi-rectangle.el.git
+phi-rectangle git git://github.com/zk-phi/phi-rectangle 
 phi-search git git://github.com/zk-phi/phi-search.git
 phi-search-dired git git://github.com/zk-phi/phi-search-dired.git
-phi-search-mc git git://github.com/knu/phi-search-mc.el :fetcher github.git
+phi-search-mc git git://github.com/knu/phi-search-mc.el 
 phi-search-migemo git git://github.com/zk-phi/phi-search-migemo.git
 phoenix-dark-mono-theme git git://github.com/j0ni/phoenix-dark-mono.git
 phoenix-dark-pink-theme git git://github.com/j0ni/phoenix-dark-pink.git
-php-auto-yasnippets git git://github.com/ejmr/php-auto-yasnippets :files *.el *.php.git
-php-boris git git://github.com/tomterl/php-boris :fetcher github.git
-php-boris-minor-mode git git://github.com/steckerhalter/php-boris-minor-mode :fetcher github.git
+php-auto-yasnippets git git://github.com/ejmr/php-auto-yasnippets 
+php-boris git git://github.com/tomterl/php-boris 
+php-boris-minor-mode git git://github.com/steckerhalter/php-boris-minor-mode 
 phpcbf git git://github.com/nishimaki10/emacs-phpcbf.git
 php-eldoc git git://github.com/sabof/php-eldoc.git
-php-mode git git://github.com/ejmr/php-mode :fetcher github.git
+php-mode git git://github.com/ejmr/php-mode 
 php+-mode git git://github.com/echosa/phpplus-mode.git
 php-refactor-mode git git://github.com/keelerm84/php-refactor-mode.el.git
 phpunit git git://github.com/nlamirault/phpunit.el.git
 pianobar git git://github.com/agrif/pianobar.el.git
 picolisp-mode git git://github.com/flexibeast/picolisp-mode.git
-pig-mode git git://github.com/motus/pig-mode :fetcher github :files pig-mode.el.git
-pig-snippets git git://github.com/motus/pig-mode :fetcher github :files pig-snippets*.el snippets.git
+pig-mode git git://github.com/motus/pig-mode 
+pig-snippets git git://github.com/motus/pig-mode 
 pillar git git://github.com/pillar-markup/pillar-mode.git
 pinboard-api git git://github.com/danieroux/pinboard-api-el.git
 pinot git git://github.com/tkf/emacs-pinot-search.git
-pinyin-search git git://github.com/xuchunyang/pinyin-search.el :fetcher github.git
-pip-requirements git git://github.com/Wilfred/pip-requirements.el :fetcher github.git
+pinyin-search git git://github.com/xuchunyang/pinyin-search.el 
+pip-requirements git git://github.com/Wilfred/pip-requirements.el 
 pivotal-tracker git git://github.com/jxa/pivotal-tracker.git
-pixie-mode git git://github.com/johnwalker/pixie-mode :fetcher github.git
+pixie-mode git git://github.com/johnwalker/pixie-mode 
 pixiv-novel-mode git git://github.com/zonuexe/pixiv-novel-mode.el.git
 pkgbuild-mode git git://github.com/juergenhoetzel/pkgbuild-mode.git
-pkg-info git git://github.com/lunaryorn/pkg-info.el :fetcher github.git
+pkg-info git git://github.com/lunaryorn/pkg-info.el 
 plan9-theme git git://github.com/john2x/plan9-theme.el.git
 planet-theme git git://github.com/cmack/emacs-planet-theme.git
 plantuml-mode git git://github.com/wildsoul/plantuml-mode.git
@@ -1653,27 +1653,27 @@ pophint git git://github.com/aki2o/emacs-pophint.git
 poporg git git://github.com/QBobWatson/poporg.git
 popup git git://github.com/auto-complete/popup-el.git
 popup-complete git git://github.com/syohex/emacs-popup-complete.git
-popup-kill-ring git git://github.com/waymondo/popup-kill-ring :fetcher github.git
+popup-kill-ring git git://github.com/waymondo/popup-kill-ring 
 popup-switcher git git://github.com/kostafey/popup-switcher.git
 popwin git git://github.com/m2ym/popwin-el.git
 portage-navi git git://github.com/kiwanami/emacs-portage-navi.git
 pos-tip git git://github.com/pitkali/pos-tip.git
-pow git git://github.com/yukihr/emacs-pow :fetcher github.git
+pow git git://github.com/yukihr/emacs-pow 
 powerline git git://github.com/milkypostman/powerline.git
 powerline-evil git git://github.com/raugturi/powerline-evil.git
 powershell git git://github.com/jschaf/powershell.el.git
 ppd-sr-speedbar git git://github.com/rdallasgray/ppd-sr-speedbar.git
-preproc-font-lock git git://github.com/Lindydancer/preproc-font-lock :fetcher github.git
+preproc-font-lock git git://github.com/Lindydancer/preproc-font-lock 
 preseed-generic-mode git git://github.com/suntong001/preseed-generic-mode.git
 pretty-mode git git://github.com/akatov/pretty-mode.git
 pretty-sha-path git git://github.com/alezost/pretty-sha-path.el.git
-pretty-symbols git git://github.com/drothlis/pretty-symbols :fetcher github.git
-private git git://github.com/cheunghy/private :fetcher github.git
+pretty-symbols git git://github.com/drothlis/pretty-symbols 
+private git git://github.com/cheunghy/private 
 processing-mode git git://github.com/ptrv/processing2-emacs.git
 processing-snippets git git://github.com/ptrv/processing2-emacs.git
 proc-net git git://github.com/nicferrier/emacs-proc-net.git
 prodigy git git://github.com/rejeep/prodigy.el.git
-professional-theme git git://github.com/juanjux/emacs-professional-theme :fetcher github.git
+professional-theme git git://github.com/juanjux/emacs-professional-theme 
 prognth git git://github.com/Fuco1/prognth.git
 programmer-dvorak git git://github.com/yangchenyun/programmer-dvorak.git
 project-explorer git git://github.com/sabof/project-explorer.git
@@ -1681,7 +1681,7 @@ projectile git git://github.com/bbatsov/projectile.git
 projectile-codesearch git git://github.com/abingham/codesearch.el.git
 projectile-rails git git://github.com/asok/projectile-rails.git
 projectile-speedbar git git://github.com/anshulverma/projectile-speedbar.git
-projector git git://github.com/waymondo/projector.el :fetcher github.git
+projector git git://github.com/waymondo/projector.el 
 project-persist git git://github.com/rdallasgray/project-persist.git
 project-persist-drawer git git://github.com/rdallasgray/project-persist-drawer.git
 projekt git git://github.com/tekai/projekt.git
@@ -1692,13 +1692,13 @@ prosjekt git git://github.com/abingham/prosjekt.git
 psci git git://github.com/ardumont/emacs-psci.git
 psession git git://github.com/thierryvolpiatto/psession.git
 psvn git git://github.com/emacsmirror/psvn.git
-pt git git://github.com/bling/pt.el :fetcher github.git
+pt git git://github.com/bling/pt.el 
 puml-mode git git://github.com/skuro/puml-mode.git
 pungi git git://github.com/mgrbyte/pungi.git
 puppetfile-mode git git://github.com/ssm/elisp.git
 puppet-mode git git://github.com/lunaryorn/puppet-mode.git
 purescript-mode git git://github.com/dysinger/purescript-mode.git
-purple-haze-theme git git://github.com/jasonm23/emacs-purple-haze-theme :fetcher github.git
+purple-haze-theme git git://github.com/jasonm23/emacs-purple-haze-theme 
 purty-mode git git://github.com/hackscience/purty-mode.git
 pushbullet git git://github.com/theanalyst/revolver.git
 px git git://github.com/aaptel/preview-latex.git
@@ -1711,13 +1711,13 @@ py-gnitset git git://github.com/quodlibetor/py-gnitset.git
 py-import-check git git://github.com/psibi/emacs-py-import-check.git
 pyimpsort git git://github.com/emacs-pe/pyimpsort.el.git
 py-isort git git://github.com/paetzke/py-isort.el.git
-py-smart-operator git git://github.com/rmuslimov/py-smart-operator :fetcher github.git
+py-smart-operator git git://github.com/rmuslimov/py-smart-operator 
 pytest git git://github.com/ionrock/pytest-el.git
-py-test git git://github.com/Bogdanp/py-test.el :fetcher github :files py-test.el.git
+py-test git git://github.com/Bogdanp/py-test.el 
 python-cell git git://github.com/thisch/python-cell.el.git
 python-django git git://github.com/fgallina/python-django.el.git
 python-docstring git git://github.com/glyph/python-docstring-mode.git
-python-environment git git://github.com/tkf/emacs-python-environment :fetcher github.git
+python-environment git git://github.com/tkf/emacs-python-environment 
 pythonic git git://github.com/proofit404/pythonic.git
 python-info git git://github.com/Wilfred/python-info.git
 python-x git git://github.com/wavexx/python-x.el.git
@@ -1725,45 +1725,45 @@ pyvenv git git://github.com/jorgenschaefer/pyvenv.git
 py-yapf git git://github.com/paetzke/py-yapf.el.git
 qiita git git://github.com/gongo/qiita-el.git
 qml-mode git git://github.com/coldnew/qml-mode.git
-quack git git://github.com/emacsmirror/quack :fetcher github.git
+quack git git://github.com/emacsmirror/quack 
 quick-buffer-switch git git://github.com/renard/quick-buffer-switch.git
 quickref git git://github.com/pd/quickref.el.git
 quickrun git git://github.com/syohex/emacs-quickrun.git
 racer git git://github.com/phildawes/racer.git
-racket-mode git git://github.com/greghendershott/racket-mode :fetcher github.git
+racket-mode git git://github.com/greghendershott/racket-mode 
 railgun git git://github.com/mbriggs/railgun.el.git
-railscasts-theme git git://github.com/mikenichols/railscasts-theme :fetcher github.git
+railscasts-theme git git://github.com/mikenichols/railscasts-theme 
 rails-log-mode git git://github.com/ananthakumaran/rails-log-mode.git
-rails-new git git://github.com/cheunghy/rails-new :fetcher github.git
+rails-new git git://github.com/cheunghy/rails-new 
 rainbow-blocks git git://github.com/istib/rainbow-blocks.git
 rainbow-delimiters git git://github.com/Fanael/rainbow-delimiters.git
 rainbow-identifiers git git://github.com/Fanael/rainbow-identifiers.git
 rake git git://github.com/asok/rake.git
 random-splash-image git git://github.com/kakakaya/random-splash-image.git
-rase git git://github.com/m00natic/rase :fetcher github.git
+rase git git://github.com/m00natic/rase 
 r-autoyas git git://github.com/mlf176f2/r-autoyas.el.git
-rbenv git git://github.com/senny/rbenv.el :fetcher github.git
-rcirc-alert git git://github.com/csantosb/rcirc-alert :files *.el *.sh :fetcher github.git
+rbenv git git://github.com/senny/rbenv.el 
+rcirc-alert git git://github.com/csantosb/rcirc-alert 
 rcirc-alertify git git://github.com/fgallina/rcirc-alertify.git
-rcirc-color git git://github.com/kensanata/elisp :files rcirc-color.el.git
-rcirc-controls git git://github.com/kensanata/elisp :files rcirc-controls.el.git
+rcirc-color git git://github.com/kensanata/elisp 
+rcirc-controls git git://github.com/kensanata/elisp 
 rcirc-groups git git://github.com/dimitri/rcirc-groups.git
 rcirc-notify git git://github.com/nicferrier/rcirc-notify.git
 rdf-prefix git git://github.com/simenheg/rdf-prefix .git
-rdp git git://github.com/skeeto/rdp :fetcher github.git
+rdp git git://github.com/skeeto/rdp 
 react-snippets git git://github.com/johnmastro/react-snippets.el.git
-readability git git://github.com/ShingoFukuyama/emacs-readability :fetcher github.git
+readability git git://github.com/ShingoFukuyama/emacs-readability 
 readline-complete git git://github.com/monsanto/readline-complete.el.git
 real-auto-save git git://github.com/chillaranand/real-auto-save.git
 realgud git git://github.com/rocky/emacs-dbgr.git
 rebox2 git git://github.com/lewang/rebox2.git
 recompile-on-save git git://github.com/maio/recompile-on-save.el.git
-rect+ git git://github.com/mhayashi1120/Emacs-rectplus :fetcher github.git
+rect+ git git://github.com/mhayashi1120/Emacs-rectplus 
 rectangle-utils git git://github.com/thierryvolpiatto/rectangle-utils.git
 recursive-narrow git git://github.com/nflath/recursive-narrow.git
 redis git git://github.com/emacs-pe/redis.el.git
-redpen-paragraph git git://github.com/karronoli/redpen-paragraph.el :fetcher github.git
-refheap git git://github.com/Raynes/refheap.el :fetcher github.git
+redpen-paragraph git git://github.com/karronoli/redpen-paragraph.el 
+refheap git git://github.com/Raynes/refheap.el 
 regex-dsl git git://github.com/alk/elisp-regex-dsl.git
 regex-tool git git://github.com/jwiegley/regex-tool.git
 region-bindings-mode git git://github.com/fgallina/region-bindings-mode.git
@@ -1772,59 +1772,59 @@ relative-buffers git git://github.com/proofit404/relative-buffers.git
 relative-line-numbers git git://github.com/Fanael/relative-line-numbers.git
 relax git git://github.com/technomancy/relax.el.git
 repeatable-motion git git://github.com/willghatch/emacs-repeatable-motion.git
-repl-toggle git git://github.com/tomterl/repl-toggle :fetcher github.git
+repl-toggle git git://github.com/tomterl/repl-toggle 
 req-package git git://github.com/edvorg/req-package.git
-request git git://github.com/tkf/emacs-request :fetcher github :files request.el.git
-request-deferred git git://github.com/tkf/emacs-request :fetcher github :files request-deferred.el.git
+request git git://github.com/tkf/emacs-request 
+request-deferred git git://github.com/tkf/emacs-request 
 requirejs-mode git git://github.com/ricardmo/requirejs-mode.git
 restclient git git://github.com/pashky/restclient.el.git
 reveal-in-finder git git://github.com/kaz-yos/elisp .git
-reverse-theme git git://github.com/syohex/emacs-reverse-theme :files reverse-theme.el.git
+reverse-theme git git://github.com/syohex/emacs-reverse-theme 
 review-mode git git://github.com/kmuto/review-el.git
 revive git git://github.com/emacsmirror/revive.git
-rhtml-mode git git://github.com/eschulte/rhtml :fetcher github.git
-rich-minority git git://github.com/Malabarba/rich-minority :fetcher github.git
-rinari git git://github.com/eschulte/rinari :fetcher github :files rinari.el.git
+rhtml-mode git git://github.com/eschulte/rhtml 
+rich-minority git git://github.com/Malabarba/rich-minority 
+rinari git git://github.com/eschulte/rinari 
 rings git git://github.com/konr/rings.git
 rnc-mode git git://github.com/TreeRex/rnc-mode.git
-robe git git://github.com/dgutov/robe :fetcher github :files *robe.el lib.git
+robe git git://github.com/dgutov/robe 
 roguel-ike git git://github.com/stevenremot/roguel-ike.git
 rope-read-mode git git://github.com/marcowahl/rope-read-mode.git
 rotate git git://github.com/daic-h/emacs-rotate.git
-roy-mode git git://github.com/folone/roy-mode :fetcher github.git
+roy-mode git git://github.com/folone/roy-mode 
 rpm-spec-mode git git://github.com/bjorlykke/rpm-spec-mode.git
 rpn-calc git git://github.com/zk-phi/rpn-calc.git
 rsense git git://github.com/m2ym/rsense.git
-rspec-mode git git://github.com/pezra/rspec-mode :fetcher github :files rspec-mode.el snippets.git
-rtags git git://github.com/Andersbakken/rtags :files src/*.el.git
+rspec-mode git git://github.com/pezra/rspec-mode 
+rtags git git://github.com/Andersbakken/rtags 
 rubocop git git://github.com/bbatsov/rubocop-emacs.git
 ruby-compilation git git://github.com/eschulte/rinari.git
 ruby-dev git git://github.com/Mon-Ouie/ruby-dev.el.git
-ruby-end git git://github.com/rejeep/ruby-end :fetcher github.git
-ruby-guard git git://github.com/cheunghy/ruby-guard :fetcher github.git
+ruby-end git git://github.com/rejeep/ruby-end 
+ruby-guard git git://github.com/cheunghy/ruby-guard 
 ruby-hash-syntax git git://github.com/purcell/ruby-hash-syntax.git
 ruby-interpolation git git://github.com/leoc/ruby-interpolation.el.git
 ruby-refactor git git://github.com/ajvargo/ruby-refactor.git
 ruby-test-mode git git://github.com/r0man/ruby-test-mode.git
-ruby-tools git git://github.com/rejeep/ruby-tools :fetcher github.git
+ruby-tools git git://github.com/rejeep/ruby-tools 
 runner git git://github.com/thamer/runner.git
 rust-mode git git://github.com/rust-lang/rust-mode.git
-rvm git git://github.com/senny/rvm.el :fetcher github.git
-s git git://github.com/magnars/s.el :files s.el.git
-sackspace git git://github.com/cofi/sackspace.el :fetcher github.git
+rvm git git://github.com/senny/rvm.el 
+s git git://github.com/magnars/s.el 
+sackspace git git://github.com/cofi/sackspace.el 
 sage-shell-mode git git://github.com/stakemori/sage-shell-mode.git
-sane-term git git://github.com/adamrt/sane-term :fetcher github.git
-sass-mode git git://github.com/nex3/sass-mode :fetcher github.git
-sauron git git://github.com/djcb/sauron :fetcher github.git
-save-sexp git git://github.com/tarsius/save-sexp :fetcher github.git
+sane-term git git://github.com/adamrt/sane-term 
+sass-mode git git://github.com/nex3/sass-mode 
+sauron git git://github.com/djcb/sauron 
+save-sexp git git://github.com/tarsius/save-sexp 
 save-visited-files git git://github.com/nflath/save-visited-files.git
 sbt-mode git git://github.com/hvesalai/sbt-mode.git
-s-buffer git git://github.com/nicferrier/emacs-s-buffer :files s-buffer.el.git
+s-buffer git git://github.com/nicferrier/emacs-s-buffer 
 scad-mode git git://github.com/openscad/openscad.git
 scala-mode git git://github.com/scala/scala-tool-support.git
 scala-mode2 git git://github.com/hvesalai/scala-mode2.git
 scala-outline-popup git git://github.com/ancane/scala-outline-popup.git
-scf-mode git git://github.com/lewang/scf-mode :fetcher github.git
+scf-mode git git://github.com/lewang/scf-mode 
 scheme-here git git://github.com/judevc/scheme-here.git
 scion git git://github.com/nominolo/scion.git
 sclang-extensions git git://github.com/chrisbarrett/sclang-extensions.git
@@ -1834,20 +1834,20 @@ scratch-ext git git://github.com/kyanagi/scratch-ext-el.git
 scratch-log git git://github.com/mori-dev/scratch-log.git
 scratch-palette git git://github.com/zk-phi/scratch-palette.git
 scratch-pop git git://github.com/zk-phi/scratch-pop.git
-scss-mode git git://github.com/antonj/scss-mode :fetcher github.git
+scss-mode git git://github.com/antonj/scss-mode 
 searchq git git://github.com/boyw165/searchq.git
-search-web git git://github.com/tomoya/search-web.el :fetcher github.git
+search-web git git://github.com/tomoya/search-web.el 
 seclusion-mode git git://github.com/dleslie/seclusion-mode.git
 seethru git git://github.com/Benaiah/seethru.git
 sekka git git://github.com/kiyoka/sekka.git
 semi git git://github.com/wanderlust/semi .git
-sensitive git git://github.com/timvisher/sensitive.el :fetcher github :files sensitive.el.git
+sensitive git git://github.com/timvisher/sensitive.el 
 sentence-navigation git git://github.com/angelic-sedition/emacs-sentence-navigation.git
 seoul256-theme git git://github.com/ChrisDavison/seoul256.el.git
 seq git git://github.com/NicolasPetton/seq.el.git
-sequences git git://github.com/timvisher/sequences.el :fetcher github :files sequences.el.git
+sequences git git://github.com/timvisher/sequences.el 
 servant git git://github.com/rejeep/servant.el.git
-serverspec git git://github.com/k1LoW/emacs-serverspec :files *.el snippets dict.git
+serverspec git git://github.com/k1LoW/emacs-serverspec 
 session git git://github.com/emacsmirror/session.git
 seti-theme git git://github.com/caisah/seti-theme.git
 shackle git git://github.com/wasamasa/shackle.git
@@ -1858,100 +1858,100 @@ shampoo git git://github.com/dmatveev/shampoo-emacs.git
 shell-current-directory git git://github.com/metaperl/shell-current-directory.git
 shelldoc git git://github.com/mhayashi1120/Emacs-shelldoc.git
 shell-here git git://github.com/ieure/shell-here.git
-shell-pop git git://github.com/kyagi/shell-pop-el :fetcher github.git
-shell-split-string git git://github.com/10sr/shell-split-string-el :fetcher github.git
+shell-pop git git://github.com/kyagi/shell-pop-el 
+shell-split-string git git://github.com/10sr/shell-split-string-el 
 shell-switcher git git://github.com/DamienCassou/shell-switcher.git
 shelltest-mode git git://github.com/rtrn/shelltest-mode.git
-shell-toggle git git://github.com/knu/shell-toggle.el :fetcher github.git
+shell-toggle git git://github.com/knu/shell-toggle.el 
 shift-text git git://github.com/sabof/shift-text.git
 shimbun git git://github.com/emacsmirror/w3m.git
-shm git git://github.com/chrisdone/structured-haskell-mode :files elisp/*.el :exclude shm-test.el shm-tests.el.git
+shm git git://github.com/chrisdone/structured-haskell-mode 
 shoulda git git://github.com/marcwebbie/shoulda.el.git
-show-css git git://github.com/smmcg/showcss-mode :fetcher github :old-names showcss-mode.git
-show-marks git git://github.com/vapniks/show-marks :old-names mark.git
+show-css git git://github.com/smmcg/showcss-mode 
+show-marks git git://github.com/vapniks/show-marks
 shpec-mode git git://github.com/shpec/shpec-mode.git
-shrink-whitespace git git://github.com/jcpetkovich/shrink-whitespace.el :fetcher github.git
+shrink-whitespace git git://github.com/jcpetkovich/shrink-whitespace.el 
 shut-up git git://github.com/cask/shut-up.git
 sicp git git://github.com/webframp/sicp-info.git
 signature git git://github.com/pidu/signature.git
-simp git git://github.com/re5et/simp :fetcher github.git
-simpleclip git git://github.com/rolandwalker/simpleclip :fetcher github.git
+simp git git://github.com/re5et/simp 
+simpleclip git git://github.com/rolandwalker/simpleclip 
 simple-httpd git git://github.com/skeeto/emacs-http-server.git
 simplenote git git://github.com/dotemacs/simplenote.el.git
 simplenote2 git git://github.com/alpha22jp/simplenote2.el.git
-simple-rtm git git://github.com/mbunkus/simple-rtm :files lisp/*.el.git
-simple-screen git git://github.com/wachikun/simple-screen :fetcher github.git
+simple-rtm git git://github.com/mbunkus/simple-rtm 
+simple-screen git git://github.com/wachikun/simple-screen 
 simplezen git git://github.com/magnars/simplezen.el.git
 skeletor git git://github.com/chrisbarrett/skeletor.el.git
 skewer-less git git://github.com/purcell/skewer-less.git
 skewer-mode git git://github.com/skeeto/skewer-mode.git
 skewer-reload-stylesheets git git://github.com/NateEag/skewer-reload-stylesheets.git
-skype git git://github.com/kiwanami/emacs-skype :files*.el *.py.git
+skype git git://github.com/kiwanami/emacs-skype 
 slamhound git git://github.com/technomancy/slamhound.git
 slideview git git://github.com/mhayashi1120/Emacs-slideview.git
 slime git git://github.com/slime/slime.git
-slime-annot git git://github.com/arielnetworks/cl-annot :files misc/*.el.git
+slime-annot git git://github.com/arielnetworks/cl-annot 
 slime-company git git://github.com/anwyn/slime-company .git
 slime-ritz git git://github.com/pallet/ritz.git
 slime-theme git git://github.com/emacsfodder/emacs-slime-theme.git
-slime-volleyball git git://github.com/fitzsim/slime-volleyball :files *.el *.gz *.svg *.b64.git
+slime-volleyball git git://github.com/fitzsim/slime-volleyball 
 slim-mode git git://github.com/slim-template/emacs-slim.git
 slovak-holidays git git://github.com/Fuco1/slovak-holidays.git
 sly git git://github.com/capitaomorte/sly.git
 sly-company git git://github.com/capitaomorte/sly-company .git
 smart-cursor-color git git://github.com/7696122/smart-cursor-color.git
-smart-forward git git://github.com/magnars/smart-forward.el :fetcher github.git
+smart-forward git git://github.com/magnars/smart-forward.el 
 smart-indent-rigidly git git://github.com/re5et/smart-indent-rigidly.git
-smart-mode-line git git://github.com/Malabarba/smart-mode-line :fetcher github.git
-smart-mode-line-powerline-theme git git://github.com/Malabarba/smart-mode-line :fetcher github :files themes/smart-mode-line-powerline-theme.el.git
-smart-newline git git://github.com/ainame/smart-newline.el :fetcher github.git
+smart-mode-line git git://github.com/Malabarba/smart-mode-line 
+smart-mode-line-powerline-theme git git://github.com/Malabarba/smart-mode-line 
+smart-newline git git://github.com/ainame/smart-newline.el 
 smartparens git git://github.com/Fuco1/smartparens.git
 smartrep git git://github.com/myuhe/smartrep.el .git
 smartscan git git://github.com/mickeynp/smart-scan.git
 smart-shift git git://github.com/hbin/smart-shift.git
-smart-tab git git://github.com/genehack/smart-tab :fetcher github.git
+smart-tab git git://github.com/genehack/smart-tab 
 smart-tabs-mode git git://github.com/jcsalomon/smarttabs.git
 smart-window git git://github.com/dryman/smart-window.el.git
 smarty-mode git git://github.com/emacsmirror/smarty-mode.git
-smeargle git git://github.com/syohex/emacs-smeargle :fetcher github.git
-smex git git://github.com/nonsequitur/smex :fetcher github.git
+smeargle git git://github.com/syohex/emacs-smeargle 
+smex git git://github.com/nonsequitur/smex 
 smooth-scroll git git://github.com/k-talo/smooth-scroll.el.git
-smooth-scrolling git git://github.com/aspiers/smooth-scrolling :fetcher github.git
+smooth-scrolling git git://github.com/aspiers/smooth-scrolling 
 smotitah git git://github.com/laynor/smotitah.git
 smtpmail-multi git git://github.com/vapniks/smtpmail-multi.git
 smyx-theme git git://github.com/tacit7/smyx.git
 snakemake-mode git git://github.com/kyleam/snakemake-mode.git
 snapshot-timemachine git git://github.com/mrBliss/snapshot-timemachine.git
 snippet git git://github.com/pkazmier/snippet.el.git
-soft-charcoal-theme git git://github.com/mswift42/soft-charcoal-theme :fetcher github.git
-soft-morning-theme git git://github.com/mswift42/soft-morning-theme :fetcher github.git
-soft-stone-theme git git://github.com/mswift42/soft-stone-theme :fetcher github.git
-solarized-theme git git://github.com/bbatsov/solarized-emacs :fetcher github.git
+soft-charcoal-theme git git://github.com/mswift42/soft-charcoal-theme 
+soft-morning-theme git git://github.com/mswift42/soft-morning-theme 
+soft-stone-theme git git://github.com/mswift42/soft-stone-theme 
+solarized-theme git git://github.com/bbatsov/solarized-emacs 
 solidity-mode git git://github.com/ethereum/emacs-solidity.git
-sonic-pi git git://github.com/repl-electric/sonic-pi.el :fetcher github.git
+sonic-pi git git://github.com/repl-electric/sonic-pi.el 
 soothe-theme git git://github.com/jasonm23/emacs-soothe-theme.git
 sos git git://github.com/omouse/emacs-sos.git
-sotclojure git git://github.com/Malabarba/speed-of-thought-clojure :fetcher github.git
-sotlisp git git://github.com/Malabarba/speed-of-thought-lisp :fetcher github.git
+sotclojure git git://github.com/Malabarba/speed-of-thought-clojure 
+sotlisp git git://github.com/Malabarba/speed-of-thought-lisp 
 soundcloud git git://github.com/tthieman/soundcloud.el.git
 soundklaus git git://github.com/r0man/soundklaus.el.git
-sound-wav git git://github.com/syohex/emacs-sound-wav :fetcher github.git
+sound-wav git git://github.com/syohex/emacs-sound-wav 
 sourcegraph git git://github.com/sourcegraph/emacs-sourcegraph-mode.git
 sourcemap git git://github.com/syohex/emacs-sourcemap.git
 sourcetalk git git://github.com/malroc/sourcetalk_emacs.git
 spacegray-theme git git://github.com/bruce/emacs-spacegray-theme.git
 spacemacs-theme git git://github.com/nashamri/spacemacs-theme.git
-spaces git git://github.com/chumpage/chumpy-windows :fetcher github :files spaces.el.git
+spaces git git://github.com/chumpage/chumpy-windows 
 sparkline git git://github.com/woudshoo/sparkline.git
 sparql-mode git git://github.com/ljos/sparql-mode.git
 speed-type git git://github.com/hagleitn/speed-type.git
 sphinx-doc git git://github.com/naiquevin/sphinx-doc.el.git
 sphinx-frontend git git://github.com/kostafey/sphinx-frontend.git
 splitjoin git git://github.com/syohex/emacs-splitjoin.git
-splitter git git://github.com/chumpage/chumpy-windows :fetcher github :files splitter.el.git
+splitter git git://github.com/chumpage/chumpy-windows 
 spotify git git://github.com/remvee/spotify-el.git
 spray git git://github.com/ian-kelling/spray.git
-springboard git git://github.com/jwiegley/springboard :files springboard.el.git
+springboard git git://github.com/jwiegley/springboard 
 sprintly-mode git git://github.com/sprintly/sprintly-mode.git
 sql-indent git git://github.com/bsvingen/sql-indent.git
 sqlite git git://github.com/cnngimenez/sqlite.el.git
@@ -1964,7 +1964,7 @@ ssh-tunnels git git://github.com/death/ssh-tunnels.git
 standoff-mode git git://github.com/lueck/standoff-mode.git
 stan-mode git git://github.com/stan-dev/stan-mode.git
 stan-snippets git git://github.com/stan-dev/stan-mode.git
-starter-kit git git://github.com/technomancy/emacs-starter-kit :fetcher github.git
+starter-kit git git://github.com/technomancy/emacs-starter-kit 
 starter-kit-bindings git git://github.com/technomancy/emacs-starter-kit.git
 starter-kit-eshell git git://github.com/technomancy/emacs-starter-kit.git
 starter-kit-js git git://github.com/technomancy/emacs-starter-kit.git
@@ -1978,182 +1978,182 @@ stem git git://github.com/yuutayamada/stem.git
 stickyfunc-enhance git git://github.com/tuhdo/semantic-stickyfunc-enhance.git
 stock-ticker git git://github.com/hagleitn/stock-ticker.git
 strie git git://github.com/hackscience/strie.el.git
-string-edit git git://github.com/magnars/string-edit.el :files string-edit.el.git
+string-edit git git://github.com/magnars/string-edit.el 
 string-inflection git git://github.com/akicho8/string-inflection.git
-string-utils git git://github.com/rolandwalker/string-utils :fetcher github.git
+string-utils git git://github.com/rolandwalker/string-utils 
 stripe-buffer git git://github.com/sabof/stripe-buffer.git
 stupid-indent-mode git git://github.com/5487564.git
-stylus-mode git git://github.com/brianc/jade-mode :files stylus-mode.el.git
-subatomic256-theme git git://github.com/d11wtq/subatomic256 :fetcher github.git
-subatomic-theme git git://github.com/cryon/subatomic :fetcher github.git
+stylus-mode git git://github.com/brianc/jade-mode 
+subatomic256-theme git git://github.com/d11wtq/subatomic256 
+subatomic-theme git git://github.com/cryon/subatomic 
 sublime-themes git git://github.com/owainlewis/emacs-color-themes.git
 sublimity git git://github.com/zk-phi/sublimity.git
 subshell-proc git git://github.com/andrewmains12/subshell-proc.git
 sudden-death git git://github.com/yewton/sudden-death.el.git
-sunny-day-theme git git://github.com/mswift42/sunny-day-theme :fetcher github.git
+sunny-day-theme git git://github.com/mswift42/sunny-day-theme 
 sunshine git git://github.com/aaronbieber/sunshine.el.git
 suomalainen-kalenteri git git://github.com/tlikonen/suomalainen-kalenteri.git
 supergenpass git git://github.com/ober/sgpass.git
 svg-mode-line-themes git git://github.com/sabof/svg-mode-line-themes.git
 swap-buffers git git://github.com/ekazakov/swap-buffers.git
-swift-mode git git://github.com/chrisbarrett/swift-mode :fetcher github.git
+swift-mode git git://github.com/chrisbarrett/swift-mode 
 swiper git git://github.com/abo-abo/swiper.git
 swiper-helm git git://github.com/abo-abo/swiper-helm.git
-switch-window git git://github.com/dimitri/switch-window :fetcher github.git
-swoop git git://github.com/ShingoFukuyama/emacs-swoop :fetcher github.git
-sws-mode git git://github.com/brianc/jade-mode :files sws-mode.el.git
+switch-window git git://github.com/dimitri/switch-window 
+swoop git git://github.com/ShingoFukuyama/emacs-swoop 
+sws-mode git git://github.com/brianc/jade-mode 
 sx git git://github.com/vermiculus/sx.el.git
 symon git git://github.com/zk-phi/symon.git
 symon-lingr git git://github.com/zk-phi/symon-lingr.git
 sync-recentf git git://github.com/ffevotte/sync-recentf.git
-synosaurus git git://github.com/rootzlevel/synosaurus :fetcher github.git
-syntactic-sugar git git://github.com/rolandwalker/syntactic-sugar :fetcher github.git
+synosaurus git git://github.com/rootzlevel/synosaurus 
+syntactic-sugar git git://github.com/rolandwalker/syntactic-sugar 
 syslog-mode git git://github.com/vapniks/syslog-mode.git
 systemd git git://github.com/holomorph/systemd-mode.git
-system-specific-settings git git://github.com/DarwinAwardWinner/emacs-system-specific-settings :fetcher github.git
+system-specific-settings git git://github.com/DarwinAwardWinner/emacs-system-specific-settings 
 systemtap-mode git git://github.com/ruediger/systemtap-mode.git
-ta git git://github.com/kuanyui/ta.el :fetcher github.git
+ta git git://github.com/kuanyui/ta.el 
 tabbar git git://github.com/dholm/tabbar.git
 tabbar-ruler git git://github.com/mlf176f2/tabbar-ruler.el.git
-tab-group git git://github.com/tarao/tab-group-el :fetcher github.git
+tab-group git git://github.com/tarao/tab-group-el 
 table git git://github.com/byplayer/table.el.git
 tablist git git://github.com/politza/tablist.git
 tabula-rasa git git://github.com/idomagal/tabula-rasa.git
-tabulated-list git git://github.com/sigma/tabulated-list.el :fetcher github.git
-tagedit git git://github.com/magnars/tagedit :files tagedit.el.git
+tabulated-list git git://github.com/sigma/tabulated-list.el 
+tagedit git git://github.com/magnars/tagedit 
 take-off git git://github.com/tburette/take-off.git
-tango-2-theme git git://github.com/2024464 :fetcher github.git
+tango-2-theme git git://github.com/2024464 
 tango-plus-theme git git://github.com/tmalsburg/tango-plus-theme.git
 tangotango-theme git git://github.com/juba/color-theme-tangotango.git
-tao-theme git git://github.com/11111000000/tao-theme-emacs :fetcher github.git
-tbx2org git git://github.com/istib/tbx2org :fetcher github.git
-tc git git://github.com/kozo2/tc :fetcher github :files.git
-tco git git://github.com/Wilfred/tco.el :fetcher github.git
+tao-theme git git://github.com/11111000000/tao-theme-emacs 
+tbx2org git git://github.com/istib/tbx2org 
+tc git git://github.com/kozo2/tc 
+tco git git://github.com/Wilfred/tco.el 
 tdd-status-mode-line git git://github.com/algernon/tdd-status-mode-line.git
 tea-time git git://github.com/krick/tea-time.git
 telepathy git git://github.com/NicolasPetton/telepathy.el.git
-term+ git git://github.com/tarao/term-plus-el :fetcher github.git
+term+ git git://github.com/tarao/term-plus-el 
 term-alert git git://github.com/CallumCameron/term-alert.git
 term-cmd git git://github.com/CallumCameron/term-cmd.git
-term+key-intercept git git://github.com/tarao/term-plus-ki-el :fetcher github.git
-term+mux git git://github.com/tarao/term-plus-mux-el :fetcher github.git
-term-run git git://github.com/10sr/term-run-el :fetcher github.git
-tern git git://github.com/marijnh/tern :files emacs/tern.el.git
-tern-auto-complete git git://github.com/marijnh/tern :files emacs/tern-auto-complete.el.git
+term+key-intercept git git://github.com/tarao/term-plus-ki-el 
+term+mux git git://github.com/tarao/term-plus-mux-el 
+term-run git git://github.com/10sr/term-run-el 
+tern git git://github.com/marijnh/tern 
+tern-auto-complete git git://github.com/marijnh/tern 
 tern-django git git://github.com/proofit404/tern-django.git
-terraform-mode git git://github.com/syohex/emacs-terraform-mode :fetcher github.git
+terraform-mode git git://github.com/syohex/emacs-terraform-mode 
 test-case-mode git git://github.com/ieure/test-case-mode.git
 test-simple git git://github.com/rocky/emacs-test-simple.git
-textile-mode git git://github.com/emacsmirror/textile-mode :fetcher github.git
-textmate git git://github.com/defunkt/textmate.el :fetcher github.git
-textmate-to-yas git git://github.com/mlf176f2/textmate-to-yas.el :files *.el *.pl.git
+textile-mode git git://github.com/emacsmirror/textile-mode 
+textmate git git://github.com/defunkt/textmate.el 
+textmate-to-yas git git://github.com/mlf176f2/textmate-to-yas.el 
 theme-changer git git://github.com/hadronzoo/theme-changer.git
-theme-looper git git://github.com/myTerminal/theme-looper :fetcher github.git
+theme-looper git git://github.com/myTerminal/theme-looper 
 thingopt git git://github.com/m2ym/thingopt-el.git
 thread-dump git git://github.com/nd/thread-dump.el.git
-thrift git git://github.com/apache/thrift :files contrib/thrift.el.git
+thrift git git://github.com/apache/thrift 
 thumb-through git git://github.com/apgwoz/thumb-through.git
 tide git git://github.com/ananthakumaran/tide.git
-timer-revert git git://github.com/yyr/timer-revert :fetcher github.git
+timer-revert git git://github.com/yyr/timer-revert 
 timesheet git git://github.com/tmarble/timesheet.el.git
-tinkerer git git://github.com/yyr/tinkerer.el :fetcher github.git
+tinkerer git git://github.com/yyr/tinkerer.el 
 tiny git git://github.com/abo-abo/tiny.git
 tinysegmenter git git://github.com/myuhe/tinysegmenter.el.git
-tj-mode git git://github.com/katspaugh/tj-mode :fetcher github.git
+tj-mode git git://github.com/katspaugh/tj-mode 
 toc-org git git://github.com/snosov1/toc-org.git
 todotxt git git://github.com/rpdillon/todotxt.el.git
 todotxt-mode git git://github.com/avillafiorita/todotxt-mode.git
 toggle git git://github.com/zenspider/elisp.git
-toggle-quotes git git://github.com/toctan/toggle-quotes.el :fetcher github.git
-toggle-test git git://github.com/rags/toggle-test :files toggle-test.el.git
+toggle-quotes git git://github.com/toctan/toggle-quotes.el 
+toggle-test git git://github.com/rags/toggle-test 
 toggle-window git git://github.com/deadghost/toggle-window.git
-tomatinho git git://github.com/konr/tomatinho :files tomatinho.el tick.wav tack.wav.git
-toml git git://github.com/gongo/emacs-toml :files toml.el.git
+tomatinho git git://github.com/konr/tomatinho 
+toml git git://github.com/gongo/emacs-toml 
 toml-mode git git://github.com/dryman/toml-mode.el.git
 tommyh-theme git git://github.com/wglass/tommyh-theme.git
 tornado-template-mode git git://github.com/paradoxxxzero/tornado-template-mode.git
 tox git git://github.com/chmouel/tox.el.git
 traad git git://github.com/abingham/traad.git
-traad-autocomplete git git://github.com/abingham/traad :files elisp/autocomplete/*.el.git
-tracking git git://github.com/jorgenschaefer/circe :fetcher github :files tracking.el shorten.el.git
+traad-autocomplete git git://github.com/abingham/traad 
+tracking git git://github.com/jorgenschaefer/circe 
 tracwiki-mode git git://github.com/merickson/tracwiki-mode.git
 tramp-hdfs git git://github.com/raghavgautam/tramp-hdfs.git
 tramp-term git git://github.com/randymorris/tramp-term.el.git
-transpose-mark git git://github.com/attichacker/transpose-mark :fetcher github.git
+transpose-mark git git://github.com/attichacker/transpose-mark 
 travis git git://github.com/nlamirault/emacs-travis.git
 trident-mode git git://github.com/johnmastro/trident-mode.el.git
-tronesque-theme git git://github.com/aurelienbottazini/tronesque :files themes/*.el.git
-truthy git git://github.com/rolandwalker/truthy :fetcher github.git
+tronesque-theme git git://github.com/aurelienbottazini/tronesque 
+truthy git git://github.com/rolandwalker/truthy 
 try git git://github.com/larstvei/Try.git
 tss git git://github.com/aki2o/emacs-tss.git
 tt-mode git git://github.com/davorg/tt-mode.git
-ttrss git git://github.com/pedros/ttrss.el :files ttrss.el.git
+ttrss git git://github.com/pedros/ttrss.el 
 tuareg git git://github.com/ocaml/tuareg.git
 tumble git git://github.com/febuiles/tumble.git
 tumblesocks git git://github.com/gcr/tumblesocks.git
 tup-mode git git://github.com/ejmr/tup-mode.git
 turnip git git://github.com/kljohann/turnip.el.git
-twig-mode git git://github.com/moljac024/twig-mode :fetcher github.git
-twilight-anti-bright-theme git git://github.com/jimeh/twilight-anti-bright-theme :fetcher github.git
-twilight-bright-theme git git://github.com/jimeh/twilight-bright-theme.el :fetcher github.git
-twilight-theme git git://github.com/developernotes/twilight-theme :fetcher github.git
-twittering-mode git git://github.com/hayamiz/twittering-mode :fetcher github.git
+twig-mode git git://github.com/moljac024/twig-mode 
+twilight-anti-bright-theme git git://github.com/jimeh/twilight-anti-bright-theme 
+twilight-bright-theme git git://github.com/jimeh/twilight-bright-theme.el 
+twilight-theme git git://github.com/developernotes/twilight-theme 
+twittering-mode git git://github.com/hayamiz/twittering-mode 
 typed-clojure-mode git git://github.com/typedclojure/typed-clojure-mode.git
 typescript-mode git git://github.com/ananthakumaran/typescript.el.git
 typo git git://github.com/jorgenschaefer/typoel.git
 ubuntu-theme git git://github.com/rocher/ubuntu-theme.git
-ucs-utils git git://github.com/rolandwalker/ucs-utils :fetcher github.git
-ujelly-theme git git://github.com/marktran/color-theme-ujelly :fetcher github.git
-ukrainian-holidays git git://github.com/abo-abo/ukrainian-holidays :fetcher github.git
-uncrustify-mode git git://github.com/koko1000ban/emacs-uncrustify-mode :fetcher github.git
+ucs-utils git git://github.com/rolandwalker/ucs-utils 
+ujelly-theme git git://github.com/marktran/color-theme-ujelly 
+ukrainian-holidays git git://github.com/abo-abo/ukrainian-holidays 
+uncrustify-mode git git://github.com/koko1000ban/emacs-uncrustify-mode 
 undercover git git://github.com/sviridov/undercover.el.git
-underwater-theme git git://github.com/jmdeldin/underwater-theme.el :fetcher github.git
-undohist git git://github.com/m2ym/undohist-el :fetcher github.git
+underwater-theme git git://github.com/jmdeldin/underwater-theme.el 
+undohist git git://github.com/m2ym/undohist-el 
 unfill git git://github.com/purcell/unfill.git
 unicode-emoticons git git://github.com/hagleitn/unicode-emoticons.git
-unicode-enbox git git://github.com/rolandwalker/unicode-enbox :fetcher github.git
-unicode-fonts git git://github.com/rolandwalker/unicode-fonts :fetcher github.git
-unicode-progress-reporter git git://github.com/rolandwalker/unicode-progress-reporter :fetcher github.git
-unicode-whitespace git git://github.com/rolandwalker/unicode-whitespace :fetcher github.git
+unicode-enbox git git://github.com/rolandwalker/unicode-enbox 
+unicode-fonts git git://github.com/rolandwalker/unicode-fonts 
+unicode-progress-reporter git git://github.com/rolandwalker/unicode-progress-reporter 
+unicode-whitespace git git://github.com/rolandwalker/unicode-whitespace 
 unidecode git git://github.com/sindikat/unidecode.git
 unify-opening git git://github.com/DamienCassou/unify-opening.git
 unipoint git git://github.com/apgwoz/unipoint.git
 unison-mode git git://github.com/impaktor/unison-mode.git
 unkillable-scratch git git://github.com/EricCrosson/unkillable-scratch.git
 urlenc git git://github.com/buzztaiki/urlenc-el.git
-url-shortener git git://github.com/yuyang0/url-shortener :fetcher github .git
+url-shortener git git://github.com/yuyang0/url-shortener 
 use-package git git://github.com/jwiegley/use-package.git
-utop git git://github.com/diml/utop :files src/top/utop.el.git
+utop git git://github.com/diml/utop 
 uuid git git://github.com/nicferrier/emacs-uuid.git
 uuidgen git git://github.com/kanru/uuidgen-el.git
 uzumaki git git://github.com/geyslan/uzumaki.git
 vagrant git git://github.com/ottbot/vagrant.el.git
-vagrant-tramp git git://github.com/dougm/vagrant-tramp :fetcher github :files *.el bin.git
+vagrant-tramp git git://github.com/dougm/vagrant-tramp 
 vala-mode git git://github.com/emacsorphanage/vala-mode.git
-vala-snippets git git://github.com/gopar/vala-snippets :fetcher github :files :defaults snippets.git
+vala-snippets git git://github.com/gopar/vala-snippets 
 vbasense git git://github.com/aki2o/emacs-vbasense.git
 vc-auto-commit git git://github.com/thisirs/vc-auto-commit.git
 vc-check-status git git://github.com/thisirs/vc-check-status.git
 vcl-mode git git://github.com/ssm/elisp.git
-vcomp git git://github.com/tarsius/vcomp :fetcher github.git
+vcomp git git://github.com/tarsius/vcomp 
 vc-osc git git://github.com/aspiers/vc-osc.git
-vector-utils git git://github.com/rolandwalker/vector-utils :fetcher github.git
+vector-utils git git://github.com/rolandwalker/vector-utils 
 vertica git git://github.com/r0man/vertica-el.git
 vim-empty-lines-mode git git://github.com/jmickelin/vim-empty-lines-mode.git
-vimgolf git git://github.com/timvisher/vimgolf :fetcher github :files emacs/vimgolf.el.git
+vimgolf git git://github.com/timvisher/vimgolf 
 vimrc-mode git git://github.com/mcandre/vimrc-mode.git
-vim-region git git://github.com/ongaeshi/emacs-vim-region :fetcher github.git
+vim-region git git://github.com/ongaeshi/emacs-vim-region 
 virtualenv git git://github.com/aculich/virtualenv.el.git
 virtualenvwrapper git git://github.com/porterjamesj/virtualenvwrapper.el.git
 visual-ascii-mode git git://github.com/Dewdrops/visual-ascii-mode.git
 visual-fill-column git git://github.com/joostkremers/visual-fill-column.git
-visual-regexp git git://github.com/benma/visual-regexp.el :fetcher github.git
+visual-regexp git git://github.com/benma/visual-regexp.el 
 visual-regexp-steroids git git://github.com/benma/visual-regexp-steroids.el.git
-vi-tilde-fringe git git://github.com/syl20bnr/vi-tilde-fringe :fetcher github.git
+vi-tilde-fringe git git://github.com/syl20bnr/vi-tilde-fringe 
 vkill git git://github.com/emacsmirror/vkill.git
-vlf git git://github.com/m00natic/vlfi :fetcher github.git
+vlf git git://github.com/m00natic/vlfi 
 voca-builder git git://github.com/yitang/voca-builder.git
-volatile-highlights git git://github.com/k-talo/volatile-highlights.el :fetcher github.git
+volatile-highlights git git://github.com/k-talo/volatile-highlights.el 
 volume git git://github.com/dbrock/volume-el.git
 wacspace git git://github.com/shosti/wacspace.el.git
 waher-theme git git://github.com/emacsfodder/emacs-waher-theme.git
@@ -2161,18 +2161,18 @@ wakatime-mode git git://github.com/wakatime/wakatime-mode.git
 wand git git://github.com/cmpitg/wand.git
 wandbox git git://github.com/kosh04/emacs-wandbox.git
 wanderlust git git://github.com/wanderlust/wanderlust .git
-warm-night-theme git git://github.com/mswift42/warm-night-theme :fetcher github.git
+warm-night-theme git git://github.com/mswift42/warm-night-theme 
 watch-buffer git git://github.com/mjsteger/watch-buffer.git
 wavefront-obj-mode git git://github.com/abend/wavefront-obj-mode.git
-wc-goal-mode git git://github.com/bnbeckwith/wc-goal-mode :fetcher github.git
+wc-goal-mode git git://github.com/bnbeckwith/wc-goal-mode 
 wcheck-mode git git://github.com/tlikonen/wcheck-mode.git
 weather-metno git git://github.com/ruediger/weather-metno-el.git
-web git git://github.com/nicferrier/emacs-web :files web.el.git
-web-beautify git git://github.com/yasuyk/web-beautify :fetcher github.git
-web-completion-data git git://github.com/osv/web-completion-data :fetcher github.git
-web-mode git git://github.com/fxbois/web-mode :fetcher github.git
+web git git://github.com/nicferrier/emacs-web 
+web-beautify git git://github.com/yasuyk/web-beautify 
+web-completion-data git git://github.com/osv/web-completion-data 
+web-mode git git://github.com/fxbois/web-mode 
 web-server git git://github.com/eschulte/emacs-web-server.git
-websocket git git://github.com/ahyatt/emacs-websocket :fetcher github.git
+websocket git git://github.com/ahyatt/emacs-websocket 
 wedge-ws git git://github.com/aes/wedge-ws.git
 weechat git git://github.com/the-kenny/weechat.el.git
 weibo git git://github.com/austin-----/weibo.emacs.git
@@ -2184,13 +2184,13 @@ wgrep-pt git git://github.com/mhayashi1120/Emacs-wgrep.git
 which-key git git://github.com/justbur/emacs-which-key.git
 whitespace-cleanup-mode git git://github.com/purcell/whitespace-cleanup-mode.git
 whole-line-or-region git git://github.com/purcell/whole-line-or-region.git
-widget-mvc git git://github.com/kiwanami/emacs-widget-mvc :fetcher github.git
-wiki-nav git git://github.com/rolandwalker/button-lock :fetcher github :files wiki-nav.el.git
+widget-mvc git git://github.com/kiwanami/emacs-widget-mvc 
+wiki-nav git git://github.com/rolandwalker/button-lock 
 wiki-summary git git://github.com/jozefg/wiki-summary.el.git
-window-end-visible git git://github.com/rolandwalker/window-end-visible :fetcher github.git
-window-jump git git://github.com/chumpage/chumpy-windows :fetcher github :files window-jump.el.git
+window-end-visible git git://github.com/rolandwalker/window-end-visible 
+window-jump git git://github.com/chumpage/chumpy-windows 
 window-layout git git://github.com/kiwanami/emacs-window-layout.git
-window-numbering git git://github.com/nschum/window-numbering.el :files window-numbering.el.git
+window-numbering git git://github.com/nschum/window-numbering.el 
 window-purpose git git://github.com/bmag/emacs-purpose.git
 windsize git git://github.com/grammati/windsize.git
 winpoint git git://github.com/jorgenschaefer/winpoint.git
@@ -2198,27 +2198,27 @@ win-switch git git://github.com/genovese/win-switch.git
 wispjs-mode git git://github.com/krisajenkins/wispjs-mode.git
 with-editor git git://github.com/magit/magit.git
 with-namespace git git://github.com/Wilfred/with-namespace.el.git
-wn-mode git git://github.com/luismbo/wn-mode :fetcher github.git
+wn-mode git git://github.com/luismbo/wn-mode 
 wolfram-mode git git://github.com/kawabata/wolfram-mode.git
-wonderland git git://github.com/kurisuwhyte/emacs-wonderland :files source/*.el.git
-wordsmith-mode git git://github.com/istib/wordsmith-mode :fetcher github.git
+wonderland git git://github.com/kurisuwhyte/emacs-wonderland 
+wordsmith-mode git git://github.com/istib/wordsmith-mode 
 worf git git://github.com/abo-abo/worf.git
-workgroups git git://github.com/tlh/workgroups.el :fetcher github.git
+workgroups git git://github.com/tlh/workgroups.el 
 workgroups2 git git://github.com/pashinin/workgroups2.git
 world-time-mode git git://github.com/nicferrier/emacs-world-time-mode.git
-wrap-region git git://github.com/rejeep/wrap-region :fetcher github.git
-writegood-mode git git://github.com/bnbeckwith/writegood-mode :fetcher github.git
+wrap-region git git://github.com/rejeep/wrap-region 
+writegood-mode git git://github.com/bnbeckwith/writegood-mode 
 writeroom-mode git git://github.com/joostkremers/writeroom-mode.git
 ws-butler git git://github.com/lewang/ws-butler.git
 wsd-mode git git://github.com/josteink/wsd-mode.git
 wwtime git git://github.com/ndw/wwtime.git
-xah-elisp-mode git git://github.com/xahlee/xah-elisp-mode :fetcher github.git
-xah-find git git://github.com/xahlee/xah-find :fetcher github.git
-xah-get-thing git git://github.com/xahlee/xah-get-thing-or-selection :fetcher github.git
-xahk-mode git git://github.com/xahlee/xahk-mode.el :fetcher github.git
-xah-lookup git git://github.com/xahlee/lookup-word-on-internet :fetcher github.git
-xah-math-input git git://github.com/xahlee/xah-math-input :fetcher github.git
-xah-replace-pairs git git://github.com/xahlee/xah-replace-pairs :fetcher github.git
+xah-elisp-mode git git://github.com/xahlee/xah-elisp-mode 
+xah-find git git://github.com/xahlee/xah-find 
+xah-get-thing git git://github.com/xahlee/xah-get-thing-or-selection 
+xahk-mode git git://github.com/xahlee/xahk-mode.el 
+xah-lookup git git://github.com/xahlee/lookup-word-on-internet 
+xah-math-input git git://github.com/xahlee/xah-math-input 
+xah-replace-pairs git git://github.com/xahlee/xah-replace-pairs 
 xbm-life git git://github.com/wasamasa/xbm-life.git
 xcscope git git://github.com/dkogan/xcscope.el.git
 x-dict git git://github.com/emacsmirror/x-dict.git
@@ -2228,20 +2228,20 @@ xml-rpc git git://github.com/hexmode/xml-rpc-el.git
 xmlunicode git git://github.com/ndw/xmlunicode.git
 xquery-mode git git://github.com/mblakele/xquery-mode.git
 xresources-theme git git://github.com/CQQL/xresources-theme.git
-xterm-color git git://github.com/atomontage/xterm-color :fetcher github.git
+xterm-color git git://github.com/atomontage/xterm-color 
 xterm-frobs git git://github.com/emacsmirror/xterm-frobs.git
-xterm-keybinder git git://github.com/yuutayamada/xterm-keybinder-el :fetcher github :files *.el xterm-option.git
+xterm-keybinder git git://github.com/yuutayamada/xterm-keybinder-el 
 xterm-title git git://github.com/emacsmirror/xterm-title.git
 xtest git git://github.com/promethial/xtest.git
 yabin git git://github.com/d5884/yabin.git
 yafolding git git://github.com/zenozeng/yafolding.el.git
-yagist git git://github.com/mhayashi1120/yagist.el :fetcher github.git
+yagist git git://github.com/mhayashi1120/yagist.el 
 yalinum git git://github.com/tm8st/emacs-yalinum.git
-yaml-mode git git://github.com/yoshiki/yaml-mode :fetcher github.git
+yaml-mode git git://github.com/yoshiki/yaml-mode 
 yandex-weather git git://github.com/abstractionlayer/yandex-weather.el.git
 yard-mode git git://github.com/pd/yard-mode.el.git
-yari git git://github.com/hron/yari.el :fetcher github.git
-yascroll git git://github.com/m2ym/yascroll-el :fetcher github.git
+yari git git://github.com/hron/yari.el 
+yascroll git git://github.com/m2ym/yascroll-el 
 yasnippet git git://github.com/capitaomorte/yasnippet.git
 yatemplate git git://github.com/mineo/yatemplate.git
 yaxception git git://github.com/aki2o/yaxception.git
@@ -2250,18 +2250,18 @@ ycmd git git://github.com/abingham/emacs-ycmd.git
 yesql-ghosts git git://github.com/magnars/yesql-ghosts.git
 youdao-dictionary git git://github.com/xuchunyang/youdao-dictionary.el.git
 zeal-at-point git git://github.com/jinzhu/zeal-at-point.git
-zen-and-art-theme git git://github.com/developernotes/zen-and-art-theme :fetcher github.git
-zenburn-theme git git://github.com/bbatsov/zenburn-emacs :fetcher github.git
-zencoding-mode git git://github.com/rooney/zencoding :fetcher github.git
+zen-and-art-theme git git://github.com/developernotes/zen-and-art-theme 
+zenburn-theme git git://github.com/bbatsov/zenburn-emacs 
+zencoding-mode git git://github.com/rooney/zencoding 
 zerodark-theme git git://github.com/NicolasPetton/zerodark-theme.git
-zlc git git://github.com/mooz/emacs-zlc :fetcher github.git
+zlc git git://github.com/mooz/emacs-zlc 
 znc git git://github.com/sshirokov/ZNC.el.git
 zombie git git://github.com/zk-phi/zombie.git
 zombie-trellys-mode git git://github.com/david-christiansen/zombie-trellys-mode.git
 zonokai-theme git git://github.com/ZehCnaS34/zonokai-emacs.git
 zoom-window git git://github.com/syohex/emacs-zoom-window.git
 zop-to-char git git://github.com/thierryvolpiatto/zop-to-char.git
-zossima git git://github.com/technomancy/zossima :fetcher github :files *.el *.rb.git
-zotelo git git://github.com/vitoshka/zotelo :fetcher github.git
+zossima git git://github.com/technomancy/zossima 
+zotelo git git://github.com/vitoshka/zotelo 
 ztree git git://github.com/fourier/ztree.git
 zygospore git git://github.com/louiskottmann/zygospore.el.git
