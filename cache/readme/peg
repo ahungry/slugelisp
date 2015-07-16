@@ -1,0 +1,28 @@
+Overview
+--------
+
+  This package implements Parsing Expression Grammars for Emacs Lisp.
+  
+  PEGs are a formalism similar to the classical Context Free Grammars
+  but with some simplifications which makes the implementation of PEGs
+  as top-down parser particularly simple and easy to understand.  PEGs
+  are more expressive than regexps and potentially easier to use.
+  
+  For more details and examples, see the header of peg.el.
+
+Installation
+------------
+
+  The only required file is peg.el.  Just load it into Emacs.
+
+License
+--------
+
+  GNU General Public License, version 3.  (Same license as Emacs.)
+
+Contact
+-------
+
+  Send bug reports and suggested improvements to:
+    http://lists.nongnu.org/mailman/listinfo/emacs-peg-devel
+

@@ -2265,3 +2265,4 @@ zossima git git://github.com/technomancy/zossima
 zotelo git git://github.com/vitoshka/zotelo 
 ztree git git://github.com/fourier/ztree.git
 zygospore git git://github.com/louiskottmann/zygospore.el.git
+slugelisp git git://github.com/ahungry/slugelisp.git
