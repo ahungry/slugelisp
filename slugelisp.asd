@@ -8,7 +8,7 @@
   :author "Matthew Carter"
   :license "AGPLv3"
   :depends-on (:clack
-               :caveman
+               :lack
                :caveman2
                :envy
                :cl-ppcre
